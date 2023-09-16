@@ -1,0 +1,446 @@
+[
+  {
+    "Name": "Nasi Lemak",
+    "Ingredients": [
+      "2 cups jasmine rice",
+      "4 cups coconut milk",
+      "1 pandan leaf, knotted (optional)",
+      "1 cucumber, sliced",
+      "4 boiled eggs, halved",
+      "Anchovies, fried",
+      "Peanuts, fried",
+      "Sambal (chili paste)"
+    ],
+    "Steps": [
+      "Rinse rice until water runs clear. Drain.",
+      "Combine rice, coconut milk, and pandan leaf in a pot. Bring to a boil, then reduce heat to low and cover. Simmer for 15-20 minutes or until rice is cooked.",
+      "Serve with cucumber, boiled eggs, fried anchovies, fried peanuts, and sambal."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Char Kway Teow",
+    "Ingredients": [
+      "400g flat rice noodles",
+      "200g prawns, peeled and deveined",
+      "200g Chinese sausage, sliced",
+      "2 eggs, beaten",
+      "200g bean sprouts",
+      "4 cloves garlic, minced",
+      "2 tablespoons soy sauce",
+      "2 tablespoons oyster sauce",
+      "1 tablespoon chili paste",
+      "1 tablespoon vegetable oil"
+    ],
+    "Steps": [
+      "Soak rice noodles in hot water until softened. Drain and set aside.",
+      "Heat oil in a wok over high heat. Add garlic, prawns, and Chinese sausage. Stir-fry until prawns turn pink.",
+      "Push ingredients to one side of the wok. Pour beaten eggs onto the empty side. Scramble until almost set, then mix with other ingredients.",
+      "Add rice noodles, soy sauce, oyster sauce, and chili paste. Stir-fry until well combined.",
+      "Add bean sprouts and stir-fry for another minute. Serve hot."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Rendang",
+    "Ingredients": [
+      "500g beef, cubed",
+      "400ml coconut milk",
+      "2 stalks lemongrass, bruised",
+      "4 kaffir lime leaves",
+      "2 turmeric leaves (optional)",
+      "1 cinnamon stick",
+      "2 tablespoons tamarind paste",
+      "2 tablespoons vegetable oil",
+      "1 tablespoon grated ginger",
+      "1 tablespoon grated galangal",
+      "6 cloves garlic, minced",
+      "6 dried chilies, soaked and blended",
+      "4 shallots, blended",
+      "1 tablespoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1 teaspoon fennel powder",
+      "Salt, to taste",
+      "Sugar, to taste"
+    ],
+    "Steps": [
+      "Heat oil in a pot. Add blended shallots, garlic, ginger, galangal, and dried chilies. Cook until fragrant.",
+      "Add coriander, cumin, and fennel powders. Stir until well combined.",
+      "Add beef and cook until it changes color.",
+      "Pour in coconut milk, then add lemongrass, kaffir lime leaves, turmeric leaves, cinnamon stick, tamarind paste, salt, and sugar.",
+      "Simmer over low heat for 2-3 hours until the beef is tender and the sauce has thickened.",
+      "Serve with rice."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Hainanese Chicken Rice",
+    "Ingredients": [
+      "1 whole chicken",
+      "2 cups jasmine rice",
+      "4 cups chicken broth",
+      "4 cloves garlic, minced",
+      "2 tablespoons vegetable oil",
+      "1 cucumber, sliced",
+      "Fresh cilantro leaves",
+      "Soy sauce",
+      "Sesame oil",
+      "Ginger paste",
+      "Chili sauce"
+    ],
+    "Steps": [
+      "Rub chicken with salt and rinse. Boil a large pot of water. Submerge the chicken and simmer for about 45 minutes or until cooked. Remove and cool.",
+      "Heat oil in a pan. Add minced garlic and sauté until golden. Add rice and stir until coated with oil.",
+      "Transfer rice to a rice cooker. Add chicken broth and cook.",
+      "Chop the chicken. Serve with rice, cucumber, and cilantro. Offer soy sauce, sesame oil, ginger paste, and chili sauce on the side."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Nasi Goreng",
+    "Ingredients": [
+      "3 cups cooked jasmine rice",
+      "200g prawns, peeled and deveined",
+      "2 eggs, beaten",
+      "1 cup mixed vegetables (e.g., carrots, peas, corn)",
+      "4 cloves garlic, minced",
+      "2 shallots, sliced",
+      "2 tablespoons soy sauce",
+      "1 tablespoon oyster sauce",
+      "1 tablespoon kecap manis",
+      "1 tablespoon vegetable oil",
+      "Sliced cucumber, for garnish",
+      "Fried shallots, for garnish"
+    ],
+    "Steps": [
+      "Heat oil in a wok over high heat. Add prawns and cook until pink. Push to one side.",
+      "Pour beaten eggs onto the empty side. Scramble until almost set, then mix with prawns.",
+      "Add garlic and shallots. Stir-fry until fragrant.",
+      "Add mixed vegetables and stir-fry until tender.",
+      "Add rice, soy sauce, oyster sauce, and kecap manis. Stir-fry until well combined.",
+      "Serve with sliced cucumber and fried shallots on top."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Roti Canai",
+    "Ingredients": [
+      "2 cups all-purpose flour",
+      "1 teaspoon salt",
+      "1 teaspoon condensed milk",
+      "1 cup water",
+      "Ghee or butter, for frying"
+    ],
+    "Steps": [
+      "In a large bowl, mix flour, salt, condensed milk, and water. Knead until dough is smooth. Divide into balls and let rest for 4 hours.",
+      "Grease hands and countertop with ghee. Flatten a dough ball with fingers. Fold and oil again. Repeat until thin.",
+      "Heat ghee in a pan. Fry roti until golden brown on both sides. Drain excess oil and serve with dhal or curry."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Satay",
+    "Ingredients": [
+      "500g chicken or beef, cubed",
+      "1 lemongrass stalk, minced",
+      "4 cloves garlic, minced",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon cumin powder",
+      "1 teaspoon chili powder",
+      "1 tablespoon soy sauce",
+      "1 tablespoon sugar",
+      "Bamboo skewers, soaked in water"
+    ],
+    "Steps": [
+      "In a bowl, combine lemongrass, garlic, turmeric, coriander, cumin, chili powder, soy sauce, and sugar.",
+      "Marinate meat in the mixture for at least 2 hours or overnight.",
+      "Thread onto skewers. Grill until cooked. Serve with peanut sauce and rice cakes."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Mee Goreng",
+    "Ingredients": [
+      "200g egg noodles",
+      "200g prawns, peeled and deveined",
+      "2 eggs, beaten",
+      "1 cup bean sprouts",
+      "4 cloves garlic, minced",
+      "2 tablespoons soy sauce",
+      "1 tablespoon oyster sauce",
+      "1 tablespoon kecap manis",
+      "1 tablespoon vegetable oil",
+      "Lime wedges, for garnish"
+    ],
+    "Steps": [
+      "Cook noodles according to package instructions. Drain and set aside.",
+      "Heat oil in a wok over high heat. Add prawns and cook until pink. Push to one side.",
+      "Pour beaten eggs onto the empty side. Scramble until almost set, then mix with prawns.",
+      "Add garlic, bean sprouts, and cooked noodles. Stir-fry until well combined.",
+      "Add soy sauce, oyster sauce, and kecap manis. Stir-fry until noodles are evenly coated.",
+      "Serve with lime wedges."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Laksa",
+    "Ingredients": [
+      "200g rice vermicelli",
+      "200g prawns, peeled and deveined",
+      "200g chicken, sliced",
+      "1 cup bean sprouts",
+      "4 boiled eggs, halved",
+      "1 lime, cut into wedges",
+      "4 sprigs cilantro, chopped",
+      "4 sprigs mint leaves, torn",
+      "4 sprigs basil leaves, torn",
+      "4 sprigs laksa leaves, torn",
+      "4 cloves garlic, minced",
+      "4 shallots, chopped",
+      "2 teaspoons shrimp paste",
+      "2 teaspoons turmeric powder",
+      "1 teaspoon coriander powder",
+      "1 teaspoon chili powder",
+      "1 teaspoon belacan (dried shrimp paste)",
+      "400ml coconut milk",
+      "1 liter chicken stock",
+      "2 tablespoons vegetable oil"
+    ],
+    "Steps": [
+      "Cook rice vermicelli according to package instructions. Drain and set aside.",
+      "Blend garlic, shallots, shrimp paste, turmeric, coriander, chili powder, and belacan into a paste.",
+      "Heat oil in a pot. Add the paste and cook until fragrant.",
+      "Add chicken and cook until no longer pink. Add prawns and cook until they turn pink.",
+      "Pour in chicken stock and coconut milk. Simmer until heated through.",
+      "Serve over rice vermicelli. Top with bean sprouts, boiled eggs, lime wedges, and herbs."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Murtabak",
+    "Ingredients": [
+      "250g minced beef or chicken",
+      "2 eggs, beaten",
+      "2 onions, sliced",
+      "2 tomatoes, diced",
+      "4 cloves garlic, minced",
+      "4 shallots, minced",
+      "2 teaspoons curry powder",
+      "2 teaspoons garam masala",
+      "1 teaspoon cumin",
+      "1 teaspoon coriander",
+      "1 teaspoon chili powder",
+      "4 sheets of roti canai dough",
+      "Vegetable oil, for frying"
+    ],
+    "Steps": [
+      "In a bowl, combine minced meat, beaten eggs, onions, tomatoes, garlic, shallots, and spices. Mix well.",
+      "Place a portion of the mixture on a sheet of roti canai dough. Fold and seal edges.",
+      "Heat oil in a pan. Fry murtabak until golden brown on both sides. Serve with curry sauce."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Prawn Mee",
+    "Ingredients": [
+      "200g prawns, peeled and deveined",
+      "200g pork ribs",
+      "200g yellow noodles",
+      "200g rice vermicelli",
+      "4 boiled eggs, halved",
+      "Bean sprouts",
+      "Chinese chives",
+      "4 cloves garlic, minced",
+      "4 shallots, chopped",
+      "2 teaspoons shrimp paste",
+      "2 teaspoons white pepper",
+      "1 teaspoon chili paste",
+      "1 teaspoon sugar",
+      "1 teaspoon vegetable oil",
+      "1 liter prawn stock (made from prawn heads and shells)"
+    ],
+    "Steps": [
+      "Blanch pork ribs in boiling water. Rinse and set aside.",
+      "Cook yellow noodles and rice vermicelli according to package instructions. Drain and set aside.",
+      "Blend garlic, shallots, shrimp paste, white pepper, chili paste, and sugar into a paste.",
+      "Heat oil in a pot. Add the paste and cook until fragrant.",
+      "Add pork ribs and prawn stock. Simmer for 30 minutes.",
+      "Add prawns and cook until pink.",
+      "Serve over noodles with boiled eggs, bean sprouts, and Chinese chives."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Rojak",
+    "Ingredients": [
+      "200g mixed fruits (e.g., pineapple, guava, apple)",
+      "100g bean sprouts",
+      "100g tofu, cubed and fried",
+      "100g cucumbers, sliced",
+      "50g peanuts, crushed",
+      "2 tablespoons shrimp paste",
+      "2 tablespoons tamarind paste",
+      "2 tablespoons sugar",
+      "1 tablespoon chili paste",
+      "1 teaspoon belacan (dried shrimp paste)"
+    ],
+    "Steps": [
+      "Cut fruits into bite-sized pieces. Combine with bean sprouts, tofu, and cucumbers.",
+      "Blend shrimp paste, tamarind paste, sugar, chili paste, and belacan into a sauce.",
+      "Toss the sauce with the fruits and vegetables. Top with crushed peanuts."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Ais Kacang",
+    "Ingredients": [
+      "Ice cubes",
+      "Red beans, boiled",
+      "Corn kernels, boiled",
+      "Grass jelly, cubed",
+      "Attap chee (palm fruit), boiled",
+      "Cendol",
+      "Rose syrup",
+      "Sweetened condensed milk"
+    ],
+    "Steps": [
+      "Fill a bowl with ice cubes. Top with red beans, corn kernels, grass jelly, attap chee, and cendol.",
+      "Drizzle with rose syrup and sweetened condensed milk. Serve cold."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Kuih Lapis",
+    "Ingredients": [
+      "200g rice flour",
+      "100g tapioca flour",
+      "800ml coconut milk",
+      "200g sugar",
+      "1/2 teaspoon salt",
+      "Food coloring (various colors)"
+    ],
+    "Steps": [
+      "Grease a baking dish. Steam for 5 minutes. Mix rice flour, tapioca flour, coconut milk, sugar, and salt.",
+      "Divide batter into portions. Add food coloring to each portion.",
+      "Pour a layer of the first color into the dish. Steam for 5 minutes. Repeat with other colors.",
+      "Cool and cut into squares."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Kaya Toast",
+    "Ingredients": [
+      "4 slices of bread",
+      "4 tablespoons kaya (coconut jam)",
+      "2 eggs",
+      "2 tablespoons butter",
+      "2 tablespoons sugar",
+      "1/4 cup evaporated milk",
+      "1/4 cup water"
+    ],
+    "Steps": [
+      "Spread kaya on one side of each bread slice. Press slices together.",
+      "In a bowl, whisk eggs with sugar, evaporated milk, and water.",
+      "Heat butter in a pan. Dip sandwiches in egg mixture. Fry until golden brown.",
+      "Slice and serve."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Pulut Inti",
+    "Ingredients": [
+      "200g glutinous rice",
+      "200ml coconut milk",
+      "100g palm sugar",
+      "1/2 teaspoon salt",
+      "Banana leaves, cut into squares"
+    ],
+    "Steps": [
+      "Rinse rice and soak for 4 hours. Drain.",
+      "Steam rice for 30 minutes. Mix with coconut milk and steam for another 15 minutes.",
+      "In a pan, melt palm sugar with salt. Add the rice mixture and stir until well combined.",
+      "Spoon onto banana leaves and fold into parcels. Serve."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Kerabu Mangga",
+    "Ingredients": [
+      "1 green mango, julienned",
+      "100g dried shrimps, soaked",
+      "4 shallots, sliced",
+      "2 red chilies, sliced",
+      "2 tablespoons fish sauce",
+      "2 tablespoons lime juice",
+      "1 tablespoon sugar",
+      "Mint leaves, for garnish"
+    ],
+    "Steps": [
+      "In a bowl, combine green mango, dried shrimps, shallots, and chilies.",
+      "Mix fish sauce, lime juice, and sugar. Toss with mango mixture.",
+      "Garnish with mint leaves. Serve chilled."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Kerabu Taugeh",
+    "Ingredients": [
+      "200g bean sprouts, blanched",
+      "2 eggs, boiled and sliced",
+      "2 red chilies, sliced",
+      "2 cloves garlic, minced",
+      "2 tablespoons fish sauce",
+      "2 tablespoons lime juice",
+      "1 tablespoon sugar",
+      "Peanuts, crushed",
+      "Mint leaves, for garnish"
+    ],
+    "Steps": [
+      "In a bowl, combine bean sprouts, boiled eggs, red chilies, and garlic.",
+      "Mix fish sauce, lime juice, and sugar. Toss with bean sprout mixture.",
+      "Garnish with crushed peanuts and mint leaves. Serve chilled."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Ayam Percik",
+    "Ingredients": [
+      "1 whole chicken",
+      "1 cup coconut milk",
+      "4 shallots, chopped",
+      "4 cloves garlic, minced",
+      "2 red chilies, sliced",
+      "2 stalks lemongrass, bruised",
+      "2 tablespoons tamarind paste",
+      "2 tablespoons sugar",
+      "1 tablespoon vegetable oil"
+    ],
+    "Steps": [
+      "Blend shallots, garlic, and red chilies. Mix with coconut milk, tamarind paste, and sugar.",
+      "Marinate chicken in the mixture for at least 2 hours or overnight.",
+      "Roast chicken until cooked, basting with marinade. Serve hot."
+    ],
+    "Cuisine": "Malaysian"
+  },
+  {
+    "Name": "Pisang Goreng",
+    "Ingredients": [
+      "4 ripe bananas",
+      "1 cup all-purpose flour",
+      "1/4 cup rice flour",
+      "1/4 cup sugar",
+      "1/4 teaspoon salt",
+      "1/2 cup water",
+      "Vegetable oil, for frying"
+    ],
+    "Steps": [
+      "Peel and slice bananas.",
+      "In a bowl, mix flours, sugar, salt, and water to form a batter.",
+      "Dip banana slices in batter and fry until golden brown.",
+      "Serve hot."
+    ],
+    "Cuisine": "Malaysian"
+  }
+]
+mmy1.json
