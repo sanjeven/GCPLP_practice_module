@@ -1,0 +1,67 @@
+{
+    "author": "tejas",
+    "canonical_url": "https://www.food.com/recipe/singapore-black-pepper-crab-sauce-509498",
+    "category": "Sauces",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1/2 cup oyster sauce",
+                "1/2 cup granulated sugar",
+                "1/2 cup water",
+                "1/2 cup ketjap manis",
+                "1 1/2 tablespoons vegetable oil",
+                "1 tablespoon unsalted butter",
+                "2 teaspoons fresh garlic, minced",
+                "2 green chilies, minced",
+                "2 tablespoons fresh ginger, minced",
+                "4 teaspoons ground black pepper",
+                "1 teaspoon white pepper",
+                "1 teaspoon ground coriander",
+                "2 green onions, finely chopped",
+                "1/4 cup fresh cilantro, roughly chopped"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1/2 cup oyster sauce",
+        "1/2 cup granulated sugar",
+        "1/2 cup water",
+        "1/2 cup ketjap manis",
+        "1 1/2 tablespoons vegetable oil",
+        "1 tablespoon unsalted butter",
+        "2 teaspoons fresh garlic, minced",
+        "2 green chilies, minced",
+        "2 tablespoons fresh ginger, minced",
+        "4 teaspoons ground black pepper",
+        "1 teaspoon white pepper",
+        "1 teaspoon ground coriander",
+        "2 green onions, finely chopped",
+        "1/4 cup fresh cilantro, roughly chopped"
+    ],
+    "instructions": "Combine oyster sauce, sugar, water, and Kecap manis in a bowl.\nHeat the oil and butter in a wok over medium high heat. Add the garlic, chiles, and ginger and cook until fragrant. Add the black pepper, white pepper, coriander, and green onion and stir fry for 30 seconds.\nAdd the oyster sauce mixture to the wok and stir well. Bring to a boil, reduce heat to medium, and simmer for an additional 5 minutes.\nRemove from heat and stir in the fresh cilantro.",
+    "instructions_list": [
+        "Combine oyster sauce, sugar, water, and Kecap manis in a bowl.",
+        "Heat the oil and butter in a wok over medium high heat. Add the garlic, chiles, and ginger and cook until fragrant. Add the black pepper, white pepper, coriander, and green onion and stir fry for 30 seconds.",
+        "Add the oyster sauce mixture to the wok and stir well. Bring to a boil, reduce heat to medium, and simmer for an additional 5 minutes.",
+        "Remove from heat and stir in the fresh cilantro."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "211.2",
+        "fatContent": "8.3",
+        "saturatedFatContent": "2.5",
+        "cholesterolContent": "7.6",
+        "sodiumContent": "1009.6",
+        "carbohydrateContent": "34.9",
+        "fiberContent": "1.7",
+        "sugarContent": "26.4",
+        "proteinContent": "1.6"
+    },
+    "site_name": null,
+    "title": "Singapore Black Pepper Crab Sauce",
+    "total_time": 25,
+    "yields": "2 servings"
+}

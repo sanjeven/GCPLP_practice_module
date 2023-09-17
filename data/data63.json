@@ -1,0 +1,65 @@
+{
+    "author": "mrs.trs",
+    "canonical_url": "https://www.food.com/recipe/fried-singapore-noodles-296584",
+    "category": "Thai",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "6 ounces rice noodles",
+                "2 tablespoons peanut oil",
+                "2 tablespoons chili oil",
+                "1/2 teaspoon salt",
+                "3/4 cup prawns (cooked)",
+                "6 ounces pork (cooked & cut into matchsticks)",
+                "1 bell pepper (seeded and cut into mtchsticks)",
+                "1/2 teaspoon sugar",
+                "2 teaspoons curry powder",
+                "3 teaspoons dark soy sauce"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "6 ounces rice noodles",
+        "2 tablespoons peanut oil",
+        "2 tablespoons chili oil",
+        "1/2 teaspoon salt",
+        "3/4 cup prawns (cooked)",
+        "6 ounces pork (cooked & cut into matchsticks)",
+        "1 bell pepper (seeded and cut into mtchsticks)",
+        "1/2 teaspoon sugar",
+        "2 teaspoons curry powder",
+        "3 teaspoons dark soy sauce"
+    ],
+    "instructions": "Soak rice noodles in water for about 13mins.\nDrain well & pat dry with paper towel.\nHeat wok or large skillet, then add half oil (1TBS of each).\nWhen oil is hot add the noodles and salt.\nStir-fry for 4mins.\nTransfer to a warm serving dish and keep warm.\nHeat remaining oil & add the prawn, pork, pepper, sugar, & curry powder.\nStir fry for 1 minute.\nReturn the noodles to the pan & stir fry with the Thai fishcakes for 2 minutes.\nStir in the soy sauce & serve immediately.",
+    "instructions_list": [
+        "Soak rice noodles in water for about 13mins.",
+        "Drain well & pat dry with paper towel.",
+        "Heat wok or large skillet, then add half oil (1TBS of each).",
+        "When oil is hot add the noodles and salt.",
+        "Stir-fry for 4mins.",
+        "Transfer to a warm serving dish and keep warm.",
+        "Heat remaining oil & add the prawn, pork, pepper, sugar, & curry powder.",
+        "Stir fry for 1 minute.",
+        "Return the noodles to the pan & stir fry with the Thai fishcakes for 2 minutes.",
+        "Stir in the soy sauce & serve immediately."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "318.5",
+        "fatContent": "11.3",
+        "saturatedFatContent": "2.7",
+        "cholesterolContent": "36.5",
+        "sodiumContent": "647.2",
+        "carbohydrateContent": "38.1",
+        "fiberContent": "1.6",
+        "sugarContent": "1.3",
+        "proteinContent": "14.8"
+    },
+    "site_name": null,
+    "title": "Fried Singapore Noodles",
+    "total_time": 30,
+    "yields": "4 servings"
+}

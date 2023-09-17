@@ -1,0 +1,66 @@
+{
+    "author": "911spatcher",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-357282",
+    "category": "Asian",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb dry vermicelli",
+                "2 boneless skinless chicken breasts, cut into strips",
+                "2 pork chops, thinly sliced",
+                "2 garlic cloves, crushed",
+                "3 tablespoons vegetable oil",
+                "1/2 onion, thinly sliced",
+                "2 carrots, thinly sliced",
+                "2 stalks celery, thinly sliced",
+                "6 ounces frozen shrimp, thawed",
+                "1 cup bean sprouts",
+                "2 tablespoons soy sauce",
+                "3 tablespoons curry powder",
+                "1/4 cup water"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb dry vermicelli",
+        "2 boneless skinless chicken breasts, cut into strips",
+        "2 pork chops, thinly sliced",
+        "2 garlic cloves, crushed",
+        "3 tablespoons vegetable oil",
+        "1/2 onion, thinly sliced",
+        "2 carrots, thinly sliced",
+        "2 stalks celery, thinly sliced",
+        "6 ounces frozen shrimp, thawed",
+        "1 cup bean sprouts",
+        "2 tablespoons soy sauce",
+        "3 tablespoons curry powder",
+        "1/4 cup water"
+    ],
+    "instructions": "1. Bring a large pot of salted water to a boil. Add pasta and cook for 8-10 minutes or until al dente. Drain.\n2. In a deep skillet brown, chicken, pork and garlic in the oil over medium heat.\n3. Reduce head to medium low and add the onion, carrots and water. Cover and steam for 5 minutes, stir in the celery and shrimp. Cover and steam for 2 minutes.\n4. Mix in the bean sprouts, the curry powder and soy sauce. Stir together until blended and hot 4-5 minutes. Toss with the noodles.\n5. Serve with hot pepper sauce and soy sauce.",
+    "instructions_list": [
+        "1. Bring a large pot of salted water to a boil. Add pasta and cook for 8-10 minutes or until al dente. Drain.",
+        "2. In a deep skillet brown, chicken, pork and garlic in the oil over medium heat.",
+        "3. Reduce head to medium low and add the onion, carrots and water. Cover and steam for 5 minutes, stir in the celery and shrimp. Cover and steam for 2 minutes.",
+        "4. Mix in the bean sprouts, the curry powder and soy sauce. Stir together until blended and hot 4-5 minutes. Toss with the noodles.",
+        "5. Serve with hot pepper sauce and soy sauce."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "390.9",
+        "fatContent": "10.5",
+        "saturatedFatContent": "2.3",
+        "cholesterolContent": "77.3",
+        "sodiumContent": "358.8",
+        "carbohydrateContent": "47.4",
+        "fiberContent": "3.6",
+        "sugarContent": "2.9",
+        "proteinContent": "25.8"
+    },
+    "site_name": null,
+    "title": "Singapore Noodles",
+    "total_time": 30,
+    "yields": "8 servings"
+}

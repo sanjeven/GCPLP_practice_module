@@ -1,0 +1,58 @@
+{
+    "author": "KitchenManiac",
+    "canonical_url": "https://www.food.com/recipe/homemade-singapore-chilli-sauce-62472",
+    "category": "Sauces",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "120 g red chilies",
+                "60 g shallots or 60 g onions, peeled",
+                "60 g garlic, peeled",
+                "60 g fresh young ginger",
+                "12 tablespoons lemon juice",
+                "2 teaspoons rice vinegar",
+                "4 teaspoons sugar",
+                "2 teaspoons salt",
+                "1 cup boiling chicken stock"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "120 g red chilies",
+        "60 g shallots or 60 g onions, peeled",
+        "60 g garlic, peeled",
+        "60 g fresh young ginger",
+        "12 tablespoons lemon juice",
+        "2 teaspoons rice vinegar",
+        "4 teaspoons sugar",
+        "2 teaspoons salt",
+        "1 cup boiling chicken stock"
+    ],
+    "instructions": "Grind chillies, shallots, garlic and ginger till semi-fine.\nPut paste into a bowl and add boiling chicken stock.\nStir well before adding lemon juice, vinegar, sugar and salt.\nLeave it for at least 1 hour to pickle before serving.",
+    "instructions_list": [
+        "Grind chillies, shallots, garlic and ginger till semi-fine.",
+        "Put paste into a bowl and add boiling chicken stock.",
+        "Stir well before adding lemon juice, vinegar, sugar and salt.",
+        "Leave it for at least 1 hour to pickle before serving."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "586",
+        "fatContent": "7.3",
+        "saturatedFatContent": "2",
+        "cholesterolContent": "7.2",
+        "sodiumContent": "5043.4",
+        "carbohydrateContent": "124",
+        "fiberContent": "11.3",
+        "sugarContent": "34",
+        "proteinContent": "19.8"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Homemade Singapore Chilli Sauce",
+    "total_time": 5,
+    "yields": "1 serving"
+}

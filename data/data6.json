@@ -1,0 +1,76 @@
+{
+    "author": "duonyte",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-462300",
+    "category": "Curries",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/46/23/00/picwhgfp7.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "8 ounces thin rice stick noodles (vermicelli)",
+                "1/2 cup low sodium chicken broth",
+                "1 tablespoon soy sauce (to taste)",
+                "1 tablespoon rice wine or 1 tablespoon dry sherry",
+                "3 tablespoons peanut oil or 3 tablespoons vegetable oil",
+                "1 tablespoon minced garlic",
+                "1 tablespoon minced ginger",
+                "1/4 teaspoon red pepper flakes",
+                "4 ounces small shrimp, peeled and deveined",
+                "1 cup thinly sliced green bell pepper",
+                "1 tablespoon curry powder",
+                "1/4 teaspoon salt, I omit",
+                "3/4 teaspoon sugar",
+                "1/8 teaspoon fresh ground black pepper",
+                "4 ounces barbecued pork, julienned (about 1 cup)",
+                "1 cup finely shredded scallion"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "8 ounces thin rice stick noodles (vermicelli)",
+        "1/2 cup low sodium chicken broth",
+        "1 tablespoon soy sauce (to taste)",
+        "1 tablespoon rice wine or 1 tablespoon dry sherry",
+        "3 tablespoons peanut oil or 3 tablespoons vegetable oil",
+        "1 tablespoon minced garlic",
+        "1 tablespoon minced ginger",
+        "1/4 teaspoon red pepper flakes",
+        "4 ounces small shrimp, peeled and deveined",
+        "1 cup thinly sliced green bell pepper",
+        "1 tablespoon curry powder",
+        "1/4 teaspoon salt, I omit",
+        "3/4 teaspoon sugar",
+        "1/8 teaspoon fresh ground black pepper",
+        "4 ounces barbecued pork, julienned (about 1 cup)",
+        "1 cup finely shredded scallion"
+    ],
+    "instructions": "Soak the noodles in a large pan or bowl with enough warm water to cover for 20 minutes or until they are soft and pliable. Drain in a colander, shaking well to remove excess water. Using kitchen shears, roughly cut the noodles into 6 to 8 inch long pieces.\nIn a small bowl, combine the broth, soy sauce and rice wine.\nHeat a 14 in wok over high heat until a bead of water vaporizes within 1 to 2 seconds of contact. Swirl in 1 tbl of the oil, add the garlic, ginger, and pepper flakes, then, using a spatula, stir-fry 10 seconds or until the aromatics are fragrant.\nAdd the shrimp and stir-fry 1 minute or until the shrimp have just turned pink/orange but are not cooked through. Transfer the shrimp to a plate.\nSwirl the remaining 2 tbl oil into the wok, add the bell peppers and stir fry 30 seconds or until the peppers are bright green. Add the curry powder and stir-fry 5 seconds or until the curry is fragrant.\nSwirl the broth mixture into the wok, add the drained noodles, and stir-fry until they are completely coated in the curry mixture. Sprinkle on the salt,, sugar, and pepper and stir-fry 1 to 2 minutes, or until the noodles are just tender.\nAdd the shrimp and pork and stir-fry 1 to 2 minutes or until the shrimp are just cooked through and all the liquid has been absorbed by the noodles.\nStir in the scallions and serve.",
+    "instructions_list": [
+        "Soak the noodles in a large pan or bowl with enough warm water to cover for 20 minutes or until they are soft and pliable. Drain in a colander, shaking well to remove excess water. Using kitchen shears, roughly cut the noodles into 6 to 8 inch long pieces.",
+        "In a small bowl, combine the broth, soy sauce and rice wine.",
+        "Heat a 14 in wok over high heat until a bead of water vaporizes within 1 to 2 seconds of contact. Swirl in 1 tbl of the oil, add the garlic, ginger, and pepper flakes, then, using a spatula, stir-fry 10 seconds or until the aromatics are fragrant.",
+        "Add the shrimp and stir-fry 1 minute or until the shrimp have just turned pink/orange but are not cooked through. Transfer the shrimp to a plate.",
+        "Swirl the remaining 2 tbl oil into the wok, add the bell peppers and stir fry 30 seconds or until the peppers are bright green. Add the curry powder and stir-fry 5 seconds or until the curry is fragrant.",
+        "Swirl the broth mixture into the wok, add the drained noodles, and stir-fry until they are completely coated in the curry mixture. Sprinkle on the salt,, sugar, and pepper and stir-fry 1 to 2 minutes, or until the noodles are just tender.",
+        "Add the shrimp and pork and stir-fry 1 to 2 minutes or until the shrimp are just cooked through and all the liquid has been absorbed by the noodles.",
+        "Stir in the scallions and serve."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "880.7",
+        "fatContent": "35.4",
+        "saturatedFatContent": "8.2",
+        "cholesterolContent": "214.6",
+        "sodiumContent": "1205.7",
+        "carbohydrateContent": "96",
+        "fiberContent": "7.7",
+        "sugarContent": "7.1",
+        "proteinContent": "43.9"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Noodles",
+    "total_time": 50,
+    "yields": "3 servings"
+}

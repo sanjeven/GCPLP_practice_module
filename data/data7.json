@@ -1,0 +1,54 @@
+{
+    "author": "ncmysteryshopper",
+    "canonical_url": "https://www.food.com/recipe/singapore-sling-149661",
+    "category": "Beverages",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/14/96/61/picBE35sk.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "6 tablespoons pineapple juice",
+                "2 tablespoons gin",
+                "2 tablespoons fresh lime juice",
+                "1 tablespoon cherry heering",
+                "1 tablespoon grenadine",
+                "1/2 tablespoon benedictine",
+                "2 dashes triple sec or 2 dashes Grand Marnier",
+                "3 dashes Angostura bitters"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "6 tablespoons pineapple juice",
+        "2 tablespoons gin",
+        "2 tablespoons fresh lime juice",
+        "1 tablespoon cherry heering",
+        "1 tablespoon grenadine",
+        "1/2 tablespoon benedictine",
+        "2 dashes triple sec or 2 dashes Grand Marnier",
+        "3 dashes Angostura bitters"
+    ],
+    "instructions": "Fill a shaker with ice.\nAdd ingredients to shaker and shake for about 1 minute. Strain over ice into a tall glass.",
+    "instructions_list": [
+        "Fill a shaker with ice.",
+        "Add ingredients to shaker and shake for about 1 minute. Strain over ice into a tall glass."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "181.4",
+        "fatContent": "0.1",
+        "saturatedFatContent": "0",
+        "cholesterolContent": "0",
+        "sodiumContent": "8.4",
+        "carbohydrateContent": "27.7",
+        "fiberContent": "0.3",
+        "sugarContent": "19",
+        "proteinContent": "0.5"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Sling",
+    "total_time": 5,
+    "yields": "1 serving"
+}

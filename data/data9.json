@@ -1,0 +1,83 @@
+{
+    "author": "The Flying Chef",
+    "canonical_url": "https://www.food.com/recipe/szechuan-chicken-skewers-with-singapore-cole-slaw-258892",
+    "category": "Chicken Breast",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/25/88/92/picsuxtUx.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 kg chicken breast, cut into 1 inch pieces",
+                "3 tablespoons hoisin sauce (I use Blue Dragon brand, you can buy hoisin in most supermarkets or Asian grocery stores.)",
+                "2 teaspoons ketchup",
+                "2 garlic cloves",
+                "2 teaspoons soy sauce",
+                "1 1/2 teaspoons Chinese chili sauce",
+                "1 tablespoon rice wine vinegar",
+                "2 tablespoons sherry wine",
+                "1 1/2 teaspoons sesame oil",
+                "2 cups green cabbage, sliced thinly",
+                "2 cups red cabbage, sliced thinly",
+                "1 cup carrot, shredded",
+                "1 small red pepper, sliced thinly",
+                "3 tablespoons lime juice",
+                "2 teaspoons sugar",
+                "3 tablespoons soy sauce",
+                "1 1/2 teaspoons chinese chile sauce with garlic",
+                "3/4 tablespoon curry powder",
+                "2 1/2 tablespoons honey"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 kg chicken breast, cut into 1 inch pieces",
+        "3 tablespoons hoisin sauce (I use Blue Dragon brand, you can buy hoisin in most supermarkets or Asian grocery stores.)",
+        "2 teaspoons ketchup",
+        "2 garlic cloves",
+        "2 teaspoons soy sauce",
+        "1 1/2 teaspoons Chinese chili sauce",
+        "1 tablespoon rice wine vinegar",
+        "2 tablespoons sherry wine",
+        "1 1/2 teaspoons sesame oil",
+        "2 cups green cabbage, sliced thinly",
+        "2 cups red cabbage, sliced thinly",
+        "1 cup carrot, shredded",
+        "1 small red pepper, sliced thinly",
+        "3 tablespoons lime juice",
+        "2 teaspoons sugar",
+        "3 tablespoons soy sauce",
+        "1 1/2 teaspoons chinese chile sauce with garlic",
+        "3/4 tablespoon curry powder",
+        "2 1/2 tablespoons honey"
+    ],
+    "instructions": "prep time does not include marinating time.\nFor the chicken.\nIn a large bowl, storage container or Ziploc bag combine all the marinade ingredients, add chicken and refrigerate for several hours or overnight.\nThread chicken onto water soaked wooden skewers or metal skewers. Reserve marinade.\nTo cook, either grill on BBQ or under the grill about 4-6 inches from heat for 8-10 Min's a side or until chicken is cooked through . Baste several times with reserved marinade.\nFor the Singapore slaw.\nCombine lime juice, sugar, soy sauce, chili sauce, curry powder and honey in a jar, shake to combine. Place jar in fridge for several hours or overnight.\nCombine both cabbages, carrots and peppers in a large bowl. Pour dressing over and toss. You may not need to use all the dressing (don't drown it).\nTo serve, place slaw on a plate and top with skewers.",
+    "instructions_list": [
+        "prep time does not include marinating time.",
+        "For the chicken.",
+        "In a large bowl, storage container or Ziploc bag combine all the marinade ingredients, add chicken and refrigerate for several hours or overnight.",
+        "Thread chicken onto water soaked wooden skewers or metal skewers. Reserve marinade.",
+        "To cook, either grill on BBQ or under the grill about 4-6 inches from heat for 8-10 Min's a side or until chicken is cooked through . Baste several times with reserved marinade.",
+        "For the Singapore slaw.",
+        "Combine lime juice, sugar, soy sauce, chili sauce, curry powder and honey in a jar, shake to combine. Place jar in fridge for several hours or overnight.",
+        "Combine both cabbages, carrots and peppers in a large bowl. Pour dressing over and toss. You may not need to use all the dressing (don't drown it).",
+        "To serve, place slaw on a plate and top with skewers."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "609.7",
+        "fatContent": "25.6",
+        "saturatedFatContent": "7",
+        "cholesterolContent": "160.4",
+        "sodiumContent": "1342.5",
+        "carbohydrateContent": "31.7",
+        "fiberContent": "3.9",
+        "sugarContent": "22.3",
+        "proteinContent": "56.1"
+    },
+    "ratings": 4.5,
+    "site_name": null,
+    "title": "Szechuan Chicken Skewers With Singapore Cole Slaw",
+    "total_time": 15,
+    "yields": "4 servings"
+}

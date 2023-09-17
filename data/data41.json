@@ -1,0 +1,50 @@
+{
+    "author": "ratherbeswimmin",
+    "canonical_url": "https://www.food.com/recipe/singapore-sling-116563",
+    "category": "Beverages",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 1/3 ounces gin",
+                "2/3 ounce cherry brandy",
+                "1/2 ounce fresh squeezed lemon juice",
+                "club soda"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 1/3 ounces gin",
+        "2/3 ounce cherry brandy",
+        "1/2 ounce fresh squeezed lemon juice",
+        "club soda"
+    ],
+    "instructions": "Add the first 3 ingredients to a cocktail shaker filled with ice.\nShake vigorously.\nStrain into a highball glass filled with ice.\nTop up with soda.\nStir gently.\nGarnish with a lemon slice and maraschino cherry.",
+    "instructions_list": [
+        "Add the first 3 ingredients to a cocktail shaker filled with ice.",
+        "Shake vigorously.",
+        "Strain into a highball glass filled with ice.",
+        "Top up with soda.",
+        "Stir gently.",
+        "Garnish with a lemon slice and maraschino cherry."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "103.7",
+        "fatContent": "0",
+        "saturatedFatContent": "0",
+        "cholesterolContent": "0",
+        "sodiumContent": "0.9",
+        "carbohydrateContent": "1.2",
+        "fiberContent": "0.1",
+        "sugarContent": "0.3",
+        "proteinContent": "0.1"
+    },
+    "ratings": 1.0,
+    "site_name": null,
+    "title": "Singapore Sling",
+    "total_time": 5,
+    "yields": "1 serving"
+}

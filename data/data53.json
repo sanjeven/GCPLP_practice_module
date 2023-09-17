@@ -1,0 +1,54 @@
+{
+    "author": "Chef Ripple",
+    "canonical_url": "https://www.food.com/recipe/singapore-sling-459048",
+    "category": "Beverages",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 1/2 ounces cherry brandy",
+                "1/2 ounce grenadine",
+                "1 ounce plymouth gin",
+                "2 1/2 ounces soda water",
+                "1 ounce sour mix",
+                "maraschino berries",
+                "pineapple"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 1/2 ounces cherry brandy",
+        "1/2 ounce grenadine",
+        "1 ounce plymouth gin",
+        "2 1/2 ounces soda water",
+        "1 ounce sour mix",
+        "maraschino berries",
+        "pineapple"
+    ],
+    "instructions": "Fill a glass to the rim with ice cubes.\nPour cherry brandy, grenadine, plymouth gin, soda water and sour mix into a shaker.\nFill the shaker with ice cubes and shake it until the shaker is very cold.\nStrain into glass.\nGarnish with a cocktail umbrella , a whole maraschino berry, a slice pineapple, a pineapple leaf, a pineapple spear, and one straw.",
+    "instructions_list": [
+        "Fill a glass to the rim with ice cubes.",
+        "Pour cherry brandy, grenadine, plymouth gin, soda water and sour mix into a shaker.",
+        "Fill the shaker with ice cubes and shake it until the shaker is very cold.",
+        "Strain into glass.",
+        "Garnish with a cocktail umbrella , a whole maraschino berry, a slice pineapple, a pineapple leaf, a pineapple spear, and one straw."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "113.1",
+        "fatContent": "0",
+        "saturatedFatContent": "0",
+        "cholesterolContent": "0",
+        "sodiumContent": "19.4",
+        "carbohydrateContent": "9.5",
+        "fiberContent": "0",
+        "sugarContent": "6.6",
+        "proteinContent": "0"
+    },
+    "site_name": null,
+    "title": "Singapore Sling",
+    "total_time": 5,
+    "yields": "1 serving"
+}

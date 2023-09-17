@@ -1,0 +1,48 @@
+{
+    "author": "meredith thorson",
+    "canonical_url": "https://www.food.com/recipe/singapore-sling-10935",
+    "category": "Beverages",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 1/2 ounces gin",
+                "1/2 ounce cherry brandy",
+                "1/2 ounce lemon juice",
+                "sour mix",
+                "soda water"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 1/2 ounces gin",
+        "1/2 ounce cherry brandy",
+        "1/2 ounce lemon juice",
+        "sour mix",
+        "soda water"
+    ],
+    "instructions": "Add ingredients to a 10 oz.\nglass filled w/ ice.\nShake lightly (don't want the soda water to fizz too much, but the cherry brandy is thick and will settle at the bottom if not shaken) Garnish with an orange cherry flag.",
+    "instructions_list": [
+        "Add ingredients to a 10 oz.",
+        "glass filled w/ ice.",
+        "Shake lightly (don't want the soda water to fizz too much, but the cherry brandy is thick and will settle at the bottom if not shaken) Garnish with an orange cherry flag."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "116.3",
+        "fatContent": "0",
+        "saturatedFatContent": "0",
+        "cholesterolContent": "0",
+        "sodiumContent": "1",
+        "carbohydrateContent": "1.2",
+        "fiberContent": "0.1",
+        "sugarContent": "0.3",
+        "proteinContent": "0.1"
+    },
+    "site_name": null,
+    "title": "Singapore Sling",
+    "total_time": 2,
+    "yields": "1 serving"
+}

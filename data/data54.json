@@ -1,0 +1,51 @@
+{
+    "author": "Chef GreanEyes",
+    "canonical_url": "https://www.food.com/recipe/singapore-chicken-wings-446549",
+    "category": "Chicken",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "2/3 cup soy sauce or 2/3 cup tamari",
+                "1/4 cup light brown sugar",
+                "1 tablespoon honey",
+                "1 teaspoon garlic powder",
+                "1 teaspoon dry mustard",
+                "12 chicken wings, divided into wings and drumetts"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "2/3 cup soy sauce or 2/3 cup tamari",
+        "1/4 cup light brown sugar",
+        "1 tablespoon honey",
+        "1 teaspoon garlic powder",
+        "1 teaspoon dry mustard",
+        "12 chicken wings, divided into wings and drumetts"
+    ],
+    "instructions": "in a large bowl, combine soy sauce, sugar, honey, garlic powder and dry mustard. add wings and toss to coat in marinade. cover, refrigerate for at least 1 hour.\npreheat oven to 400*.\nremove wings from marinade and divide on 2 greased bakings sheets and bake 30 minutes.\nmeanwhile, boil marinade in a saucepan over med-high heat until syrupy. remove wings from oven; reduce oven to 350. baste wings all over with reduced marinade. return wings to oven bake until glazed and a little crispy, about 30 minutes more. serve.",
+    "instructions_list": [
+        "in a large bowl, combine soy sauce, sugar, honey, garlic powder and dry mustard. add wings and toss to coat in marinade. cover, refrigerate for at least 1 hour.",
+        "preheat oven to 400*.",
+        "remove wings from marinade and divide on 2 greased bakings sheets and bake 30 minutes.",
+        "meanwhile, boil marinade in a saucepan over med-high heat until syrupy. remove wings from oven; reduce oven to 350. baste wings all over with reduced marinade. return wings to oven bake until glazed and a little crispy, about 30 minutes more. serve."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "858.3",
+        "fatContent": "47.5",
+        "saturatedFatContent": "13.2",
+        "cholesterolContent": "226.4",
+        "sodiumContent": "5591.4",
+        "carbohydrateContent": "42.4",
+        "fiberContent": "1.2",
+        "sugarContent": "37.2",
+        "proteinContent": "64.7"
+    },
+    "site_name": null,
+    "title": "Singapore Chicken Wings",
+    "total_time": 120,
+    "yields": "12 servings"
+}

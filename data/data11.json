@@ -1,0 +1,63 @@
+{
+    "author": "psychera",
+    "canonical_url": "https://www.food.com/recipe/singapore-pork-and-onion-stir-fry-chinese-370926",
+    "category": "Pork",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/37/09/26/picq27SGf.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "400 g boneless pork loin",
+                "1 onion (large)",
+                "3/4 tablespoon light soya sauce",
+                "1 1/2 tablespoons dark soya sauce",
+                "3/4 tablespoon oyster sauce",
+                "1/2 teaspoon sugar",
+                "1/2 teaspoon cornstarch",
+                "1/4 teaspoon ground black pepper",
+                "1/2 teaspoon sesame oil"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "400 g boneless pork loin",
+        "1 onion (large)",
+        "3/4 tablespoon light soya sauce",
+        "1 1/2 tablespoons dark soya sauce",
+        "3/4 tablespoon oyster sauce",
+        "1/2 teaspoon sugar",
+        "1/2 teaspoon cornstarch",
+        "1/4 teaspoon ground black pepper",
+        "1/2 teaspoon sesame oil"
+    ],
+    "instructions": "Slice onions. Set aside.\nSlice pork against the grain into thin, matchbox-sized pieces.\nPlace in large bowl. Marinate with sauces, sugar and sesame oil.\nMix well. Leave for 15-60 minutes to marinate.\nHeat frying pan / wok with 2 tablespoons of oil.\nStir-fry onions on low fire, till soft and fragrant.\nAdd pork. Stir 2 tablespoons of water in your marinade bowl and pour into pan (so there's more gravy).\nCook over medium heat.\nServe with rice.",
+    "instructions_list": [
+        "Slice onions. Set aside.",
+        "Slice pork against the grain into thin, matchbox-sized pieces.",
+        "Place in large bowl. Marinate with sauces, sugar and sesame oil.",
+        "Mix well. Leave for 15-60 minutes to marinate.",
+        "Heat frying pan / wok with 2 tablespoons of oil.",
+        "Stir-fry onions on low fire, till soft and fragrant.",
+        "Add pork. Stir 2 tablespoons of water in your marinade bowl and pour into pan (so there's more gravy).",
+        "Cook over medium heat.",
+        "Serve with rice."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "222.5",
+        "fatContent": "13.2",
+        "saturatedFatContent": "4.5",
+        "cholesterolContent": "63",
+        "sodiumContent": "481.6",
+        "carbohydrateContent": "4.3",
+        "fiberContent": "0.6",
+        "sugarContent": "1.8",
+        "proteinContent": "20.5"
+    },
+    "ratings": 4.0,
+    "site_name": null,
+    "title": "Singapore Pork and Onion Stir-Fry (Chinese)",
+    "total_time": 40,
+    "yields": "4 servings"
+}

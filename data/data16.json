@@ -1,0 +1,58 @@
+{
+    "author": "Swan Valley Tammi",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-176201",
+    "category": "One Dish Meal",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/17/62/01/picMKVdF5.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb ground pork (or beef or poultry)",
+                "5 garlic cloves, minced",
+                "3 teaspoons ground ginger",
+                "1/4 teaspoon cayenne",
+                "1 1/2 tablespoons curry powder",
+                "1/3 cup green onion, slivered (or chopped)",
+                "1/4 cup oyster sauce",
+                "2 teaspoons soy sauce",
+                "1 lb spaghetti"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb ground pork (or beef or poultry)",
+        "5 garlic cloves, minced",
+        "3 teaspoons ground ginger",
+        "1/4 teaspoon cayenne",
+        "1 1/2 tablespoons curry powder",
+        "1/3 cup green onion, slivered (or chopped)",
+        "1/4 cup oyster sauce",
+        "2 teaspoons soy sauce",
+        "1 lb spaghetti"
+    ],
+    "instructions": "In a wok or large frying pan, scramble-fry pork with garlic, ginger, cayenne, curry, and green onion. (If you're not using lean meat, you may want to partially cook the meat by itself and then drain most of the fat before adding the other ingredients.).\nMeanwhile, cook spaghetti according to package instructions.\nAdd oyster sauce and soy sauce to meat mixture and toss well to mix thoroughly.\nDrain spaghetti and add to meat. Toss to mix and serve.",
+    "instructions_list": [
+        "In a wok or large frying pan, scramble-fry pork with garlic, ginger, cayenne, curry, and green onion. (If you're not using lean meat, you may want to partially cook the meat by itself and then drain most of the fat before adding the other ingredients.).",
+        "Meanwhile, cook spaghetti according to package instructions.",
+        "Add oyster sauce and soy sauce to meat mixture and toss well to mix thoroughly.",
+        "Drain spaghetti and add to meat. Toss to mix and serve."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "792.2",
+        "fatContent": "25.8",
+        "saturatedFatContent": "9.2",
+        "cholesterolContent": "106.7",
+        "sodiumContent": "761.6",
+        "carbohydrateContent": "91.5",
+        "fiberContent": "5",
+        "sugarContent": "2.4",
+        "proteinContent": "45.4"
+    },
+    "ratings": 3.5,
+    "site_name": null,
+    "title": "Singapore Noodles",
+    "total_time": 15,
+    "yields": "6 servings"
+}

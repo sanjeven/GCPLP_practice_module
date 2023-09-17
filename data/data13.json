@@ -1,0 +1,82 @@
+{
+    "author": "Ranikabani",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-286751",
+    "category": "Asian",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/28/67/51/picwLXrEW.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "250 g noodles (spaghettini or any fine noodles)",
+                "vegetable oil (for frying)",
+                "3 garlic cloves, crushed",
+                "1 teaspoon ginger powder",
+                "1 tablespoon sugar",
+                "4 green onions, sliced diagonally",
+                "6 -8 shrimp (optional)",
+                "1 chicken breast, thinly sliced (optional)",
+                "12 snow peas",
+                "6 mushrooms, finely sliced",
+                "1/2 red pepper, finely sliced",
+                "1 -2 teaspoon curry powder",
+                "1 tablespoon chicken base",
+                "3/4 cup water",
+                "2 tablespoons fish sauce (or oyster sauce)",
+                "2 tablespoons dry wine",
+                "1 tablespoon cornstarch (or flour)",
+                "2 tablespoons sesame seed oil"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "250 g noodles (spaghettini or any fine noodles)",
+        "vegetable oil (for frying)",
+        "3 garlic cloves, crushed",
+        "1 teaspoon ginger powder",
+        "1 tablespoon sugar",
+        "4 green onions, sliced diagonally",
+        "6 -8 shrimp (optional)",
+        "1 chicken breast, thinly sliced (optional)",
+        "12 snow peas",
+        "6 mushrooms, finely sliced",
+        "1/2 red pepper, finely sliced",
+        "1 -2 teaspoon curry powder",
+        "1 tablespoon chicken base",
+        "3/4 cup water",
+        "2 tablespoons fish sauce (or oyster sauce)",
+        "2 tablespoons dry wine",
+        "1 tablespoon cornstarch (or flour)",
+        "2 tablespoons sesame seed oil"
+    ],
+    "instructions": "Cook pasta and drain.\nIn a bowl, mix the chicken base, water, fish sauce, sesame oil, sugar, wine and cornstarch.\nIn a frying pan, fry garlic and green onions with ginger powder for a minute or two.\nAdd the veggies and mushrooms and stir on medium heat for a minute or two.\nAdd the shrimp/meat if you choose to make it a non-veg dish.\nCook until shrimp/meat is cooked.\nTake it off the heat.\nIn a roasting pan put the noodles and the veggies together.\nPour the liquid in the bowl over it.\nPut the roasting pan on the stove and over medium heat give it a good stir and turn off heat.",
+    "instructions_list": [
+        "Cook pasta and drain.",
+        "In a bowl, mix the chicken base, water, fish sauce, sesame oil, sugar, wine and cornstarch.",
+        "In a frying pan, fry garlic and green onions with ginger powder for a minute or two.",
+        "Add the veggies and mushrooms and stir on medium heat for a minute or two.",
+        "Add the shrimp/meat if you choose to make it a non-veg dish.",
+        "Cook until shrimp/meat is cooked.",
+        "Take it off the heat.",
+        "In a roasting pan put the noodles and the veggies together.",
+        "Pour the liquid in the bowl over it.",
+        "Put the roasting pan on the stove and over medium heat give it a good stir and turn off heat."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "379.3",
+        "fatContent": "9.9",
+        "saturatedFatContent": "1.8",
+        "cholesterolContent": "52.5",
+        "sodiumContent": "739.2",
+        "carbohydrateContent": "55.9",
+        "fiberContent": "3.6",
+        "sugarContent": "6.8",
+        "proteinContent": "11.2"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Noodles",
+    "total_time": 25,
+    "yields": "6 servings"
+}

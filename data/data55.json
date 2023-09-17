@@ -1,0 +1,64 @@
+{
+    "author": "Lindsay",
+    "canonical_url": "https://www.food.com/recipe/singapore-curry-422282",
+    "category": "Curries",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "15 lbs chicken, cooked",
+                "1 lb margarine (to lighten it up) or 1 container margarine (to lighten it up)",
+                "1 1/4 lbs flour",
+                "5 quarts chicken stock",
+                "1 teaspoon salt",
+                "1/2 teaspoon white pepper",
+                "2 ounces curry powder",
+                "5 lbs rice",
+                "3 ounces salt",
+                "6 1/4 quarts boiling water",
+                "3 tablespoons vegetable oil or 3 tablespoons preferred fat"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "15 lbs chicken, cooked",
+        "1 lb margarine (to lighten it up) or 1 container margarine (to lighten it up)",
+        "1 1/4 lbs flour",
+        "5 quarts chicken stock",
+        "1 teaspoon salt",
+        "1/2 teaspoon white pepper",
+        "2 ounces curry powder",
+        "5 lbs rice",
+        "3 ounces salt",
+        "6 1/4 quarts boiling water",
+        "3 tablespoons vegetable oil or 3 tablespoons preferred fat"
+    ],
+    "instructions": "Cut chicken into cubes.\nmelt margarine and add flour, stirring until smooth. Cook 5 minutes.\nIn the meantime, bring water to a boil in a seperate pot. once the water is boiling, add rice, oil, and salt. Cook until the liquid is absorbed.\nBack to the curry! Add stock gradually to flour mixture, stirring w/ a wire wisk. Cook until the sauce thickens.\nAdd seasonings and chicken.\nCook a few minutes longer and you're all done!\nTo make it a full meal you can add an assortment of different vegetables. I think I am going to do snow peas, onion slices and broccoli but you can add whatever you like!",
+    "instructions_list": [
+        "Cut chicken into cubes.",
+        "melt margarine and add flour, stirring until smooth. Cook 5 minutes.",
+        "In the meantime, bring water to a boil in a seperate pot. once the water is boiling, add rice, oil, and salt. Cook until the liquid is absorbed.",
+        "Back to the curry! Add stock gradually to flour mixture, stirring w/ a wire wisk. Cook until the sauce thickens.",
+        "Add seasonings and chicken.",
+        "Cook a few minutes longer and you're all done!",
+        "To make it a full meal you can add an assortment of different vegetables. I think I am going to do snow peas, onion slices and broccoli but you can add whatever you like!"
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "502.9",
+        "fatContent": "22.3",
+        "saturatedFatContent": "5.4",
+        "cholesterolContent": "65",
+        "sodiumContent": "995.4",
+        "carbohydrateContent": "50.9",
+        "fiberContent": "1.4",
+        "sugarContent": "1.6",
+        "proteinContent": "22.4"
+    },
+    "site_name": null,
+    "title": "Singapore Curry.",
+    "total_time": 40,
+    "yields": "50 servings"
+}

@@ -1,0 +1,62 @@
+{
+    "author": "I'mPat",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-457532",
+    "category": "One Dish Meal",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/45/75/32/picUPfASF.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "250 g singapore noodles (fresh they a thin Chinese egg noodles)",
+                "1/4 teaspoon olive oil",
+                "250 g lean ground beef (extra lean beef mince)",
+                "2 garlic cloves (minced)",
+                "1 brown onion (cut into thin wedges)",
+                "250 g broccoli (cut into small florets)",
+                "1 carrot (small thinly sliced diagonally)",
+                "195 g Chinese cabbage (3 cups finely shredded)",
+                "2 teaspoons curry powder",
+                "2 teaspoons ketjap manis",
+                "2 tablespoons sherry wine"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "250 g singapore noodles (fresh they a thin Chinese egg noodles)",
+        "1/4 teaspoon olive oil",
+        "250 g lean ground beef (extra lean beef mince)",
+        "2 garlic cloves (minced)",
+        "1 brown onion (cut into thin wedges)",
+        "250 g broccoli (cut into small florets)",
+        "1 carrot (small thinly sliced diagonally)",
+        "195 g Chinese cabbage (3 cups finely shredded)",
+        "2 teaspoons curry powder",
+        "2 teaspoons ketjap manis",
+        "2 tablespoons sherry wine"
+    ],
+    "instructions": "Put the noodles in a small heatproof bowl and cover with boiling water and set aside for 5 minutes and then drain and separate3 noodles and set aside.\nBrush a large wok with the oil and heat on high and ad the beef mince and cook, stirring to break up mince for 2 to 3 minutes or until lightly browned and then add the garlic, onion, broccoli and carrot and stir fry to 2 to 3 minutes or until the vegetables are almost tender.\nAdd the cabbage, curry powder, kecap manis, sherry and noodles to the wok and stir fry for 2 minutes or until the cabbage has softened.\nDivide noodle mixture between shallow bowls to serve.",
+    "instructions_list": [
+        "Put the noodles in a small heatproof bowl and cover with boiling water and set aside for 5 minutes and then drain and separate3 noodles and set aside.",
+        "Brush a large wok with the oil and heat on high and ad the beef mince and cook, stirring to break up mince for 2 to 3 minutes or until lightly browned and then add the garlic, onion, broccoli and carrot and stir fry to 2 to 3 minutes or until the vegetables are almost tender.",
+        "Add the cabbage, curry powder, kecap manis, sherry and noodles to the wok and stir fry for 2 minutes or until the cabbage has softened.",
+        "Divide noodle mixture between shallow bowls to serve."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "870",
+        "fatContent": "19.7",
+        "saturatedFatContent": "6.8",
+        "cholesterolContent": "186.2",
+        "sodiumContent": "187.3",
+        "carbohydrateContent": "112.8",
+        "fiberContent": "11.1",
+        "sugarContent": "10.3",
+        "proteinContent": "48.8"
+    },
+    "ratings": 4.5,
+    "site_name": null,
+    "title": "Singapore Noodles",
+    "total_time": 25,
+    "yields": "2 servings"
+}

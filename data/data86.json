@@ -1,0 +1,58 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/steamed-pork-ribs-with-taucu-bean-paste/",
+    "category": "Main Course",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2017/06/steamed-pork-ribs-taucu-beanpaste-garlic-mykitchen101en-feature1.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "500 g pork ribs (cut into pieces)",
+                "50 g minced taucu (black bean paste)",
+                "2 red chilies (chopped)",
+                "35 g garlic (chopped)",
+                "2 tsps sugar",
+                "1 tsp oyster sauce",
+                "½ tbsp cornstarch"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "500 g pork ribs (cut into pieces)",
+        "50 g minced taucu (black bean paste)",
+        "2 red chilies (chopped)",
+        "35 g garlic (chopped)",
+        "2 tsps sugar",
+        "1 tsp oyster sauce",
+        "½ tbsp cornstarch"
+    ],
+    "instructions": "Dry pork ribs with kitchen towels, add in all ingredients and mix well.\nKeep refrigerated to marinate for 1 hour.\nTransfer marinated pork ribs to heat-resistant plate for steaming.\nBring water of steamer to the boil, steam over medium-high heat for 20 minutes.\nSteamed pork ribs with black bean sauce (Taucu) is done.",
+    "instructions_list": [
+        "Dry pork ribs with kitchen towels, add in all ingredients and mix well.",
+        "Keep refrigerated to marinate for 1 hour.",
+        "Transfer marinated pork ribs to heat-resistant plate for steaming.",
+        "Bring water of steamer to the boil, steam over medium-high heat for 20 minutes.",
+        "Steamed pork ribs with black bean sauce (Taucu) is done."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "241 kcal",
+        "carbohydrateContent": "10 g",
+        "proteinContent": "13 g",
+        "fatContent": "17 g",
+        "saturatedFatContent": "5 g",
+        "transFatContent": "0.2 g",
+        "cholesterolContent": "56 mg",
+        "sodiumContent": "352 mg",
+        "fiberContent": "1 g",
+        "sugarContent": "5 g",
+        "unsaturatedFatContent": "9 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Steamed Pork Ribs with Taucu (Bean Paste Pork Ribs Recipe)",
+    "total_time": 85,
+    "yields": "5 servings"
+}

@@ -1,0 +1,69 @@
+{
+    "author": "Member 610488",
+    "canonical_url": "https://www.food.com/recipe/singapore-hawker-chili-crab-469926",
+    "category": "Crab",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb whole dungeness crab",
+                "5 tablespoons ketchup or 5 tablespoons tomato paste",
+                "1 cup water",
+                "2 tablespoons cornstarch",
+                "2 tablespoons oyster sauce or 2 tablespoons indonesian soy sauce",
+                "2 tablespoons dark soy sauce or 2 tablespoons regular soy sauce",
+                "1 tablespoon tamarind paste",
+                "5 tablespoons vegetable oil",
+                "7 garlic cloves, crushed",
+                "2 tablespoons shallots, minced",
+                "10 red chili peppers, pounded with seeds",
+                "3/4 teaspoon lemon juice",
+                "1 egg, beaten",
+                "4 green onions, minced"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb whole dungeness crab",
+        "5 tablespoons ketchup or 5 tablespoons tomato paste",
+        "1 cup water",
+        "2 tablespoons cornstarch",
+        "2 tablespoons oyster sauce or 2 tablespoons indonesian soy sauce",
+        "2 tablespoons dark soy sauce or 2 tablespoons regular soy sauce",
+        "1 tablespoon tamarind paste",
+        "5 tablespoons vegetable oil",
+        "7 garlic cloves, crushed",
+        "2 tablespoons shallots, minced",
+        "10 red chili peppers, pounded with seeds",
+        "3/4 teaspoon lemon juice",
+        "1 egg, beaten",
+        "4 green onions, minced"
+    ],
+    "instructions": "Pull the main shell off the crab and discard it. Remove the gray gills and the soft insides. Cut the body in fourths and then cut between each leg. Crack the legs and claws with the back of the knife or a hammer and set aside.\nIn a large bowl, mix together ketchup, water, cornstarch, soy sauces and tamarind.\nHeat skillet and the oil, stir in garlic and shallots. Fry the garlic and shallots for 1 to 2 minutes before adding the chili. Fry another 2 minutes. Add crab pieces and fry until they turn red, about 4 minutes.\nStir sauce mixture into the skillet until the crabs are well coated. Cover the skillet and let simmer on high heat, for 7 minutes or until the shells turn bright red.\nRemove cover and stir in the lime juice. Stir in beaten egg until it is fully cooked. Turn the heat off and stir in green onions.\nServe with steamed or fried mantou (Chinese buns), French loaves, toasted sliced bread or plain white rice.",
+    "instructions_list": [
+        "Pull the main shell off the crab and discard it. Remove the gray gills and the soft insides. Cut the body in fourths and then cut between each leg. Crack the legs and claws with the back of the knife or a hammer and set aside.",
+        "In a large bowl, mix together ketchup, water, cornstarch, soy sauces and tamarind.",
+        "Heat skillet and the oil, stir in garlic and shallots. Fry the garlic and shallots for 1 to 2 minutes before adding the chili. Fry another 2 minutes. Add crab pieces and fry until they turn red, about 4 minutes.",
+        "Stir sauce mixture into the skillet until the crabs are well coated. Cover the skillet and let simmer on high heat, for 7 minutes or until the shells turn bright red.",
+        "Remove cover and stir in the lime juice. Stir in beaten egg until it is fully cooked. Turn the heat off and stir in green onions.",
+        "Serve with steamed or fried mantou (Chinese buns), French loaves, toasted sliced bread or plain white rice."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "749.9",
+        "fatContent": "39.9",
+        "saturatedFatContent": "5.6",
+        "cholesterolContent": "226.7",
+        "sodiumContent": "2652.7",
+        "carbohydrateContent": "51.2",
+        "fiberContent": "5",
+        "sugarContent": "23.9",
+        "proteinContent": "51.2"
+    },
+    "site_name": null,
+    "title": "Singapore Hawker Chili Crab",
+    "total_time": 30,
+    "yields": "3 servings"
+}

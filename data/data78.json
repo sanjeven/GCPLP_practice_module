@@ -1,0 +1,72 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/nam-yue-red-bean-curd-chicken-wing/",
+    "category": "Chicken",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2019/04/red-bean-curd-fried-chicken-wings-mykitchen101en-feature2.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "8 chicken wings (cleaned)",
+                "1 tbsp rice flour",
+                "1 tbsp cornstarch",
+                "40 g about 2 pieces red fermented bean curd",
+                "1 clove garlic (minced) (7 g )",
+                "1 bulb shallot (minced) (10 g )",
+                "1 egg (size: M) (45 g)",
+                "¼ tsp sesame oil",
+                "1 tbsp fine sugar",
+                "½ tsp fine salt"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "8 chicken wings (cleaned)",
+        "1 tbsp rice flour",
+        "1 tbsp cornstarch",
+        "40 g about 2 pieces red fermented bean curd",
+        "1 clove garlic (minced) (7 g )",
+        "1 bulb shallot (minced) (10 g )",
+        "1 egg (size: M) (45 g)",
+        "¼ tsp sesame oil",
+        "1 tbsp fine sugar",
+        "½ tsp fine salt"
+    ],
+    "instructions": "Dry chicken wings\nDry cleaned chicken wings with kitchen towels.\nPierce chicken wings with holes using a fork.\ncoat with marinade\nPut all ingredients for marinade in a zip-lock bag, mix well. Put in chicken wings, zip the bag, coat each well with marinade.\nmarinate for at least 3 hours\nKeep refrigerated to marinate for at least 3 hours. (Reminder: You may marinate the wings longer for better taste.)\nAdd in rice flour & cornstarch\nAdd rice flour and cornstarch to marinated chicken wings, mix well.\ndeep-fry\nPreheat cooking oil to 170°C/340°F, turn to medium-low heat. Put in chicken wings, fry for about 6-7 minutes, until golden brown. Turn to medium-high heat for about 45 seconds before removing from oil.\ndrain off oil\nPut fried red bean curd chicken wing on strainer ladle to drain off the oil.",
+    "instructions_list": [
+        "Dry chicken wings",
+        "Dry cleaned chicken wings with kitchen towels.",
+        "Pierce chicken wings with holes using a fork.",
+        "coat with marinade",
+        "Put all ingredients for marinade in a zip-lock bag, mix well. Put in chicken wings, zip the bag, coat each well with marinade.",
+        "marinate for at least 3 hours",
+        "Keep refrigerated to marinate for at least 3 hours. (Reminder: You may marinate the wings longer for better taste.)",
+        "Add in rice flour & cornstarch",
+        "Add rice flour and cornstarch to marinated chicken wings, mix well.",
+        "deep-fry",
+        "Preheat cooking oil to 170°C/340°F, turn to medium-low heat. Put in chicken wings, fry for about 6-7 minutes, until golden brown. Turn to medium-high heat for about 45 seconds before removing from oil.",
+        "drain off oil",
+        "Put fried red bean curd chicken wing on strainer ladle to drain off the oil."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "246 kcal",
+        "carbohydrateContent": "4 g",
+        "proteinContent": "19 g",
+        "fatContent": "17 g",
+        "saturatedFatContent": "5 g",
+        "transFatContent": "0.2 g",
+        "cholesterolContent": "98 mg",
+        "sodiumContent": "227 mg",
+        "fiberContent": "0.1 g",
+        "sugarContent": "2 g",
+        "unsaturatedFatContent": "11 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Fried Red Bean Curd Chicken Wing (Nam Yue Chicken Wing)",
+    "total_time": 216,
+    "yields": "8 servings"
+}

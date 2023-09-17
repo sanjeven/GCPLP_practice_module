@@ -1,0 +1,64 @@
+{
+    "author": "cinq1774",
+    "canonical_url": "https://www.food.com/recipe/singapore-black-pepper-crab-352249",
+    "category": "Crab",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 kg fresh crab",
+                "5 tablespoons oil",
+                "4 shallots, chopped",
+                "4 garlic cloves, chopped",
+                "1 red fresh chili pepper",
+                "2 tablespoons butter",
+                "2 tablespoons ground black pepper",
+                "2 tablespoons dark soy sauce",
+                "1 tablespoon oyster sauce",
+                "1/2 teaspoon sugar",
+                "200 ml water",
+                "2 -3 sprigs fresh coriander (garnish)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 kg fresh crab",
+        "5 tablespoons oil",
+        "4 shallots, chopped",
+        "4 garlic cloves, chopped",
+        "1 red fresh chili pepper",
+        "2 tablespoons butter",
+        "2 tablespoons ground black pepper",
+        "2 tablespoons dark soy sauce",
+        "1 tablespoon oyster sauce",
+        "1/2 teaspoon sugar",
+        "200 ml water",
+        "2 -3 sprigs fresh coriander (garnish)"
+    ],
+    "instructions": "Clean the crab and cut into pieces. Lightly crack shells to allow sauce to be absorbed.\nHeat oil in a large pan over high heat. Add in crab pieces and fry for 3 minutes Remove crab, set aside and drain off excess oil.\nHeat the pan again and fry shallots, garlic and red chilli until fragrant, then add butter and ground black pepper.\nStir in the crab, soy sauce, oyster sauce, sugar and water. Simmer for 10 minutes on medium heat, until the crab is fully cooked.\nServe with sauce drizzled over.",
+    "instructions_list": [
+        "Clean the crab and cut into pieces. Lightly crack shells to allow sauce to be absorbed.",
+        "Heat oil in a large pan over high heat. Add in crab pieces and fry for 3 minutes Remove crab, set aside and drain off excess oil.",
+        "Heat the pan again and fry shallots, garlic and red chilli until fragrant, then add butter and ground black pepper.",
+        "Stir in the crab, soy sauce, oyster sauce, sugar and water. Simmer for 10 minutes on medium heat, until the crab is fully cooked.",
+        "Serve with sauce drizzled over."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "517.7",
+        "fatContent": "26.1",
+        "saturatedFatContent": "6.3",
+        "cholesterolContent": "205.3",
+        "sodiumContent": "1618.5",
+        "carbohydrateContent": "11.3",
+        "fiberContent": "1.2",
+        "sugarContent": "1.3",
+        "proteinContent": "58.1"
+    },
+    "site_name": null,
+    "title": "Singapore Black Pepper Crab",
+    "total_time": 50,
+    "yields": "1 serving"
+}

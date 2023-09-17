@@ -1,0 +1,61 @@
+{
+    "author": "Auntie Jan",
+    "canonical_url": "https://www.food.com/recipe/singapore-fried-rice-and-veggies-305730",
+    "category": "White Rice",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "2 cups rice (prepare day ahead and keep in fridge until ready)",
+                "2 tablespoons chopped carrots",
+                "2 tablespoons onions",
+                "1 tablespoon vegetable oil",
+                "1 teaspoon butter",
+                "1 egg",
+                "2 tablespoons soy sauce",
+                "salt",
+                "sugar",
+                "pepper"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "2 cups rice (prepare day ahead and keep in fridge until ready)",
+        "2 tablespoons chopped carrots",
+        "2 tablespoons onions",
+        "1 tablespoon vegetable oil",
+        "1 teaspoon butter",
+        "1 egg",
+        "2 tablespoons soy sauce",
+        "salt",
+        "sugar",
+        "pepper"
+    ],
+    "instructions": "Heat the oil and butter in a frying pan and fry the carrots and onions for 1-2 minutes.\nMove aside in the frying pan and add in the beaten egg, scramble until cooked.\nStir in rice and add salt and sugar to taste.\nCombine in the fried onions and carrots.\nStir fry until all combined.\nServe hot with additional soy sauce as needed.",
+    "instructions_list": [
+        "Heat the oil and butter in a frying pan and fry the carrots and onions for 1-2 minutes.",
+        "Move aside in the frying pan and add in the beaten egg, scramble until cooked.",
+        "Stir in rice and add salt and sugar to taste.",
+        "Combine in the fried onions and carrots.",
+        "Stir fry until all combined.",
+        "Serve hot with additional soy sauce as needed."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "416.9",
+        "fatContent": "6.2",
+        "saturatedFatContent": "1.6",
+        "cholesterolContent": "55.4",
+        "sodiumContent": "530.8",
+        "carbohydrateContent": "78.8",
+        "fiberContent": "1.6",
+        "sugarContent": "0.6",
+        "proteinContent": "9.1"
+    },
+    "site_name": null,
+    "title": "Singapore Fried Rice and Veggies",
+    "total_time": 40,
+    "yields": "4 servings"
+}

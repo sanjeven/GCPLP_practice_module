@@ -1,0 +1,69 @@
+{
+    "author": "ratherbeswimmin",
+    "canonical_url": "https://www.food.com/recipe/singapore-velvet-shrimp-289092",
+    "category": "< 4 Hours",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1/2 cup ketchup",
+                "1/2 cup water",
+                "2 tablespoons sweet chili sauce",
+                "1 1/2 tablespoons curry powder",
+                "1 tablespoon vegetable oil",
+                "1 stalk lemongrass, stalk bottom 4 inches only, minced",
+                "2 garlic cloves, minced",
+                "1 teaspoon minced ginger",
+                "1/2 yellow onion, thinly sliced",
+                "1/2 red bell pepper, thinly sliced",
+                "3 green onions (2 cut into 2-inch pieces, 1 chopped)",
+                "1 lb medium raw shrimp, peeled and deveined",
+                "1 tablespoon sesame oil"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1/2 cup ketchup",
+        "1/2 cup water",
+        "2 tablespoons sweet chili sauce",
+        "1 1/2 tablespoons curry powder",
+        "1 tablespoon vegetable oil",
+        "1 stalk lemongrass, stalk bottom 4 inches only, minced",
+        "2 garlic cloves, minced",
+        "1 teaspoon minced ginger",
+        "1/2 yellow onion, thinly sliced",
+        "1/2 red bell pepper, thinly sliced",
+        "3 green onions (2 cut into 2-inch pieces, 1 chopped)",
+        "1 lb medium raw shrimp, peeled and deveined",
+        "1 tablespoon sesame oil"
+    ],
+    "instructions": "Make sauce: combine all the ingredients in a bowl; mix well and set aside.\nPlace a stir-fry pan over high heat until hot; add oil, swirling to coat all sides.\nAdd in lemongrass, garlic, and ginger; cook, stirring, until fragrant, about 15 seconds.\nAdd in yellow onion, red bell pepper, and green onion pieces and stir-fry until the onion slices begin to brown on the edges, about 2 minutes.\nAdd in the shrimp and stir-fry until they begin to curl and turn pink, 1 ½ to 2 minutes.\nAdd in the sauce and cook, stirring, until the sauce boils and thickens slightly, about 30 seconds.\nAdd in the sesame oil and toss to coat the shrimp evenly.\nTransfer to a plate, sprinkle with the chopped green onion, and serve.",
+    "instructions_list": [
+        "Make sauce: combine all the ingredients in a bowl; mix well and set aside.",
+        "Place a stir-fry pan over high heat until hot; add oil, swirling to coat all sides.",
+        "Add in lemongrass, garlic, and ginger; cook, stirring, until fragrant, about 15 seconds.",
+        "Add in yellow onion, red bell pepper, and green onion pieces and stir-fry until the onion slices begin to brown on the edges, about 2 minutes.",
+        "Add in the shrimp and stir-fry until they begin to curl and turn pink, 1 ½ to 2 minutes.",
+        "Add in the sauce and cook, stirring, until the sauce boils and thickens slightly, about 30 seconds.",
+        "Add in the sesame oil and toss to coat the shrimp evenly.",
+        "Transfer to a plate, sprinkle with the chopped green onion, and serve."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "233.1",
+        "fatContent": "9.3",
+        "saturatedFatContent": "1.4",
+        "cholesterolContent": "172.5",
+        "sodiumContent": "506.8",
+        "carbohydrateContent": "13.6",
+        "fiberContent": "1.7",
+        "sugarContent": "8.4",
+        "proteinContent": "24.5"
+    },
+    "site_name": null,
+    "title": "Singapore Velvet Shrimp",
+    "total_time": 65,
+    "yields": "4 servings"
+}

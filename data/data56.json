@@ -1,0 +1,66 @@
+{
+    "author": "Jo in Singapore",
+    "canonical_url": "https://www.food.com/recipe/thai-chicken-or-pork-salad-with-glass-noodles-larb-woosen-ga-364767",
+    "category": "Chicken",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 (1 1/2 ounce) package bean thread noodles (Mung bean noodles)",
+                "1/2 cup shallot, sliced finely (small red onions)",
+                "1 lb ground chicken or 1 lb pork, cooked",
+                "2 garlic cloves, chopped finely",
+                "2 tablespoons uncooked jasmine rice (khao koor (see below)",
+                "1/2 tablespoon ground thai chili powder (or cayenne will do)",
+                "1 tablespoon red chili pepper flakes",
+                "2 1/2 tablespoons fish sauce",
+                "2 1/2 tablespoons lime juice",
+                "1/4 cup spring onion, chopped",
+                "1/4 cup fresh cilantro, chopped",
+                "1/4 cup fresh mint leaves"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 (1 1/2 ounce) package bean thread noodles (Mung bean noodles)",
+        "1/2 cup shallot, sliced finely (small red onions)",
+        "1 lb ground chicken or 1 lb pork, cooked",
+        "2 garlic cloves, chopped finely",
+        "2 tablespoons uncooked jasmine rice (khao koor (see below)",
+        "1/2 tablespoon ground thai chili powder (or cayenne will do)",
+        "1 tablespoon red chili pepper flakes",
+        "2 1/2 tablespoons fish sauce",
+        "2 1/2 tablespoons lime juice",
+        "1/4 cup spring onion, chopped",
+        "1/4 cup fresh cilantro, chopped",
+        "1/4 cup fresh mint leaves"
+    ],
+    "instructions": "Soak bean threads in water for at least 5 minutes, then use scissors to cut it a few times into 2-3 inch pieces. Boil in water for just 2 minutes, drain, place in bowl, drizzle a small amount of vegetable oil over noodles to prevent them sticking together, and set aside. Do this while the chicken (or pork) cooks.\nTo prepare khao koor: get a skillet fairly hot, and add 2 tablespoons of uncooked jasmine rice. Keep it moving until the rice starts to turn golden brown. Remove from the heat and allow to cool. Grind to a fairly coarse powder in a mortar and pestle or coffee grinder. The powder should retain some texture and not be too fine a powder.\nIn the same skillet, cook the chicken/pork with the garlic with a small amount of oil.\nIn a large mixing bowl, add shallots, cooked chicken (or pork), khao koor, ground Thai chile powder, chili flakes, fish sauce, and lime juice. Toss gently until mixed well.\nAdd bean thread noodles, spring onion, cilantro, and toss it together a little (not too much).\nTransfer to a dish and top with a generous amount of whole fresh mint leaves.\nIf not using the noodles, serve over rice with a side of fresh veggies, like sliced cuccumber, sliced green cabbage, raw sugar snap peas, etc.",
+    "instructions_list": [
+        "Soak bean threads in water for at least 5 minutes, then use scissors to cut it a few times into 2-3 inch pieces. Boil in water for just 2 minutes, drain, place in bowl, drizzle a small amount of vegetable oil over noodles to prevent them sticking together, and set aside. Do this while the chicken (or pork) cooks.",
+        "To prepare khao koor: get a skillet fairly hot, and add 2 tablespoons of uncooked jasmine rice. Keep it moving until the rice starts to turn golden brown. Remove from the heat and allow to cool. Grind to a fairly coarse powder in a mortar and pestle or coffee grinder. The powder should retain some texture and not be too fine a powder.",
+        "In the same skillet, cook the chicken/pork with the garlic with a small amount of oil.",
+        "In a large mixing bowl, add shallots, cooked chicken (or pork), khao koor, ground Thai chile powder, chili flakes, fish sauce, and lime juice. Toss gently until mixed well.",
+        "Add bean thread noodles, spring onion, cilantro, and toss it together a little (not too much).",
+        "Transfer to a dish and top with a generous amount of whole fresh mint leaves.",
+        "If not using the noodles, serve over rice with a side of fresh veggies, like sliced cuccumber, sliced green cabbage, raw sugar snap peas, etc."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "452.5",
+        "fatContent": "8.2",
+        "saturatedFatContent": "2",
+        "cholesterolContent": "158.9",
+        "sodiumContent": "1982.3",
+        "carbohydrateContent": "41.1",
+        "fiberContent": "3.2",
+        "sugarContent": "1.9",
+        "proteinContent": "52.9"
+    },
+    "site_name": null,
+    "title": "Thai Chicken (Or Pork) Salad With Glass Noodles - Larb Woosen Ga",
+    "total_time": 20,
+    "yields": "4 servings"
+}

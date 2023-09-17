@@ -1,0 +1,58 @@
+{
+    "author": "Terese",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-339528",
+    "category": "Chicken",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "450 g fresh singapore noodles",
+                "1 teaspoon peanut oil",
+                "1 small brown onion, sliced finely",
+                "2 slices bacon, rind removed and chopped finely",
+                "3 cm piece fresh ginger, grated",
+                "1 tablespoon mild curry powder",
+                "3 cups shredded barbecued chicken",
+                "6 green onions, sliced thinly",
+                "1 1/2 tablespoons light soy sauce",
+                "1/3 cup sweet sherry"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "450 g fresh singapore noodles",
+        "1 teaspoon peanut oil",
+        "1 small brown onion, sliced finely",
+        "2 slices bacon, rind removed and chopped finely",
+        "3 cm piece fresh ginger, grated",
+        "1 tablespoon mild curry powder",
+        "3 cups shredded barbecued chicken",
+        "6 green onions, sliced thinly",
+        "1 1/2 tablespoons light soy sauce",
+        "1/3 cup sweet sherry"
+    ],
+    "instructions": "Place noodles in large heatproof bowl, cover with boiling water, separate with fork, drain.\nHeath oil in the wok, add brown onion, bacon and ginger, stir-fry for about 2 minutes or until onion softens and bacon is crisp. Add curry powder, stir-fry until fragrant.\nAdd noodles and remaining ingredients; stir-fry until hot.",
+    "instructions_list": [
+        "Place noodles in large heatproof bowl, cover with boiling water, separate with fork, drain.",
+        "Heath oil in the wok, add brown onion, bacon and ginger, stir-fry for about 2 minutes or until onion softens and bacon is crisp. Add curry powder, stir-fry until fragrant.",
+        "Add noodles and remaining ingredients; stir-fry until hot."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "709.3",
+        "fatContent": "18.5",
+        "saturatedFatContent": "5.2",
+        "cholesterolContent": "181",
+        "sodiumContent": "579.5",
+        "carbohydrateContent": "85.4",
+        "fiberContent": "5.1",
+        "sugarContent": "3.7",
+        "proteinContent": "45"
+    },
+    "site_name": null,
+    "title": "Singapore Noodles",
+    "total_time": 25,
+    "yields": "4 servings"
+}
