@@ -8,9 +8,9 @@ import torch
 #tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
 #model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
 
-
-tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-medium")
-model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-medium")
+model_name = 'microsoft/DialoGPT-medium'#'PygmalionAI/pygmalion-6b' #'facebook/blenderbot-400M-distill' #'microsoft/DialoGPT-medium'
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
 
 
 
