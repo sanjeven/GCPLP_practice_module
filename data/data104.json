@@ -1,0 +1,58 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/delicious-green-papaya-soup/",
+    "category": "Soup",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2022/10/papaya-milkshake2.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "650 g green papaya (1 medium-sized)",
+                "400 g pork ribs",
+                "10 g wolfberries",
+                "8 cups water",
+                "2 tsp salt (to taste)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "650 g green papaya (1 medium-sized)",
+        "400 g pork ribs",
+        "10 g wolfberries",
+        "8 cups water",
+        "2 tsp salt (to taste)"
+    ],
+    "instructions": "Blanche pork ribs with hot water.\nRinse the pork ribs with water.\nSoak wolfberries with cold water and set aside.\nRinse green papaya and peel the skin off.\nRemove the seeds with a spoon\nCut the papaya into 1-inch thick cubes\nAdd the papayas into the pot and when it boils, simmer for 1 1/2 hours to 2 hours. Add wolfberries 15 minutes before serving.\nAdd salt to taste before serving.\nA delicious green papaya soup with pork ribs is done. Serve hot.",
+    "instructions_list": [
+        "Blanche pork ribs with hot water.",
+        "Rinse the pork ribs with water.",
+        "Soak wolfberries with cold water and set aside.",
+        "Rinse green papaya and peel the skin off.",
+        "Remove the seeds with a spoon",
+        "Cut the papaya into 1-inch thick cubes",
+        "Add the papayas into the pot and when it boils, simmer for 1 1/2 hours to 2 hours. Add wolfberries 15 minutes before serving.",
+        "Add salt to taste before serving.",
+        "A delicious green papaya soup with pork ribs is done. Serve hot."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "132 kcal",
+        "carbohydrateContent": "9 g",
+        "proteinContent": "6 g",
+        "fatContent": "8 g",
+        "saturatedFatContent": "3 g",
+        "transFatContent": "0.1 g",
+        "cholesterolContent": "28 mg",
+        "sodiumContent": "628 mg",
+        "fiberContent": "1 g",
+        "sugarContent": "6 g",
+        "unsaturatedFatContent": "4 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 4.89,
+    "site_name": "MyKitchen101en.com",
+    "title": "Chinese Green Papaya Soup Recipe",
+    "total_time": 120,
+    "yields": "8 servings"
+}

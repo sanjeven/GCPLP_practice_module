@@ -1,0 +1,63 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/lotus-root-peanut-soup-pork-rib-easy-recipe/",
+    "category": "Soup",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2018/09/lotusrootpeanutsoup9.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "150 g raw peanuts (soak overnight)",
+                "350 g lotus root (sliced)",
+                "500 g pork ribs (wash and blanch)",
+                "10 red dates (jujube)",
+                "15 g goji berry or wolfberry (wash and soak)",
+                "15 g dried cuttlefish (optional)",
+                "2.5 liter water",
+                "2 tsp salt"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "150 g raw peanuts (soak overnight)",
+        "350 g lotus root (sliced)",
+        "500 g pork ribs (wash and blanch)",
+        "10 red dates (jujube)",
+        "15 g goji berry or wolfberry (wash and soak)",
+        "15 g dried cuttlefish (optional)",
+        "2.5 liter water",
+        "2 tsp salt"
+    ],
+    "instructions": "Soak raw peanuts overnight help softens them. Wash and clean lotus root, remove the skin with a peeler, cut into thin slices. Wash dried cuttlefish and cut into small pieces.\nWash wolfberry and set aside to soak.\nBlanch and rinse pork ribs, this helps to remove excess fat and give you a clearer soup.\nBring 2.5 liter of water to the boil, add in all ingredients except wolfberry. Bring the soup to the boil and turn to low heat, simmer for 2.5 hours.\nRemove excess oil from soup using a fine mesh oil skimmer.\nAdd in soaked wolfberry and cook for another 15 minutes.\nAdd in 2 tsp of salt or to taste shortly before taking the soup off stove.\nServe hot and enjoy.",
+    "instructions_list": [
+        "Soak raw peanuts overnight help softens them. Wash and clean lotus root, remove the skin with a peeler, cut into thin slices. Wash dried cuttlefish and cut into small pieces.",
+        "Wash wolfberry and set aside to soak.",
+        "Blanch and rinse pork ribs, this helps to remove excess fat and give you a clearer soup.",
+        "Bring 2.5 liter of water to the boil, add in all ingredients except wolfberry. Bring the soup to the boil and turn to low heat, simmer for 2.5 hours.",
+        "Remove excess oil from soup using a fine mesh oil skimmer.",
+        "Add in soaked wolfberry and cook for another 15 minutes.",
+        "Add in 2 tsp of salt or to taste shortly before taking the soup off stove.",
+        "Serve hot and enjoy."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "287 kcal",
+        "carbohydrateContent": "17 g",
+        "proteinContent": "13 g",
+        "fatContent": "20 g",
+        "saturatedFatContent": "5 g",
+        "transFatContent": "0.1 g",
+        "cholesterolContent": "37 mg",
+        "sodiumContent": "661 mg",
+        "fiberContent": "5 g",
+        "sugarContent": "6 g",
+        "unsaturatedFatContent": "13 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Lotus Root Peanut Soup With Pork Ribs",
+    "total_time": 180,
+    "yields": "8 servings"
+}

@@ -1,0 +1,65 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/ham-egg-tomato-fried-rice-omelette-rice/",
+    "category": "Main Course",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2022/09/image-12.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "2 bowls white rice (leftover rice)",
+                "1 tomato (peeled, cut into cubes)",
+                "3 tbsps tomato sauce",
+                "1 onion (cut into cubes)",
+                "1 stalk green onion",
+                "3 eggs",
+                "1 tbsp soy sauce",
+                "salt and pepper to taste"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "2 bowls white rice (leftover rice)",
+        "1 tomato (peeled, cut into cubes)",
+        "3 tbsps tomato sauce",
+        "1 onion (cut into cubes)",
+        "1 stalk green onion",
+        "3 eggs",
+        "1 tbsp soy sauce",
+        "salt and pepper to taste"
+    ],
+    "instructions": "Break 3 eggs in a bowl and scoop out 1 egg yolk.\nAdd the egg yolk to the rice and mix well.\nAdd a suitable amount of salt and pepper to the 2 eggs left and beat well.\nFry the eggs on an oiled pan to make a simple omelette and set aside.\nOn a heated oiled pan, add onions, tomato cubes and ham. Fry them and set them aside.\nFried Rice: Add rice and fry with high heat, after that add some green onions and soy sauce to taste.\nAdd 3 tbsps of tomato sauce into the fried rice and mix well.\nAdd in the fried onions, tomato cubes and ham and mix well.\nOn a bowl, lie the omelette flat and add the fried rice into the bowl.\nHam egg tomato fried rice (Omelette rice) is done!",
+    "instructions_list": [
+        "Break 3 eggs in a bowl and scoop out 1 egg yolk.",
+        "Add the egg yolk to the rice and mix well.",
+        "Add a suitable amount of salt and pepper to the 2 eggs left and beat well.",
+        "Fry the eggs on an oiled pan to make a simple omelette and set aside.",
+        "On a heated oiled pan, add onions, tomato cubes and ham. Fry them and set them aside.",
+        "Fried Rice: Add rice and fry with high heat, after that add some green onions and soy sauce to taste.",
+        "Add 3 tbsps of tomato sauce into the fried rice and mix well.",
+        "Add in the fried onions, tomato cubes and ham and mix well.",
+        "On a bowl, lie the omelette flat and add the fried rice into the bowl.",
+        "Ham egg tomato fried rice (Omelette rice) is done!"
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "815 kcal",
+        "carbohydrateContent": "157 g",
+        "proteinContent": "24 g",
+        "fatContent": "8 g",
+        "saturatedFatContent": "3 g",
+        "transFatContent": "0.03 g",
+        "cholesterolContent": "246 mg",
+        "sodiumContent": "696 mg",
+        "fiberContent": "4 g",
+        "sugarContent": "5 g",
+        "unsaturatedFatContent": "5 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Ham Egg Tomato Fried Rice (Omelette Rice)",
+    "total_time": 30,
+    "yields": "2 servings"
+}
