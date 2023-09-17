@@ -1,0 +1,74 @@
+{
+    "author": "PalatablePastime",
+    "canonical_url": "https://www.food.com/recipe/singapore-burgers-94193",
+    "category": "Lunch/Snacks",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/94/19/3/picb8sphP.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "12 ounces fresh mushrooms, sliced",
+                "1 tablespoon peanut oil",
+                "1 tablespoon hot sesame oil",
+                "1 tablespoon dark sesame oil",
+                "1 lb ground chuck",
+                "2 eggs, beaten",
+                "4 scallions, chopped",
+                "2 tablespoons soy sauce",
+                "2 tablespoons ground ginger",
+                "1 tablespoon cornstarch",
+                "2 -3 tablespoons chopped cilantro",
+                "1/2 teaspoon cayenne pepper",
+                "4 sandwich buns or 4 kaiser rolls, split and toasted",
+                "4 pieces red leaf lettuce",
+                "1/4 cup peanut satay sauce (optional)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "12 ounces fresh mushrooms, sliced",
+        "1 tablespoon peanut oil",
+        "1 tablespoon hot sesame oil",
+        "1 tablespoon dark sesame oil",
+        "1 lb ground chuck",
+        "2 eggs, beaten",
+        "4 scallions, chopped",
+        "2 tablespoons soy sauce",
+        "2 tablespoons ground ginger",
+        "1 tablespoon cornstarch",
+        "2 -3 tablespoons chopped cilantro",
+        "1/2 teaspoon cayenne pepper",
+        "4 sandwich buns or 4 kaiser rolls, split and toasted",
+        "4 pieces red leaf lettuce",
+        "1/4 cup peanut satay sauce (optional)"
+    ],
+    "instructions": "Heat oils in a skillet.\nAdd mushrooms and cook 5-8 minutes or until tender.\nPrepare grill, remembering to oil grate (can also cook burgers on griddle or under the broiler).\nMix together ground beef, beaten eggs, chopped scallions, soy sauce, ginger, cornstarch, cilantro, and cayenne (may omit if you don't like it spicy).\nForm burgers into 4 equal size patties and place on waxed paper until ready to cook.\nCook burgers about 15 minutes or until cooked through to your liking, flipping them over once, but do not press burgers while cooking.\nToast buns.\nServe burgers on toasted buns with sauteed mushrooms, lettuce, and a little bit of peanut sauce (if desired).",
+    "instructions_list": [
+        "Heat oils in a skillet.",
+        "Add mushrooms and cook 5-8 minutes or until tender.",
+        "Prepare grill, remembering to oil grate (can also cook burgers on griddle or under the broiler).",
+        "Mix together ground beef, beaten eggs, chopped scallions, soy sauce, ginger, cornstarch, cilantro, and cayenne (may omit if you don't like it spicy).",
+        "Form burgers into 4 equal size patties and place on waxed paper until ready to cook.",
+        "Cook burgers about 15 minutes or until cooked through to your liking, flipping them over once, but do not press burgers while cooking.",
+        "Toast buns.",
+        "Serve burgers on toasted buns with sauteed mushrooms, lettuce, and a little bit of peanut sauce (if desired)."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "477.6",
+        "fatContent": "24.8",
+        "saturatedFatContent": "6.5",
+        "cholesterolContent": "179.5",
+        "sodiumContent": "843.5",
+        "carbohydrateContent": "30.3",
+        "fiberContent": "2.9",
+        "sugarContent": "5.1",
+        "proteinContent": "33.6"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Burgers",
+    "total_time": 40,
+    "yields": "4 servings"
+}

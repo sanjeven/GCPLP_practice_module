@@ -1,0 +1,71 @@
+{
+    "author": "dianegrapegrower",
+    "canonical_url": "https://www.food.com/recipe/singapore-black-pepper-chicken-391103",
+    "category": "Chicken Breast",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/39/11/03/picTt5WXV.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb boneless skinless chicken breast, sliced into bite-sized pieces",
+                "3 scallions, chopped",
+                "1 red bell pepper, cored, seeded, and sliced into strips",
+                "8 ounces green beans, cut into bite-sized lengths",
+                "3 garlic cloves, minced",
+                "1 tablespoon fresh grated ginger",
+                "1 -2 chili pepper, minced",
+                "1 -2 tablespoon peanut oil",
+                "2 -3 teaspoons fresh coarse ground black pepper",
+                "2 tablespoons water",
+                "2 tablespoons oyster sauce",
+                "2 tablespoons soy sauce",
+                "2 tablespoons rice wine (or other dry white wine)",
+                "2 teaspoons sugar",
+                "2 teaspoons cornstarch",
+                "1 teaspoon chili-garlic sauce"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb boneless skinless chicken breast, sliced into bite-sized pieces",
+        "3 scallions, chopped",
+        "1 red bell pepper, cored, seeded, and sliced into strips",
+        "8 ounces green beans, cut into bite-sized lengths",
+        "3 garlic cloves, minced",
+        "1 tablespoon fresh grated ginger",
+        "1 -2 chili pepper, minced",
+        "1 -2 tablespoon peanut oil",
+        "2 -3 teaspoons fresh coarse ground black pepper",
+        "2 tablespoons water",
+        "2 tablespoons oyster sauce",
+        "2 tablespoons soy sauce",
+        "2 tablespoons rice wine (or other dry white wine)",
+        "2 teaspoons sugar",
+        "2 teaspoons cornstarch",
+        "1 teaspoon chili-garlic sauce"
+    ],
+    "instructions": "Heat oil in wok. Add onions, peppers, garlic, ginger, and green beans. Stirfry until crisp tender and remove from wok, leaving as much oil as possible behind. Keep warm.\nAdd chicken to oil in wok, and stirfry until done through. Push chicken up the sides of the work, and add sauce. Heat sauce, and as it thickens, stir in chicken.\nAdd veggies back to chicken in wok. Add black pepper. Stir to combine and reheat veggies if needed. Serve immediately over hot rice.",
+    "instructions_list": [
+        "Heat oil in wok. Add onions, peppers, garlic, ginger, and green beans. Stirfry until crisp tender and remove from wok, leaving as much oil as possible behind. Keep warm.",
+        "Add chicken to oil in wok, and stirfry until done through. Push chicken up the sides of the work, and add sauce. Heat sauce, and as it thickens, stir in chicken.",
+        "Add veggies back to chicken in wok. Add black pepper. Stir to combine and reheat veggies if needed. Serve immediately over hot rice."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "231.8",
+        "fatContent": "5.2",
+        "saturatedFatContent": "1",
+        "cholesterolContent": "65.8",
+        "sodiumContent": "831",
+        "carbohydrateContent": "15.2",
+        "fiberContent": "3.6",
+        "sugarContent": "5.2",
+        "proteinContent": "29.4"
+    },
+    "ratings": 4.0,
+    "site_name": null,
+    "title": "Singapore Black Pepper Chicken",
+    "total_time": 30,
+    "yields": "4 servings"
+}

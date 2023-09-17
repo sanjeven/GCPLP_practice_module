@@ -1,0 +1,54 @@
+{
+    "author": "alligirl",
+    "canonical_url": "https://www.food.com/recipe/allis-singapore-sling-423045",
+    "category": "Beverages",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 1/2 ounces gin",
+                "2 1/2 ounces sweetened lemon juice",
+                "1/2 ounce grenadine",
+                "soda water",
+                "1 ounce cherry brandy",
+                "1 orange slice",
+                "1 maraschino cherry"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 1/2 ounces gin",
+        "2 1/2 ounces sweetened lemon juice",
+        "1/2 ounce grenadine",
+        "soda water",
+        "1 ounce cherry brandy",
+        "1 orange slice",
+        "1 maraschino cherry"
+    ],
+    "instructions": "Combine first 3 ingredients in a cocktail shaker with ice.\nPour into a collins glass, and fill with soda water.\nFloat the cherry brandy on top of the drink by pouring it gently over the back of a bar spoon.\nGarnish with fruit.",
+    "instructions_list": [
+        "Combine first 3 ingredients in a cocktail shaker with ice.",
+        "Pour into a collins glass, and fill with soda water.",
+        "Float the cherry brandy on top of the drink by pouring it gently over the back of a bar spoon.",
+        "Garnish with fruit."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "183.1",
+        "fatContent": "0",
+        "saturatedFatContent": "0",
+        "cholesterolContent": "0",
+        "sodiumContent": "5.7",
+        "carbohydrateContent": "19.3",
+        "fiberContent": "0.7",
+        "sugarContent": "11.3",
+        "proteinContent": "0.4"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Alli's Singapore Sling",
+    "total_time": 3,
+    "yields": "1 serving"
+}

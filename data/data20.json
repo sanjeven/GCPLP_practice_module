@@ -1,0 +1,67 @@
+{
+    "author": "teresas",
+    "canonical_url": "https://www.food.com/recipe/singapore-spare-ribs-507224",
+    "category": "Pork",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/50/72/24/nYQcAutRBDVd4lR3CgQF-P1010007.JPG",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "2 teaspoons sesame oil",
+                "1 teaspoon fresh ginger, finely chopped",
+                "3 garlic cloves, crushed",
+                "2 tablespoons soy sauce",
+                "2 tablespoons chinese rice wine",
+                "1/2 teaspoon five-spice powder",
+                "2 tablespoons honey",
+                "1 teaspoon sambal oelek",
+                "1/2 teaspoon salt",
+                "3 lbs pork spareribs, cut into individual ribs (ask your butcher to do this)",
+                "1 tablespoon green onion, chopped",
+                "2 lemons, cut into wedges"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "2 teaspoons sesame oil",
+        "1 teaspoon fresh ginger, finely chopped",
+        "3 garlic cloves, crushed",
+        "2 tablespoons soy sauce",
+        "2 tablespoons chinese rice wine",
+        "1/2 teaspoon five-spice powder",
+        "2 tablespoons honey",
+        "1 teaspoon sambal oelek",
+        "1/2 teaspoon salt",
+        "3 lbs pork spareribs, cut into individual ribs (ask your butcher to do this)",
+        "1 tablespoon green onion, chopped",
+        "2 lemons, cut into wedges"
+    ],
+    "instructions": "In a large glass bowl combine the sesame oil, ginger, garlic, soy sauce, rice wine, five spice powder, honey, sambal oelek and salt. Mix well.\nAdd the pork spare ribs and stir until the ribs are totally coated in the marinade.\nCover and refrigerate overnight or for at least 4 hours so they absorb the flavors of the marinade.\nPreheat the oven to 350°F.\nPlace the ribs and marinade into an oiled baking dish (line the baking dish with thick foil to make washing up easier) and cook for 50-60 minutes, turning and basting with pan juices every 15 minutes.\nIf the marinade begins to burn, add a few tablespoons of warm water to the pan during cooking.\nScatter the chopped green onions over the spare ribs and serve with wedges of lemon and steamed rice.",
+    "instructions_list": [
+        "In a large glass bowl combine the sesame oil, ginger, garlic, soy sauce, rice wine, five spice powder, honey, sambal oelek and salt. Mix well.",
+        "Add the pork spare ribs and stir until the ribs are totally coated in the marinade.",
+        "Cover and refrigerate overnight or for at least 4 hours so they absorb the flavors of the marinade.",
+        "Preheat the oven to 350°F.",
+        "Place the ribs and marinade into an oiled baking dish (line the baking dish with thick foil to make washing up easier) and cook for 50-60 minutes, turning and basting with pan juices every 15 minutes.",
+        "If the marinade begins to burn, add a few tablespoons of warm water to the pan during cooking.",
+        "Scatter the chopped green onions over the spare ribs and serve with wedges of lemon and steamed rice."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "682.4",
+        "fatContent": "54.7",
+        "saturatedFatContent": "17.3",
+        "cholesterolContent": "181.8",
+        "sodiumContent": "714.2",
+        "carbohydrateContent": "8.8",
+        "fiberContent": "0.7",
+        "sugarContent": "6.4",
+        "proteinContent": "36.2"
+    },
+    "ratings": 3.0,
+    "site_name": null,
+    "title": "Singapore Spare Ribs",
+    "total_time": 80,
+    "yields": "6 servings"
+}

@@ -1,0 +1,74 @@
+{
+    "author": "Ivy Lim",
+    "canonical_url": "https://www.food.com/recipe/singapore-chile-crabs-8572",
+    "category": "Crab",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 kg fresh crab",
+                "8 dried red chilies",
+                "2 onions",
+                "4 garlic cloves",
+                "1 egg",
+                "150 g dried shrimp",
+                "1/2 tablespoon cornflour",
+                "10 tablespoons tomato ketchup",
+                "1 tablespoon light soya sauce",
+                "1 piece ginger, sliced",
+                "corn oil",
+                "minced garlic"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 kg fresh crab",
+        "8 dried red chilies",
+        "2 onions",
+        "4 garlic cloves",
+        "1 egg",
+        "150 g dried shrimp",
+        "1/2 tablespoon cornflour",
+        "10 tablespoons tomato ketchup",
+        "1 tablespoon light soya sauce",
+        "1 piece ginger, sliced",
+        "corn oil",
+        "minced garlic"
+    ],
+    "instructions": "Blend garlic, ginger, dried chile, dried shrimp in a blender to form a smooth paste.\nStir-fry the paste in 30 tbsp of hot corn oil til fragrant.\nTransfer to a deep bowl.\nClean crabs and cut each into 4-6 pieces.\nCrack the claws with a pestle.\nStir-fy 10 tsp of minced garlic in 20 tbsp of hot corn oil till fragrant.\nAdd crabs and stir-fry for about 10 minute.\nCover and cook for another minute.\nUncover and stir briskly once more.\nAdd in 1/2 cup of water, light soya sauce and 20 tbsp of the paste.\nStir well and cover for 10 minutes.\nThicken the gravy with 10 tbsp of cornflour solution.\nWhip egg and stir into the chilli crabs and bring to a boil.\nServe with rice or bread.",
+    "instructions_list": [
+        "Blend garlic, ginger, dried chile, dried shrimp in a blender to form a smooth paste.",
+        "Stir-fry the paste in 30 tbsp of hot corn oil til fragrant.",
+        "Transfer to a deep bowl.",
+        "Clean crabs and cut each into 4-6 pieces.",
+        "Crack the claws with a pestle.",
+        "Stir-fy 10 tsp of minced garlic in 20 tbsp of hot corn oil till fragrant.",
+        "Add crabs and stir-fry for about 10 minute.",
+        "Cover and cook for another minute.",
+        "Uncover and stir briskly once more.",
+        "Add in 1/2 cup of water, light soya sauce and 20 tbsp of the paste.",
+        "Stir well and cover for 10 minutes.",
+        "Thicken the gravy with 10 tbsp of cornflour solution.",
+        "Whip egg and stir into the chilli crabs and bring to a boil.",
+        "Serve with rice or bread."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "868",
+        "fatContent": "11.7",
+        "saturatedFatContent": "1.7",
+        "cholesterolContent": "1075.2",
+        "sodiumContent": "5155.7",
+        "carbohydrateContent": "32.7",
+        "fiberContent": "2.5",
+        "sugarContent": "15.7",
+        "proteinContent": "151.1"
+    },
+    "ratings": 3.0,
+    "site_name": null,
+    "title": "Singapore Chile Crabs",
+    "total_time": 35,
+    "yields": "6 servings"
+}

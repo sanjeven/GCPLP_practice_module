@@ -1,0 +1,45 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/crispy-deep-fried-dried-anchovies-ikan-bilis/",
+    "category": "Appetizer,Side Dish",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2016/06/crispy-fried-anchovies-mykitchen101en-feature.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "100 g dried anchovies (heads & intestines removed)",
+                "500 ml cooking oil"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "100 g dried anchovies (heads & intestines removed)",
+        "500 ml cooking oil"
+    ],
+    "instructions": "Rinse the cleaned anchovies 3 times to remove excess salt.\nDry thoroughly with kitchen towel.\nHeat the cooking oil to 160ºC, add in anchovies, stir occasionally. (Reminder: Increase the amount of cooking oil if you have increased the amount of anchovies.)\nWhen anchovies have turned golden-brown and amount of bubble has reduced, it is time to remove from heat.\nDrain and cool the fried anchovies on an oil strainer, the crispy fried anchovies are ready to be served!",
+    "instructions_list": [
+        "Rinse the cleaned anchovies 3 times to remove excess salt.",
+        "Dry thoroughly with kitchen towel.",
+        "Heat the cooking oil to 160ºC, add in anchovies, stir occasionally. (Reminder: Increase the amount of cooking oil if you have increased the amount of anchovies.)",
+        "When anchovies have turned golden-brown and amount of bubble has reduced, it is time to remove from heat.",
+        "Drain and cool the fried anchovies on an oil strainer, the crispy fried anchovies are ready to be served!"
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "82 kcal",
+        "carbohydrateContent": "1 g",
+        "proteinContent": "6 g",
+        "fatContent": "6 g",
+        "saturatedFatContent": "1 g",
+        "cholesterolContent": "17 mg",
+        "sodiumContent": "737 mg",
+        "unsaturatedFatContent": "5 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Crispy Deep-fried Dried Anchovies (Ikan Bilis)",
+    "total_time": 20,
+    "yields": "10 servings"
+}

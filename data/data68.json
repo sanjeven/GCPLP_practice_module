@@ -1,0 +1,63 @@
+{
+    "author": "Jo in Singapore",
+    "canonical_url": "https://www.food.com/recipe/fettuccine-verde-123952",
+    "category": "One Dish Meal",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "250 g fettuccine pasta (I like the fresh kind)",
+                "1 1/2 tablespoons butter or 1 1/2 tablespoons margarine",
+                "3 garlic cloves (minced)",
+                "4 -5 green onions (chopped)",
+                "1 cup cream (needs some fat in it) or 1 cup 2% low-fat milk (needs some fat in it)",
+                "fresh black pepper (to taste)",
+                "salt (just a pinch)",
+                "1 pinch nutmeg",
+                "3 tablespoons kraft parmesan cheese"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "250 g fettuccine pasta (I like the fresh kind)",
+        "1 1/2 tablespoons butter or 1 1/2 tablespoons margarine",
+        "3 garlic cloves (minced)",
+        "4 -5 green onions (chopped)",
+        "1 cup cream (needs some fat in it) or 1 cup 2% low-fat milk (needs some fat in it)",
+        "fresh black pepper (to taste)",
+        "salt (just a pinch)",
+        "1 pinch nutmeg",
+        "3 tablespoons kraft parmesan cheese"
+    ],
+    "instructions": "Put water for pasta on to boil.\nMelt butter in a large saucepan.\nSautee garlic and onions until soft.\nAdd cream, salt, pepper and nutmeg.\nLeave it sit on low-medium heat. Stir only when bubbles appear and then let it sit again. Don't let it boil! It just needs to thicken slighly.\nBy now the water should be boiling, so cook the pasta according to the package.\nWhen the pasta is cooked and drained, turn off the heat under the sauce.\nAdd the pasta to the sauce or the sauce to the pasta, whichever container is suitable to toss everything together.\nAdd the parmesean, one tablespoon at a time and toss.\nIf you wanted, now you could add cooked chicken or salmon and toss either into it also.",
+    "instructions_list": [
+        "Put water for pasta on to boil.",
+        "Melt butter in a large saucepan.",
+        "Sautee garlic and onions until soft.",
+        "Add cream, salt, pepper and nutmeg.",
+        "Leave it sit on low-medium heat. Stir only when bubbles appear and then let it sit again. Don't let it boil! It just needs to thicken slighly.",
+        "By now the water should be boiling, so cook the pasta according to the package.",
+        "When the pasta is cooked and drained, turn off the heat under the sauce.",
+        "Add the pasta to the sauce or the sauce to the pasta, whichever container is suitable to toss everything together.",
+        "Add the parmesean, one tablespoon at a time and toss.",
+        "If you wanted, now you could add cooked chicken or salmon and toss either into it also."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "719.3",
+        "fatContent": "36.9",
+        "saturatedFatContent": "21.6",
+        "cholesterolContent": "199.9",
+        "sodiumContent": "262.1",
+        "carbohydrateContent": "76.8",
+        "fiberContent": "0.9",
+        "sugarContent": "1",
+        "proteinContent": "21.2"
+    },
+    "site_name": null,
+    "title": "Fettuccine Verde",
+    "total_time": 15,
+    "yields": "4 servings"
+}

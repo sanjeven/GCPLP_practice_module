@@ -1,0 +1,47 @@
+{
+    "author": "Sharon123",
+    "canonical_url": "https://www.food.com/recipe/coconut-curd-kaya-singapore-502735",
+    "category": "Coconut",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 (13 1/2 ounce) can coconut milk (not light)",
+                "3 egg yolks",
+                "3/4 cup sugar"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 (13 1/2 ounce) can coconut milk (not light)",
+        "3 egg yolks",
+        "3/4 cup sugar"
+    ],
+    "instructions": "Whisk the sugar, yolks and coconut milk and then strain into a heatproof bowl.\nPlace the bowl over a pot of rapidly simmering water (don’t let the water touch the bottom of the bowl). Stir often until the curd starts to thicken.\nOnce the curd is a bit thicker, you can stir a little less often.\nCook about 45 minutes to an hour, or until thick enough to coat the back of a spoon without running together.\nTip: If the custard doesn’t seem to be thickening after 10-20 minutes, try increasing the heat.\nCool and keep refrigerated. The curd will thicken as it cools.",
+    "instructions_list": [
+        "Whisk the sugar, yolks and coconut milk and then strain into a heatproof bowl.",
+        "Place the bowl over a pot of rapidly simmering water (don’t let the water touch the bottom of the bowl). Stir often until the curd starts to thicken.",
+        "Once the curd is a bit thicker, you can stir a little less often.",
+        "Cook about 45 minutes to an hour, or until thick enough to coat the back of a spoon without running together.",
+        "Tip: If the custard doesn’t seem to be thickening after 10-20 minutes, try increasing the heat.",
+        "Cool and keep refrigerated. The curd will thicken as it cools."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "2154.9",
+        "fatContent": "77.4",
+        "saturatedFatContent": "66.2",
+        "cholesterolContent": "498",
+        "sodiumContent": "167.4",
+        "carbohydrateContent": "364.2",
+        "fiberContent": "0.8",
+        "sugarContent": "355.8",
+        "proteinContent": "12"
+    },
+    "site_name": null,
+    "title": "Coconut Curd | Kaya(Singapore)",
+    "total_time": 55,
+    "yields": "1 serving"
+}

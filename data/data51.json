@@ -1,0 +1,66 @@
+{
+    "author": "Member 610488",
+    "canonical_url": "https://www.food.com/recipe/singapore-city-bbq-ribs-469928",
+    "category": "Pork",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "2 tablespoons light soy sauce",
+                "4 tablespoons dark soy sauce",
+                "1 tablespoon crushed black peppercorns",
+                "6 garlic cloves, peeled and crushed",
+                "10 ounces orange juice, divided",
+                "1 1/2 lbs pork spareribs",
+                "1 cup orange juice",
+                "1 cup water",
+                "5 sticks cinnamon",
+                "7 star anise",
+                "white sugar, to taste",
+                "peanut oil (for frying) or corn oil (for frying)",
+                "3 hard-boiled eggs, peeled (optional)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "2 tablespoons light soy sauce",
+        "4 tablespoons dark soy sauce",
+        "1 tablespoon crushed black peppercorns",
+        "6 garlic cloves, peeled and crushed",
+        "10 ounces orange juice, divided",
+        "1 1/2 lbs pork spareribs",
+        "1 cup orange juice",
+        "1 cup water",
+        "5 sticks cinnamon",
+        "7 star anise",
+        "white sugar, to taste",
+        "peanut oil (for frying) or corn oil (for frying)",
+        "3 hard-boiled eggs, peeled (optional)"
+    ],
+    "instructions": "In a bowl, stir together light and dark soy sauces, crushed peppercorns, garlic, and 2 tablespoons orange juice. Separate ribs between each bone into individual ribs, and place in the marinade.\nCover, and set aside for at least 30 minutes. (If marinating much longer than 30 minutes, refrigerate.).\nTransfer marinade to a large stockpot, and set ribs aside. To the stockpot add remaining 1 cup orange juice, water, cinnamon sticks, star anise, and sugar. Bring to a boil.\nMeanwhile, heat oil in a large skillet over high heat. Carefully place ribs in oil, and fry for 2 minutes per side, or until edges are sealed.\nTransfer to the stockpot, and boil, uncovered, for 15 minutes. Cover, and simmer for 1 hour, adding hard boiled eggs at this point, if using.",
+    "instructions_list": [
+        "In a bowl, stir together light and dark soy sauces, crushed peppercorns, garlic, and 2 tablespoons orange juice. Separate ribs between each bone into individual ribs, and place in the marinade.",
+        "Cover, and set aside for at least 30 minutes. (If marinating much longer than 30 minutes, refrigerate.).",
+        "Transfer marinade to a large stockpot, and set ribs aside. To the stockpot add remaining 1 cup orange juice, water, cinnamon sticks, star anise, and sugar. Bring to a boil.",
+        "Meanwhile, heat oil in a large skillet over high heat. Carefully place ribs in oil, and fry for 2 minutes per side, or until edges are sealed.",
+        "Transfer to the stockpot, and boil, uncovered, for 15 minutes. Cover, and simmer for 1 hour, adding hard boiled eggs at this point, if using."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "562.1",
+        "fatContent": "40.3",
+        "saturatedFatContent": "12.9",
+        "cholesterolContent": "136.3",
+        "sodiumContent": "1650.6",
+        "carbohydrateContent": "18.6",
+        "fiberContent": "1.1",
+        "sugarContent": "12",
+        "proteinContent": "30.7"
+    },
+    "site_name": null,
+    "title": "Singapore City BBQ Ribs",
+    "total_time": 95,
+    "yields": "4 servings"
+}

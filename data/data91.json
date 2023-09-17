@@ -1,0 +1,59 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/sambal-hebi-dried-shrimp-sambal/",
+    "category": "Condiment",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2018/06/sambal-hebi-sambal-dried-shrimp-mykitchen101en-feature.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "200 g dried shrimp (soaked & drained)",
+                "220 ml cooking oil",
+                "30 g garlic",
+                "45 g dried chilies (seeded, rinsed & drained)",
+                "65 g red chili (seeded)",
+                "130 g shallot",
+                "5½ tbsps fine sugar",
+                "1 tsp fine salt"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "200 g dried shrimp (soaked & drained)",
+        "220 ml cooking oil",
+        "30 g garlic",
+        "45 g dried chilies (seeded, rinsed & drained)",
+        "65 g red chili (seeded)",
+        "130 g shallot",
+        "5½ tbsps fine sugar",
+        "1 tsp fine salt"
+    ],
+    "instructions": "Process soaked dried shrimp until fine (you may pound with mortar and pestle).\nBlend together garlic and cooking oil until fine. Add dried chilies in 3 batches, blend until smooth. Add in red chili, blend until smooth. Add in shallot, blend until smooth.\nPour chili paste into non-stick cooking pan, bring to the boil. Reduce to medium heat, cook for 6-7 minutes until fragrant. Discard excess chili oil.\nAdd in sugar and salt, mix well. Add in dried shrimp, mix well.\nCook over medium heat for 11-12 minutes until fragrant.",
+    "instructions_list": [
+        "Process soaked dried shrimp until fine (you may pound with mortar and pestle).",
+        "Blend together garlic and cooking oil until fine. Add dried chilies in 3 batches, blend until smooth. Add in red chili, blend until smooth. Add in shallot, blend until smooth.",
+        "Pour chili paste into non-stick cooking pan, bring to the boil. Reduce to medium heat, cook for 6-7 minutes until fragrant. Discard excess chili oil.",
+        "Add in sugar and salt, mix well. Add in dried shrimp, mix well.",
+        "Cook over medium heat for 11-12 minutes until fragrant."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "295 kcal",
+        "carbohydrateContent": "18 g",
+        "proteinContent": "16 g",
+        "fatContent": "18 g",
+        "saturatedFatContent": "3 g",
+        "cholesterolContent": "228 mg",
+        "sodiumContent": "956 mg",
+        "fiberContent": "2 g",
+        "sugarContent": "10 g",
+        "unsaturatedFatContent": "14 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Sambal Hebi (Dried Shrimp Sambal)",
+    "total_time": 45,
+    "yields": "10 servings"
+}

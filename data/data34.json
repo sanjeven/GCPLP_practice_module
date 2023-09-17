@@ -1,0 +1,69 @@
+{
+    "author": "daisygrl64",
+    "canonical_url": "https://www.food.com/recipe/singapore-stir-fried-noodles-384438",
+    "category": "One Dish Meal",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1/2 lb rice stick noodles (dry)",
+                "2 eggs, beaten",
+                "4 teaspoons canola oil, divided",
+                "1/3 lb small raw shrimp, shelled",
+                "1/4 barbecued pork, cut in thin strips",
+                "3/4 cup celery, thinly sliced on the diagonal",
+                "1/2 cup green onion, chopped",
+                "2 tablespoons curry powder",
+                "1 cup quick thickened stock (see my recipe for stock)",
+                "1 tablespoon soy sauce",
+                "2 cups bean sprouts, tightly packed",
+                "1 tablespoon cilantro, chopped",
+                "black pepper, to taste"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1/2 lb rice stick noodles (dry)",
+        "2 eggs, beaten",
+        "4 teaspoons canola oil, divided",
+        "1/3 lb small raw shrimp, shelled",
+        "1/4 barbecued pork, cut in thin strips",
+        "3/4 cup celery, thinly sliced on the diagonal",
+        "1/2 cup green onion, chopped",
+        "2 tablespoons curry powder",
+        "1 cup quick thickened stock (see my recipe for stock)",
+        "1 tablespoon soy sauce",
+        "2 cups bean sprouts, tightly packed",
+        "1 tablespoon cilantro, chopped",
+        "black pepper, to taste"
+    ],
+    "instructions": "cover noodles with warn water and soak until soft, about 15 minutes, drain and set aside.\nheat nonstick skillet over medium heat, pour in eggs and swirl to form thin layer on bottom. flip eggs and cook other side briefly. cut omelette into thin strips and set aside.\nheat 2 teaspoons oil in large nonstick skillet or wok over high heat. add shrimp and stir fry for 1 minute. add barbecued pork and celery and stir fry for 1 minute. remove from heat and stir in green onions and egg strips. remove mixture from pan.\nheat remaining 2 teaspoons oil in same pan over medium heat. add curry powder and stir for 20 seconds. add noodles and toss well. add thickened stock and soy sauce ans stir to mix well. cover and cook 2 minutes.\nadd shrimp and pork mixture, mix well and cook over med-high heat until moisture is completely absorbed. add bean sprouts and toss to mix.\ngarnish with cilantro and season with freshly ground pepper if desired.\nserve immediately.",
+    "instructions_list": [
+        "cover noodles with warn water and soak until soft, about 15 minutes, drain and set aside.",
+        "heat nonstick skillet over medium heat, pour in eggs and swirl to form thin layer on bottom. flip eggs and cook other side briefly. cut omelette into thin strips and set aside.",
+        "heat 2 teaspoons oil in large nonstick skillet or wok over high heat. add shrimp and stir fry for 1 minute. add barbecued pork and celery and stir fry for 1 minute. remove from heat and stir in green onions and egg strips. remove mixture from pan.",
+        "heat remaining 2 teaspoons oil in same pan over medium heat. add curry powder and stir for 20 seconds. add noodles and toss well. add thickened stock and soy sauce ans stir to mix well. cover and cook 2 minutes.",
+        "add shrimp and pork mixture, mix well and cook over med-high heat until moisture is completely absorbed. add bean sprouts and toss to mix.",
+        "garnish with cilantro and season with freshly ground pepper if desired.",
+        "serve immediately."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "370.8",
+        "fatContent": "10.8",
+        "saturatedFatContent": "2",
+        "cholesterolContent": "211.2",
+        "sodiumContent": "376.4",
+        "carbohydrateContent": "47.8",
+        "fiberContent": "4.5",
+        "sugarContent": "4.2",
+        "proteinContent": "21.7"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Stir-Fried Noodles",
+    "total_time": 50,
+    "yields": "4 servings"
+}

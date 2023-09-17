@@ -1,0 +1,82 @@
+{
+    "author": "SueVM",
+    "canonical_url": "https://www.food.com/recipe/singapore-sweet-and-sour-pork-325404",
+    "category": "Pork",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb pork medallions",
+                "1 teaspoon salt",
+                "1/2 teaspoon baking soda",
+                "1 tablespoon water",
+                "1 egg, beaten",
+                "1/4 cup cornstarch",
+                "2 tablespoons vegetable oil",
+                "1 green bell pepper, chopped",
+                "1 red chili pepper, chopped",
+                "1/2 cup crushed pineapple",
+                "1 onion, chopped",
+                "1 tomatoes, chopped",
+                "4 tablespoons white sugar",
+                "1/2 teaspoon salt",
+                "1 1/2 tablespoons cornstarch",
+                "4 tablespoons white vinegar",
+                "3 tablespoons ketchup",
+                "2 tablespoons plum sauce",
+                "5 tablespoons water"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb pork medallions",
+        "1 teaspoon salt",
+        "1/2 teaspoon baking soda",
+        "1 tablespoon water",
+        "1 egg, beaten",
+        "1/4 cup cornstarch",
+        "2 tablespoons vegetable oil",
+        "1 green bell pepper, chopped",
+        "1 red chili pepper, chopped",
+        "1/2 cup crushed pineapple",
+        "1 onion, chopped",
+        "1 tomatoes, chopped",
+        "4 tablespoons white sugar",
+        "1/2 teaspoon salt",
+        "1 1/2 tablespoons cornstarch",
+        "4 tablespoons white vinegar",
+        "3 tablespoons ketchup",
+        "2 tablespoons plum sauce",
+        "5 tablespoons water"
+    ],
+    "instructions": "Arrange pork medallions on a cutting board and cover with a sheet of plastic wrap. Using a mallet or the back of a knife, pound the pork until each medallion is fairly flat, about 1/4 inch thick.\nCut each medallion into 1 inch square pieces. In a medium bowl, combine the salt, baking soda and water. Place the pork pieces in the bowl and turn to coat, remove and coat with the beaten egg.\nPlace the cornstarch in a large, resealable plastic bag. Place the pork pieces in the bag with the flour and shake the meat around until all the pieces are coated with the flour.\nHeat the oil in a large skillet or wok over medium high heat. Place the pork pieces in the oil and fry for 5 to 10 minutes, or until golden brown. Remove the pork from the oil and set aside.\nIn the same skillet over medium high heat, combine the green bell pepper, red chile pepper, pineapple, onion and tomato and saute for 5 minutes.\nTo make the sauce:.\nIn a separate small bowl, combine the white sugar, salt, cornstarch, vinegar, ketchup, plum sauce and water. Mix well and pour this into the skillet with the vegetables.\nReduce heat to low and let simmer for 5 to 10 minutes, allowing the gravy to thicken. Return the pork pieces to the skillet, mix all together well.\nServe over rice.",
+    "instructions_list": [
+        "Arrange pork medallions on a cutting board and cover with a sheet of plastic wrap. Using a mallet or the back of a knife, pound the pork until each medallion is fairly flat, about 1/4 inch thick.",
+        "Cut each medallion into 1 inch square pieces. In a medium bowl, combine the salt, baking soda and water. Place the pork pieces in the bowl and turn to coat, remove and coat with the beaten egg.",
+        "Place the cornstarch in a large, resealable plastic bag. Place the pork pieces in the bag with the flour and shake the meat around until all the pieces are coated with the flour.",
+        "Heat the oil in a large skillet or wok over medium high heat. Place the pork pieces in the oil and fry for 5 to 10 minutes, or until golden brown. Remove the pork from the oil and set aside.",
+        "In the same skillet over medium high heat, combine the green bell pepper, red chile pepper, pineapple, onion and tomato and saute for 5 minutes.",
+        "To make the sauce:.",
+        "In a separate small bowl, combine the white sugar, salt, cornstarch, vinegar, ketchup, plum sauce and water. Mix well and pour this into the skillet with the vegetables.",
+        "Reduce heat to low and let simmer for 5 to 10 minutes, allowing the gravy to thicken. Return the pork pieces to the skillet, mix all together well.",
+        "Serve over rice."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "382.8",
+        "fatContent": "12.3",
+        "saturatedFatContent": "2.7",
+        "cholesterolContent": "126.6",
+        "sodiumContent": "1284.3",
+        "carbohydrateContent": "41",
+        "fiberContent": "1.9",
+        "sugarContent": "23.1",
+        "proteinContent": "26.8"
+    },
+    "site_name": null,
+    "title": "Singapore Sweet and Sour Pork",
+    "total_time": 45,
+    "yields": "4 servings"
+}

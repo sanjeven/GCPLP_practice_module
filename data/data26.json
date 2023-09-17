@@ -1,0 +1,57 @@
+{
+    "author": "Rhonda J",
+    "canonical_url": "https://www.food.com/recipe/singapore-sling-slush-63937",
+    "category": "Beverages",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "12 ounces gin",
+                "1/2 cup cherry brandy",
+                "1/2 cup grenadine",
+                "1/2 cup lemon gin",
+                "1 (12 ounce) can frozen pink lemonade concentrate",
+                "1 (19 ounce) can pineapple juice",
+                "4 cups water",
+                "1/2 cup sugar",
+                "7-Up soda or Sprite"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "12 ounces gin",
+        "1/2 cup cherry brandy",
+        "1/2 cup grenadine",
+        "1/2 cup lemon gin",
+        "1 (12 ounce) can frozen pink lemonade concentrate",
+        "1 (19 ounce) can pineapple juice",
+        "4 cups water",
+        "1/2 cup sugar",
+        "7-Up soda or Sprite"
+    ],
+    "instructions": "Mix all ingredients except 7-up.\nPlace in freezer overnight (1day).\nAdd desired amount to your glass and fill with 7-up-- ENJOY!",
+    "instructions_list": [
+        "Mix all ingredients except 7-up.",
+        "Place in freezer overnight (1day).",
+        "Add desired amount to your glass and fill with 7-up-- ENJOY!"
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "2918.3",
+        "fatContent": "1.3",
+        "saturatedFatContent": "0.1",
+        "cholesterolContent": "0",
+        "sodiumContent": "95.8",
+        "carbohydrateContent": "438.4",
+        "fiberContent": "2.5",
+        "sugarContent": "228.6",
+        "proteinContent": "3"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Sling Slush",
+    "total_time": 1445,
+    "yields": "1 serving"
+}

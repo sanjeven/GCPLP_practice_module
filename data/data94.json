@@ -1,0 +1,52 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/simple-delicious-nasi-lemak-coconut-milk-rice/",
+    "category": "Main Course",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2016/06/simple-nasi-lemak-mykitchen101en-feature.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "300 g white rice (rinsed & drained)",
+                "560 ml thin coconut milk (60 ml thick coconut milk + 500 ml water)",
+                "½ tsp salt",
+                "25 g old ginger (smashed)",
+                "3 leaves Pandan leaves"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "300 g white rice (rinsed & drained)",
+        "560 ml thin coconut milk (60 ml thick coconut milk + 500 ml water)",
+        "½ tsp salt",
+        "25 g old ginger (smashed)",
+        "3 leaves Pandan leaves"
+    ],
+    "instructions": "Combine all ingredients in rice cooker and mix well.\nSelect ” White Rice” setting.\nFluff\nWhen the coconut milk rice is cooked, let it sits for 30 minutes before serving for best texture (the rice is still wet when it is just cooked). Fluff the cooked rice.\nServe the fragrant coconut milk rice with deep-fried anchovies, hard boiled eggs, cucumber and sambal chili sauce-Simply Delicious.",
+    "instructions_list": [
+        "Combine all ingredients in rice cooker and mix well.",
+        "Select ” White Rice” setting.",
+        "Fluff",
+        "When the coconut milk rice is cooked, let it sits for 30 minutes before serving for best texture (the rice is still wet when it is just cooked). Fluff the cooked rice.",
+        "Serve the fragrant coconut milk rice with deep-fried anchovies, hard boiled eggs, cucumber and sambal chili sauce-Simply Delicious."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "153 kcal",
+        "carbohydrateContent": "31 g",
+        "proteinContent": "3 g",
+        "fatContent": "2 g",
+        "saturatedFatContent": "1 g",
+        "sodiumContent": "149 mg",
+        "fiberContent": "1 g",
+        "sugarContent": "0.1 g",
+        "unsaturatedFatContent": "0.2 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Simple Delicious Nasi Lemak (Coconut Milk Rice)",
+    "total_time": 80,
+    "yields": "8 servings"
+}

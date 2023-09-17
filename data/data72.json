@@ -1,0 +1,62 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/turmeric-fried-chicken-wings/",
+    "category": "Appetizer,Snack",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2020/06/turmeric-fried-chicken-wings-mykitchen101en-feature1.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "8 chicken wings (cleaned)",
+                "2 tbsps cornstarch",
+                "1 tsp fine salt",
+                "1 tbsp fine sugar",
+                "4 tsps turmeric powder",
+                "1 egg (grade A/size: L, lightly beaten)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "8 chicken wings (cleaned)",
+        "2 tbsps cornstarch",
+        "1 tsp fine salt",
+        "1 tbsp fine sugar",
+        "4 tsps turmeric powder",
+        "1 egg (grade A/size: L, lightly beaten)"
+    ],
+    "instructions": "dry chicken wings\nDry cleaned chicken wings with kitchen towels.\nPierce chicken wings with holes using a fork.\nMarinate overnight\nAdd salt, sugar, turmeric powder and egg to chicken wings, coat each well with marinade. Keep refrigerated to marinate for at least 5 hours or overnight. (Reminder: Marinate the wings longer for better taste.)\nadd cornstarch to marinated wings\nSet aside the marinated wings at room temperature for 1 hour before frying. Add cornstarch to marinated wings, mix well.\ndeep-fry\nPreheat about 600 g of cooking oil, turn to medium heat, deep-fry the wings for 7-8 minutes, until golden brown.\ndrain off oil\nTurn to medium-high heat for 30-45 seconds before removing from oil. Put fried wings on strainer ladle to drain off the oil.",
+    "instructions_list": [
+        "dry chicken wings",
+        "Dry cleaned chicken wings with kitchen towels.",
+        "Pierce chicken wings with holes using a fork.",
+        "Marinate overnight",
+        "Add salt, sugar, turmeric powder and egg to chicken wings, coat each well with marinade. Keep refrigerated to marinate for at least 5 hours or overnight. (Reminder: Marinate the wings longer for better taste.)",
+        "add cornstarch to marinated wings",
+        "Set aside the marinated wings at room temperature for 1 hour before frying. Add cornstarch to marinated wings, mix well.",
+        "deep-fry",
+        "Preheat about 600 g of cooking oil, turn to medium heat, deep-fry the wings for 7-8 minutes, until golden brown.",
+        "drain off oil",
+        "Turn to medium-high heat for 30-45 seconds before removing from oil. Put fried wings on strainer ladle to drain off the oil."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "27 kcal",
+        "carbohydrateContent": "4 g",
+        "proteinContent": "1 g",
+        "fatContent": "1 g",
+        "saturatedFatContent": "0.2 g",
+        "transFatContent": "0.01 g",
+        "cholesterolContent": "21 mg",
+        "sodiumContent": "300 mg",
+        "fiberContent": "0.2 g",
+        "sugarContent": "2 g",
+        "unsaturatedFatContent": "0.5 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 4.67,
+    "site_name": "MyKitchen101en.com",
+    "title": "Turmeric Fried Chicken Wings",
+    "total_time": 405,
+    "yields": "8 servings"
+}

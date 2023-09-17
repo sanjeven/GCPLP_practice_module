@@ -1,0 +1,75 @@
+{
+    "author": "Halcyon Eve",
+    "canonical_url": "https://www.food.com/recipe/singapore-chicken-stew-187041",
+    "category": "Stew",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb boneless skinless chicken breast",
+                "2 tablespoons flour",
+                "1/2 teaspoon salt",
+                "1/2 teaspoon hot chili flakes",
+                "1/2 teaspoon Chinese five spice powder",
+                "1 tablespoon vegetable oil",
+                "2 garlic cloves, peeled and minced",
+                "1 tablespoon grated fresh gingerroot",
+                "1 (14 ounce) can coconut milk",
+                "1 (14 1/2 ounce) can reduced-sodium fat-free chicken broth",
+                "2 cups lightly packed washed baby spinach leaves (about 4 ozs)",
+                "1 (14 ounce) can baby corn, drained",
+                "2 roma tomatoes, cored and chopped (about 1/2 lb total)",
+                "1/4 cup sliced canned water chestnut",
+                "1/4 cup thinly sliced green onion (including some green tops)",
+                "1 tablespoon lime juice",
+                "3 tablespoons fresh cilantro leaves (also called coriander leaves)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb boneless skinless chicken breast",
+        "2 tablespoons flour",
+        "1/2 teaspoon salt",
+        "1/2 teaspoon hot chili flakes",
+        "1/2 teaspoon Chinese five spice powder",
+        "1 tablespoon vegetable oil",
+        "2 garlic cloves, peeled and minced",
+        "1 tablespoon grated fresh gingerroot",
+        "1 (14 ounce) can coconut milk",
+        "1 (14 1/2 ounce) can reduced-sodium fat-free chicken broth",
+        "2 cups lightly packed washed baby spinach leaves (about 4 ozs)",
+        "1 (14 ounce) can baby corn, drained",
+        "2 roma tomatoes, cored and chopped (about 1/2 lb total)",
+        "1/4 cup sliced canned water chestnut",
+        "1/4 cup thinly sliced green onion (including some green tops)",
+        "1 tablespoon lime juice",
+        "3 tablespoons fresh cilantro leaves (also called coriander leaves)"
+    ],
+    "instructions": "Rinse chicken and pat dry. Cut into 1-inch chunks. Combine flour, salt, chilli flakes, and five spice in a ziplock baggy. Add chicken chunks and shake until coated.\nHeat oil in a 4-5 quart pan over medium-high heat. Add chicken and spice mixture, garlic, and ginger. Stir-fry until chicken is cooked outside but still pink inside, about 3 minutes (cut to test).\nAdd coconut milk and broth and bring to a simmer. Reduce heat; cover and simmer about 5 minutes longer.\nAdd spinach leaves, corn, tomatoes, water chestnuts, green onions, and lime juice. Cook, stirring frequently, until spinach is limp, about 3 minutes.\nServe garnished with cilantro leaves.",
+    "instructions_list": [
+        "Rinse chicken and pat dry. Cut into 1-inch chunks. Combine flour, salt, chilli flakes, and five spice in a ziplock baggy. Add chicken chunks and shake until coated.",
+        "Heat oil in a 4-5 quart pan over medium-high heat. Add chicken and spice mixture, garlic, and ginger. Stir-fry until chicken is cooked outside but still pink inside, about 3 minutes (cut to test).",
+        "Add coconut milk and broth and bring to a simmer. Reduce heat; cover and simmer about 5 minutes longer.",
+        "Add spinach leaves, corn, tomatoes, water chestnuts, green onions, and lime juice. Cook, stirring frequently, until spinach is limp, about 3 minutes.",
+        "Serve garnished with cilantro leaves."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "664.5",
+        "fatContent": "25",
+        "saturatedFatContent": "17.3",
+        "cholesterolContent": "72.6",
+        "sodiumContent": "482.2",
+        "carbohydrateContent": "84.5",
+        "fiberContent": "4.2",
+        "sugarContent": "59.5",
+        "proteinContent": "30.4"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Chicken Stew",
+    "total_time": 35,
+    "yields": "4 servings"
+}

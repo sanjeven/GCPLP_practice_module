@@ -1,0 +1,83 @@
+{
+    "author": "Galley Wench",
+    "canonical_url": "https://www.food.com/recipe/curried-singapore-noodles-363021",
+    "category": "Curries",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "6 ounces rice vermicelli (or rice sticks)",
+                "1 tablespoon salt",
+                "1 lb medium shrimp, peeled and deveived",
+                "1/2 teaspoon curry powder",
+                "2 teasspoons curry powder",
+                "2 tablespoons vegetable oil",
+                "3 shallots, sliced thin",
+                "1 red bell pepper, stemmed seeded and sliced thin",
+                "2 garlic cloves, minced",
+                "1 cup bean sprouts",
+                "3/4 cup chicken broth",
+                "1/4 cup soy sauce",
+                "2 tablespoons mirin",
+                "4 scallions, sliced thin",
+                "cayenne pepper",
+                "Tabasco sauce"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "6 ounces rice vermicelli (or rice sticks)",
+        "1 tablespoon salt",
+        "1 lb medium shrimp, peeled and deveived",
+        "1/2 teaspoon curry powder",
+        "2 teasspoons curry powder",
+        "2 tablespoons vegetable oil",
+        "3 shallots, sliced thin",
+        "1 red bell pepper, stemmed seeded and sliced thin",
+        "2 garlic cloves, minced",
+        "1 cup bean sprouts",
+        "3/4 cup chicken broth",
+        "1/4 cup soy sauce",
+        "2 tablespoons mirin",
+        "4 scallions, sliced thin",
+        "cayenne pepper",
+        "Tabasco sauce"
+    ],
+    "instructions": "Bring 4 quarts water to boiling.\nTo the boiling water stir in 1 tablespoon salt and the noodles.\nCook, stirring often, until the noodles are slightly underdone, about two minutes.\nDrain noodles and rinse under cold water and drain again and set aside.\nPat the shrimp dry with paper towl and toss with 1/2 teaspoon of the curry powder.\nHeat 1 tablespoon of the oil in large frying pan or wok until just smoking.\nAdd the shrimp and cook stirring ofter until slightly browned, about 2 minutes.\nTransfer shrimp to clean bowl.\nAdd the remaining 1 tablespoon of oil to the skillet and heat over medium heat until shimmering.\nAdd the shallots,bell pepper and the remaining 2 teaspoons curry powder.\nCook until the vegetables have softened, about 2 minutes.\nStir in the garlic and cook until fragrant, about 15 seconds.\nStir in the cooked vermicelli, shrimp and any accumulated juice, the bean sprouts, broth, soy sauce, mirin and scallions.\nToss until ingredients are combined and noodles have heated through, about 2 minutes.\nFor a spicier dish, add a pinch of cayenne pepper to the dish, or serve with Tobasco.",
+    "instructions_list": [
+        "Bring 4 quarts water to boiling.",
+        "To the boiling water stir in 1 tablespoon salt and the noodles.",
+        "Cook, stirring often, until the noodles are slightly underdone, about two minutes.",
+        "Drain noodles and rinse under cold water and drain again and set aside.",
+        "Pat the shrimp dry with paper towl and toss with 1/2 teaspoon of the curry powder.",
+        "Heat 1 tablespoon of the oil in large frying pan or wok until just smoking.",
+        "Add the shrimp and cook stirring ofter until slightly browned, about 2 minutes.",
+        "Transfer shrimp to clean bowl.",
+        "Add the remaining 1 tablespoon of oil to the skillet and heat over medium heat until shimmering.",
+        "Add the shallots,bell pepper and the remaining 2 teaspoons curry powder.",
+        "Cook until the vegetables have softened, about 2 minutes.",
+        "Stir in the garlic and cook until fragrant, about 15 seconds.",
+        "Stir in the cooked vermicelli, shrimp and any accumulated juice, the bean sprouts, broth, soy sauce, mirin and scallions.",
+        "Toss until ingredients are combined and noodles have heated through, about 2 minutes.",
+        "For a spicier dish, add a pinch of cayenne pepper to the dish, or serve with Tobasco."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "391.3",
+        "fatContent": "9.5",
+        "saturatedFatContent": "1.4",
+        "cholesterolContent": "172.8",
+        "sodiumContent": "3191.1",
+        "carbohydrateContent": "45.7",
+        "fiberContent": "2.4",
+        "sugarContent": "3.2",
+        "proteinContent": "29.2"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Curried Singapore Noodles",
+    "total_time": 25,
+    "yields": "4 servings"
+}

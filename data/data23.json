@@ -1,0 +1,76 @@
+{
+    "author": "Hey Jude",
+    "canonical_url": "https://www.food.com/recipe/singapore-turkey-stew-80336",
+    "category": "Stew",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb lean ground turkey",
+                "1/2 teaspoon Chinese five spice powder",
+                "1/2 teaspoon hot chili flakes",
+                "1/2 teaspoon salt",
+                "2 tablespoons all-purpose flour",
+                "1 tablespoon vegetable oil",
+                "2 cloves garlic, minced",
+                "1 tablespoon grated fresh ginger",
+                "1 (13 1/2 ounce) can coconut milk",
+                "1 (14 1/2 ounce) can chicken broth",
+                "1 head bok choy, rinsed,stem end trimmed and cut into 1 inch pieces (about 12 oz.)",
+                "1 (14 ounce) can baby corn, drained",
+                "2 Italian tomatoes, rinsed,cored and chopped",
+                "1/4 cup drained canned sliced water chestnuts",
+                "1/4 cup thinly sliced green onion",
+                "1 tablespoon lime juice",
+                "3 tablespoons chopped fresh cilantro leaves"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb lean ground turkey",
+        "1/2 teaspoon Chinese five spice powder",
+        "1/2 teaspoon hot chili flakes",
+        "1/2 teaspoon salt",
+        "2 tablespoons all-purpose flour",
+        "1 tablespoon vegetable oil",
+        "2 cloves garlic, minced",
+        "1 tablespoon grated fresh ginger",
+        "1 (13 1/2 ounce) can coconut milk",
+        "1 (14 1/2 ounce) can chicken broth",
+        "1 head bok choy, rinsed,stem end trimmed and cut into 1 inch pieces (about 12 oz.)",
+        "1 (14 ounce) can baby corn, drained",
+        "2 Italian tomatoes, rinsed,cored and chopped",
+        "1/4 cup drained canned sliced water chestnuts",
+        "1/4 cup thinly sliced green onion",
+        "1 tablespoon lime juice",
+        "3 tablespoons chopped fresh cilantro leaves"
+    ],
+    "instructions": "In a large bowl, mix ground turkey, five spice, chili flakes and salt; shape mixture into 1-inch balls; pour flour onto a large plate and roll balls in flour to coat lightly.\nPour oil into a 4-5 qt nonstick pan over medium-high heat; add meatballs in a single layer; cook, turning often, until lightly browned all over and barely pink in the center, about 5-7 minutes; using a slotted spoon, transfer to a plate.\nAdd garlic and ginger to pan and stir until fragrant, about 30 seconds; add coconut milk, broth and meatballs; bring to a simmer.\nAdjust heat to maintain a simmer, cover and cook until meatballs are no longer pink in the center, about 5 minutes.\nStir in bok choy, baby corn, tomatoes, water chestnuts, green onions, and lime juice and cook, stirring often, until bok choy leaves are wilted and stems are barely tender to bite, about 5 minutes.\nSprinkle with cilantro and serve from the pan.",
+    "instructions_list": [
+        "In a large bowl, mix ground turkey, five spice, chili flakes and salt; shape mixture into 1-inch balls; pour flour onto a large plate and roll balls in flour to coat lightly.",
+        "Pour oil into a 4-5 qt nonstick pan over medium-high heat; add meatballs in a single layer; cook, turning often, until lightly browned all over and barely pink in the center, about 5-7 minutes; using a slotted spoon, transfer to a plate.",
+        "Add garlic and ginger to pan and stir until fragrant, about 30 seconds; add coconut milk, broth and meatballs; bring to a simmer.",
+        "Adjust heat to maintain a simmer, cover and cook until meatballs are no longer pink in the center, about 5 minutes.",
+        "Stir in bok choy, baby corn, tomatoes, water chestnuts, green onions, and lime juice and cook, stirring often, until bok choy leaves are wilted and stems are barely tender to bite, about 5 minutes.",
+        "Sprinkle with cilantro and serve from the pan."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "559.4",
+        "fatContent": "35.2",
+        "saturatedFatContent": "21.3",
+        "cholesterolContent": "78.2",
+        "sodiumContent": "854.1",
+        "carbohydrateContent": "35.6",
+        "fiberContent": "5.8",
+        "sugarContent": "8.7",
+        "proteinContent": "34.2"
+    },
+    "ratings": 4.5,
+    "site_name": null,
+    "title": "Singapore Turkey Stew",
+    "total_time": 45,
+    "yields": "4 servings"
+}

@@ -1,0 +1,67 @@
+{
+    "author": "KitchenManiac",
+    "canonical_url": "https://www.food.com/recipe/singapore-chilli-crabs-114195",
+    "category": "Crab",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 lb crab",
+                "8 fresh red chilies",
+                "7 garlic cloves",
+                "3 tablespoons cooking oil",
+                "cilantro, for garnishing",
+                "3 tablespoons tomato ketchup",
+                "1 tablespoon sugar, to taste",
+                "salt, according to taste",
+                "1 tablespoon soybean paste",
+                "1 cup water",
+                "1 tablespoon cornflour",
+                "1 teaspoon lime juice"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 lb crab",
+        "8 fresh red chilies",
+        "7 garlic cloves",
+        "3 tablespoons cooking oil",
+        "cilantro, for garnishing",
+        "3 tablespoons tomato ketchup",
+        "1 tablespoon sugar, to taste",
+        "salt, according to taste",
+        "1 tablespoon soybean paste",
+        "1 cup water",
+        "1 tablespoon cornflour",
+        "1 teaspoon lime juice"
+    ],
+    "instructions": "Pound garlic and chilli.\nHeat the oil in a wok, and fry the garlic and chilli till fragrant.\nAdd in crab and stir-fry for a minute or two.\nMix the tomato ketchup, salt, sugar, soya bean paste, water and corn flour to make the sauce.\nAdd the sauce mixture to the crabs, and stir well for two minutes.\nCover the wok and simmer over high heat for five to seven minutes till the crab shell turns bright red.\nRemove cover, and add in the lime juice.\nGarnish with cilantro leaves and chilli slices.",
+    "instructions_list": [
+        "Pound garlic and chilli.",
+        "Heat the oil in a wok, and fry the garlic and chilli till fragrant.",
+        "Add in crab and stir-fry for a minute or two.",
+        "Mix the tomato ketchup, salt, sugar, soya bean paste, water and corn flour to make the sauce.",
+        "Add the sauce mixture to the crabs, and stir well for two minutes.",
+        "Cover the wok and simmer over high heat for five to seven minutes till the crab shell turns bright red.",
+        "Remove cover, and add in the lime juice.",
+        "Garnish with cilantro leaves and chilli slices."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "525.5",
+        "fatContent": "23.9",
+        "saturatedFatContent": "3.3",
+        "cholesterolContent": "177.1",
+        "sodiumContent": "937.6",
+        "carbohydrateContent": "34.4",
+        "fiberContent": "3.3",
+        "sugarContent": "21.1",
+        "proteinContent": "45.7"
+    },
+    "site_name": null,
+    "title": "Singapore Chilli Crabs",
+    "total_time": 40,
+    "yields": "2 servings"
+}

@@ -1,0 +1,57 @@
+{
+    "author": "Busters friend",
+    "canonical_url": "https://www.food.com/recipe/singapore-cucumber-salad-373287",
+    "category": "Peppers",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/37/32/87/pic7homc8.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 cucumber, large seedless, thinly sliced on the bias",
+                "1/2 yellow bell pepper, cored, seeded and thinly sliced",
+                "1/2 red bell pepper, cored, seeded and thinly sliced",
+                "1/2 cup red onion, thin-sliced",
+                "1 navel orange, peeled, halved and thinly sliced",
+                "1 tablespoon low sodium soy sauce (tamari OK too)",
+                "2 tablespoons mirin",
+                "1 tablespoon rice vinegar, unseasoned",
+                "1 teaspoon sriracha sauce (sambal oelek OK too)",
+                "2 teaspoons brown sesame seeds (black OK )"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 cucumber, large seedless, thinly sliced on the bias",
+        "1/2 yellow bell pepper, cored, seeded and thinly sliced",
+        "1/2 red bell pepper, cored, seeded and thinly sliced",
+        "1/2 cup red onion, thin-sliced",
+        "1 navel orange, peeled, halved and thinly sliced",
+        "1 tablespoon low sodium soy sauce (tamari OK too)",
+        "2 tablespoons mirin",
+        "1 tablespoon rice vinegar, unseasoned",
+        "1 teaspoon sriracha sauce (sambal oelek OK too)",
+        "2 teaspoons brown sesame seeds (black OK )"
+    ],
+    "instructions": "Combine all ingredients in a large mixing bowl and allow to sit 10 minutes before serving.",
+    "instructions_list": [
+        "Combine all ingredients in a large mixing bowl and allow to sit 10 minutes before serving."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "53",
+        "fatContent": "0.2",
+        "saturatedFatContent": "0.1",
+        "cholesterolContent": "0",
+        "sodiumContent": "199.2",
+        "carbohydrateContent": "12.3",
+        "fiberContent": "2",
+        "sugarContent": "5.9",
+        "proteinContent": "1.6"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Cucumber Salad",
+    "total_time": 20,
+    "yields": "4 servings"
+}

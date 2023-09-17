@@ -1,0 +1,64 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/perfect-crusted-crispy-fried-chicken-wings/",
+    "category": "Appetizer,Main Course",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2016/09/friedwings1.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "5 whole wings",
+                "400 g all-purpose flour (2½ cups)",
+                "2 eggs",
+                "¼ tsp baking powder",
+                "3½ tsp pepper",
+                "2½ tsp salt"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "5 whole wings",
+        "400 g all-purpose flour (2½ cups)",
+        "2 eggs",
+        "¼ tsp baking powder",
+        "3½ tsp pepper",
+        "2½ tsp salt"
+    ],
+    "instructions": "Cut and separate chicken wings into 2 sections, drumettes and flat with tips.\nAdd ½ tsp of salt and pepper and marinate for at least 15 minutes.\nMix 3 tsps pepper and 2 tsps salt, ¼ tsp baking powder with 2 ½ cups of all-purpose flour.\nMix well.\nCrack and fully beat 2 eggs with fork.\nDredge wings in flour mixture, fully coat chicken wings with flour, one at a time.\nDip wings in the egg and coat well.\nBack to flour mixture to give another coat of flour, set aside for 10 minutes.\nHeat oil to 160-170 °C\nDeep fried for about 10 mins.\nDeep fried Until golden brown, set aside.\nRaise oil temperature to 180 °C, double fried for 1 minutes.\nThe secret to amazingly crispy and crunchy crust is to double-fried. Perfect crust every time, work with other foods too.",
+    "instructions_list": [
+        "Cut and separate chicken wings into 2 sections, drumettes and flat with tips.",
+        "Add ½ tsp of salt and pepper and marinate for at least 15 minutes.",
+        "Mix 3 tsps pepper and 2 tsps salt, ¼ tsp baking powder with 2 ½ cups of all-purpose flour.",
+        "Mix well.",
+        "Crack and fully beat 2 eggs with fork.",
+        "Dredge wings in flour mixture, fully coat chicken wings with flour, one at a time.",
+        "Dip wings in the egg and coat well.",
+        "Back to flour mixture to give another coat of flour, set aside for 10 minutes.",
+        "Heat oil to 160-170 °C",
+        "Deep fried for about 10 mins.",
+        "Deep fried Until golden brown, set aside.",
+        "Raise oil temperature to 180 °C, double fried for 1 minutes.",
+        "The secret to amazingly crispy and crunchy crust is to double-fried. Perfect crust every time, work with other foods too."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "424 kcal",
+        "carbohydrateContent": "61 g",
+        "proteinContent": "19 g",
+        "fatContent": "10 g",
+        "saturatedFatContent": "3 g",
+        "transFatContent": "0.1 g",
+        "cholesterolContent": "102 mg",
+        "sodiumContent": "1246 mg",
+        "fiberContent": "2 g",
+        "sugarContent": "0.4 g",
+        "unsaturatedFatContent": "6 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Perfect Crusted Crispy Fried Chicken Wings",
+    "total_time": 50,
+    "yields": "5 servings"
+}

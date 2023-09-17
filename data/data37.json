@@ -1,0 +1,62 @@
+{
+    "author": "English_Rose",
+    "canonical_url": "https://www.food.com/recipe/singapore-chicken-noodles-224600",
+    "category": "One Dish Meal",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 teaspoon olive oil",
+                "2 chicken breasts, cut into strips",
+                "1 red bell pepper, cut into strips",
+                "4 baby corn",
+                "1/2 cup chicken broth",
+                "2 eggs, beaten",
+                "2 tablespoons fresh cilantro, chopped",
+                "2 teaspoons soy sauce",
+                "3 ounces egg noodles (cooked according to packet instructions)",
+                "1 tablespoon sesame oil",
+                "1 dash Tabasco sauce"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 teaspoon olive oil",
+        "2 chicken breasts, cut into strips",
+        "1 red bell pepper, cut into strips",
+        "4 baby corn",
+        "1/2 cup chicken broth",
+        "2 eggs, beaten",
+        "2 tablespoons fresh cilantro, chopped",
+        "2 teaspoons soy sauce",
+        "3 ounces egg noodles (cooked according to packet instructions)",
+        "1 tablespoon sesame oil",
+        "1 dash Tabasco sauce"
+    ],
+    "instructions": "Heat the oil in a wok and stir-fry the chicken, pepper and baby sweetcorn. Add the chicken broth and stir until chicken is cooked through.\nAdd the eggs and stir until scrambled.\nAdd the cilantro, soy sauce, noodles, sesame oil and Tabasco.\nGarnish with a handful of coriander to serve.",
+    "instructions_list": [
+        "Heat the oil in a wok and stir-fry the chicken, pepper and baby sweetcorn. Add the chicken broth and stir until chicken is cooked through.",
+        "Add the eggs and stir until scrambled.",
+        "Add the cilantro, soy sauce, noodles, sesame oil and Tabasco.",
+        "Garnish with a handful of coriander to serve."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "596",
+        "fatContent": "29.9",
+        "saturatedFatContent": "7.3",
+        "cholesterolContent": "340.2",
+        "sodiumContent": "698.2",
+        "carbohydrateContent": "35",
+        "fiberContent": "2.7",
+        "sugarContent": "4",
+        "proteinContent": "45"
+    },
+    "ratings": 4.0,
+    "site_name": null,
+    "title": "Singapore Chicken Noodles",
+    "total_time": 30,
+    "yields": "2 servings"
+}

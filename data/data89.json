@@ -1,0 +1,52 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/sweet-and-spicy-crispy-fried-anchovies/",
+    "category": "Side Dish",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2016/07/sweet-spicy-anchovies-mykitchen101en-feature.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "100 g anchovies (cleaned)",
+                "1 onion (sliced)",
+                "2½ tbsps sugar",
+                "2 tbsps light soy sauce",
+                "2 chilli padi (bird’s eye chilli(seeded, cut))"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "100 g anchovies (cleaned)",
+        "1 onion (sliced)",
+        "2½ tbsps sugar",
+        "2 tbsps light soy sauce",
+        "2 chilli padi (bird’s eye chilli(seeded, cut))"
+    ],
+    "instructions": "Rinse anchovies, dry with kitchen towels. Preheat cooking oil to 160°C, add in anchovies and cook until golden brown, stirring occasionally. Drain and cool on an oil strainer.\nAdd sugar to soy sauce, mix well.\nPreheat a cooking pan, add in some oil, add in onion and cook until soften.\nAdd in soy sauce mixture and chilli padi, cook until slightly thickened.\nAdd in the anchovies and mix well.",
+    "instructions_list": [
+        "Rinse anchovies, dry with kitchen towels. Preheat cooking oil to 160°C, add in anchovies and cook until golden brown, stirring occasionally. Drain and cool on an oil strainer.",
+        "Add sugar to soy sauce, mix well.",
+        "Preheat a cooking pan, add in some oil, add in onion and cook until soften.",
+        "Add in soy sauce mixture and chilli padi, cook until slightly thickened.",
+        "Add in the anchovies and mix well."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "23 kcal",
+        "carbohydrateContent": "5 g",
+        "proteinContent": "3 g",
+        "fatContent": "0.3 g",
+        "saturatedFatContent": "0.01 g",
+        "sodiumContent": "1190 mg",
+        "fiberContent": "0.4 g",
+        "sugarContent": "1 g",
+        "unsaturatedFatContent": "0.04 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Sweet And Spicy Crispy Fried Anchovies",
+    "total_time": 30,
+    "yields": "8 servings"
+}

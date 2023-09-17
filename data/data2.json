@@ -1,0 +1,65 @@
+{
+    "author": "Elmotoo",
+    "canonical_url": "https://www.food.com/recipe/singapore-five-spice-stir-fry-137136",
+    "category": "Vegetable",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/13/71/36/picrVNy4U.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "8 ounces spaghetti or 8 ounces linguine",
+                "1/2 cup orange juice",
+                "1 tablespoon cornstarch",
+                "3/4 teaspoon Chinese five spice powder",
+                "1/4 teaspoon crushed red pepper flakes",
+                "2 tablespoons soy sauce",
+                "2 teaspoons liquid sweetener",
+                "12 ounces mushrooms (cut into 1/4-inch slices)",
+                "1 cup fresh baby carrots (quartered lengthwise)",
+                "1 medium onion (cut into thin wedges)",
+                "2 garlic cloves (minced)",
+                "3 cups broccoli florets (about 6 oz.)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "8 ounces spaghetti or 8 ounces linguine",
+        "1/2 cup orange juice",
+        "1 tablespoon cornstarch",
+        "3/4 teaspoon Chinese five spice powder",
+        "1/4 teaspoon crushed red pepper flakes",
+        "2 tablespoons soy sauce",
+        "2 teaspoons liquid sweetener",
+        "12 ounces mushrooms (cut into 1/4-inch slices)",
+        "1 cup fresh baby carrots (quartered lengthwise)",
+        "1 medium onion (cut into thin wedges)",
+        "2 garlic cloves (minced)",
+        "3 cups broccoli florets (about 6 oz.)"
+    ],
+    "instructions": "Cook pasta per package directions. Drain and cover to keep warm.\nMeanwhile in a small bowl, combine all sauce ingredients and mix until blended. Set aside.\nSpray a nonstick skillet or wok with nonstick cooking spray. Heat over medium-high heat until hot. Add mushrooms, carrots, onion, and garlic. Cook and stir 4-5 minutes.\nAdd broccoli, cover, and cook 2-4 minutes or until vegetable are crisp-tender, stirring occasionally. Add sauce, cook and stir 2-3 minutes or until bubbly and thickened.\nServe over pasta.",
+    "instructions_list": [
+        "Cook pasta per package directions. Drain and cover to keep warm.",
+        "Meanwhile in a small bowl, combine all sauce ingredients and mix until blended. Set aside.",
+        "Spray a nonstick skillet or wok with nonstick cooking spray. Heat over medium-high heat until hot. Add mushrooms, carrots, onion, and garlic. Cook and stir 4-5 minutes.",
+        "Add broccoli, cover, and cook 2-4 minutes or until vegetable are crisp-tender, stirring occasionally. Add sauce, cook and stir 2-3 minutes or until bubbly and thickened.",
+        "Serve over pasta."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "303",
+        "fatContent": "1.5",
+        "saturatedFatContent": "0.3",
+        "cholesterolContent": "0",
+        "sodiumContent": "551.6",
+        "carbohydrateContent": "61",
+        "fiberContent": "4.3",
+        "sugarContent": "10.1",
+        "proteinContent": "13.5"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Five-Spice Stir Fry",
+    "total_time": 35,
+    "yields": "4 servings"
+}

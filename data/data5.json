@@ -1,0 +1,76 @@
+{
+    "author": "Kittencalrecipezazz",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-with-ground-beef-and-chickpeas-216102",
+    "category": "Meat",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/21/61/02/picjLlhwu.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "6 ounces rice vermicelli (or use angel hair pasta broken in half)",
+                "1 lb extra lean ground beef",
+                "1 -2 tablespoon fresh minced garlic",
+                "5 green onions, chopped",
+                "1 jalapeno pepper (seeded and chopped) (optional)",
+                "1 large carrot (peeled and diced)",
+                "1 small red bell pepper (seeded and chopped)",
+                "1 tablespoon grated gingerroot",
+                "1 tablespoon curry powder (hot or mild)",
+                "1/2 cup beef broth",
+                "2 tablespoons low sodium soy sauce",
+                "1/2-1 teaspoon hot chili paste (or 2 tablespoons Asian chili sauce)",
+                "1 teaspoon sugar",
+                "1 (19 ounce) can chickpeas (rinsed and drained)",
+                "black pepper",
+                "salt (optional)",
+                "chopped green onion (optional)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "6 ounces rice vermicelli (or use angel hair pasta broken in half)",
+        "1 lb extra lean ground beef",
+        "1 -2 tablespoon fresh minced garlic",
+        "5 green onions, chopped",
+        "1 jalapeno pepper (seeded and chopped) (optional)",
+        "1 large carrot (peeled and diced)",
+        "1 small red bell pepper (seeded and chopped)",
+        "1 tablespoon grated gingerroot",
+        "1 tablespoon curry powder (hot or mild)",
+        "1/2 cup beef broth",
+        "2 tablespoons low sodium soy sauce",
+        "1/2-1 teaspoon hot chili paste (or 2 tablespoons Asian chili sauce)",
+        "1 teaspoon sugar",
+        "1 (19 ounce) can chickpeas (rinsed and drained)",
+        "black pepper",
+        "salt (optional)",
+        "chopped green onion (optional)"
+    ],
+    "instructions": "Prepare the rice vermicelli according to package directions; set aside.\nIn a large skillet over medium heat cook the ground beef with green onions, jalapeno pepper (if using) carrots, bell pepper, ginger, garlic and curry powder until the meat is completely cooked through (about 15 minutes) drain fat.\nAdd in beef broth, soy sauce, chili paste and sugar; bring to a boil over medium heat stirring and simmer for 5 minutes.\nSeason with black pepper to taste and salt if desired.\nReduce heat to low and add in the cooked noodles and chickpeas; toss to combine until heated through.\nSprinkle with green onions.",
+    "instructions_list": [
+        "Prepare the rice vermicelli according to package directions; set aside.",
+        "In a large skillet over medium heat cook the ground beef with green onions, jalapeno pepper (if using) carrots, bell pepper, ginger, garlic and curry powder until the meat is completely cooked through (about 15 minutes) drain fat.",
+        "Add in beef broth, soy sauce, chili paste and sugar; bring to a boil over medium heat stirring and simmer for 5 minutes.",
+        "Season with black pepper to taste and salt if desired.",
+        "Reduce heat to low and add in the cooked noodles and chickpeas; toss to combine until heated through.",
+        "Sprinkle with green onions."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "512.4",
+        "fatContent": "8.3",
+        "saturatedFatContent": "2.9",
+        "cholesterolContent": "70.4",
+        "sodiumContent": "883.9",
+        "carbohydrateContent": "70.3",
+        "fiberContent": "9.3",
+        "sugarContent": "4.1",
+        "proteinContent": "38.3"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Noodles With Ground Beef and Chickpeas",
+    "total_time": 40,
+    "yields": "4 servings"
+}

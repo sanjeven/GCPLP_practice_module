@@ -1,0 +1,72 @@
+{
+    "author": "wizkid",
+    "canonical_url": "https://www.food.com/recipe/singapore-fried-rice-noodles-192419",
+    "category": "Chinese",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "375 g rice vermicelli, soaked",
+                "4 -5 teaspoons oil",
+                "3 eggs, beaten",
+                "1 small onion, sliced",
+                "4 ounces bean sprouts",
+                "1 tablespoon curry powder or 1 tablespoon curry paste",
+                "1 teaspoon sugar",
+                "2 tablespoons light soy sauce",
+                "4 ounces shredded cooked chicken or 4 ounces shredded cooked pork",
+                "2 ounces peas",
+                "115 g large shelled prawns",
+                "1 spring onion, thinly shredded",
+                "2 fresh red chilies, seeded and shredded"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "375 g rice vermicelli, soaked",
+        "4 -5 teaspoons oil",
+        "3 eggs, beaten",
+        "1 small onion, sliced",
+        "4 ounces bean sprouts",
+        "1 tablespoon curry powder or 1 tablespoon curry paste",
+        "1 teaspoon sugar",
+        "2 tablespoons light soy sauce",
+        "4 ounces shredded cooked chicken or 4 ounces shredded cooked pork",
+        "2 ounces peas",
+        "115 g large shelled prawns",
+        "1 spring onion, thinly shredded",
+        "2 fresh red chilies, seeded and shredded"
+    ],
+    "instructions": "Soak the rice vermicelli in hot water for 15-20 minutes.\nDrain and rinse in cold water.\nHeatabout 1 tbsp oil and scramble the beaten eggs, remove and reserve.\nHeat the remaining oil, fry the onions until opague.\nAdd the bean sprouts and rice vermicelli with the curry powder and the sugar.\nblend well.\nAdd the soy sauce, meat, prawns, peas and scrambled eggs.\ncontinue stirring for 2-3 minutes.\nadd the spring onion and chilles,.\nmix gently and serve.",
+    "instructions_list": [
+        "Soak the rice vermicelli in hot water for 15-20 minutes.",
+        "Drain and rinse in cold water.",
+        "Heatabout 1 tbsp oil and scramble the beaten eggs, remove and reserve.",
+        "Heat the remaining oil, fry the onions until opague.",
+        "Add the bean sprouts and rice vermicelli with the curry powder and the sugar.",
+        "blend well.",
+        "Add the soy sauce, meat, prawns, peas and scrambled eggs.",
+        "continue stirring for 2-3 minutes.",
+        "add the spring onion and chilles,.",
+        "mix gently and serve."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "562",
+        "fatContent": "11.5",
+        "saturatedFatContent": "2.6",
+        "cholesterolContent": "217",
+        "sodiumContent": "789.4",
+        "carbohydrateContent": "89",
+        "fiberContent": "4.1",
+        "sugarContent": "5.6",
+        "proteinContent": "23.4"
+    },
+    "ratings": 3.5,
+    "site_name": null,
+    "title": "Singapore Fried Rice Noodles",
+    "total_time": 45,
+    "yields": "4 servings"
+}

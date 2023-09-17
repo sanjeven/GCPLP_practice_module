@@ -1,0 +1,72 @@
+{
+    "author": "Mykitchen101en Team",
+    "canonical_url": "https://mykitchen101en.com/lemongrass-fried-chicken-drumsticks/",
+    "category": "Appetizer,Chicken,Main Course",
+    "host": "mykitchen101en.com",
+    "image": "https://mykitchen101en.com/wp-content/uploads/2019/05/lemongrass-fried-chicken-drumsticks-mykitchen101en-feature.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "1 kg chicken drumsticks (about 8 pcs, each about 125 g, cleaned)",
+                "4½ tbsps cornstarch",
+                "6 stalks lemongrass",
+                "1 sprig curry leaf",
+                "15 g garlic",
+                "20 g shallot",
+                "40 g onion",
+                "200 g water",
+                "½ tsp ground pepper",
+                "1 tsp curry powder",
+                "2¾ tsps fine salt",
+                "3½ tbsps fine sugar"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "1 kg chicken drumsticks (about 8 pcs, each about 125 g, cleaned)",
+        "4½ tbsps cornstarch",
+        "6 stalks lemongrass",
+        "1 sprig curry leaf",
+        "15 g garlic",
+        "20 g shallot",
+        "40 g onion",
+        "200 g water",
+        "½ tsp ground pepper",
+        "1 tsp curry powder",
+        "2¾ tsps fine salt",
+        "3½ tbsps fine sugar"
+    ],
+    "instructions": "Dry cleaned chicken drumsticks with kitchen towels.\nPierce chicken drumsticks with holes using a fork.\nCombine lemongrass, curry leaf, garlic, shallot and onion in blender, add in 200 g of water, blend until fine. Add in ground pepper, curry powder, salt and sugar, blend until combined.\nPour half of marinade into zip lock bag, put in chicken drumsticks, pour in the remaining marinade, zip the bag, coat each drumstick well with marinade.\nKeep refrigerated to marinate for at least 3 hours. (Reminder: I usually marinate it overnight for better taste.)\nTransfer marinated chicken drumsticks to large pan (discard excess marinade), add in cornstarch, mix well.\nPreheat 750 ml of cooking oil to 170°C/340°F, turn to medium heat. Put in chicken drumsticks, fry for about 11-12 minutes, until golden brown. (Reminder: If your drumstick is larger, then you need to increase the cooking time, adjust accordingly.)\nTurn to medium-high heat for 1 minute before removing from oil.\nPut fried chicken drumsticks on strainer ladle to drain off the oil.",
+    "instructions_list": [
+        "Dry cleaned chicken drumsticks with kitchen towels.",
+        "Pierce chicken drumsticks with holes using a fork.",
+        "Combine lemongrass, curry leaf, garlic, shallot and onion in blender, add in 200 g of water, blend until fine. Add in ground pepper, curry powder, salt and sugar, blend until combined.",
+        "Pour half of marinade into zip lock bag, put in chicken drumsticks, pour in the remaining marinade, zip the bag, coat each drumstick well with marinade.",
+        "Keep refrigerated to marinate for at least 3 hours. (Reminder: I usually marinate it overnight for better taste.)",
+        "Transfer marinated chicken drumsticks to large pan (discard excess marinade), add in cornstarch, mix well.",
+        "Preheat 750 ml of cooking oil to 170°C/340°F, turn to medium heat. Put in chicken drumsticks, fry for about 11-12 minutes, until golden brown. (Reminder: If your drumstick is larger, then you need to increase the cooking time, adjust accordingly.)",
+        "Turn to medium-high heat for 1 minute before removing from oil.",
+        "Put fried chicken drumsticks on strainer ladle to drain off the oil."
+    ],
+    "language": "en-US",
+    "nutrients": {
+        "calories": "190 kcal",
+        "carbohydrateContent": "14 g",
+        "proteinContent": "15 g",
+        "fatContent": "8 g",
+        "saturatedFatContent": "2 g",
+        "transFatContent": "0.04 g",
+        "cholesterolContent": "77 mg",
+        "sodiumContent": "890 mg",
+        "fiberContent": "0.4 g",
+        "sugarContent": "6 g",
+        "unsaturatedFatContent": "5 g",
+        "servingSize": "1 serving"
+    },
+    "ratings": 5.0,
+    "site_name": "MyKitchen101en.com",
+    "title": "Lemongrass Fried Chicken Drumsticks",
+    "total_time": 220,
+    "yields": "8 servings"
+}

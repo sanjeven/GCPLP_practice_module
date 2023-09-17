@@ -1,0 +1,58 @@
+{
+    "author": "Member 610488",
+    "canonical_url": "https://www.food.com/recipe/p-f-changs-singapore-black-pepper-shrimp-512304",
+    "category": "Lunch/Snacks",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/gk-static/fdc-new/img/fdc-shareGraphic.png",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "8 large shrimp",
+                "2 stalks spring onions",
+                "1 tablespoon garlic, minced",
+                "1/2 tablespoon black peppercorns",
+                "1/2 teaspoon light soy sauce",
+                "1/4 teaspoon dark soy sauce",
+                "2 1/2 tablespoons water",
+                "1/2 teaspoon brown sugar",
+                "1 tablespoon butter"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "8 large shrimp",
+        "2 stalks spring onions",
+        "1 tablespoon garlic, minced",
+        "1/2 tablespoon black peppercorns",
+        "1/2 teaspoon light soy sauce",
+        "1/4 teaspoon dark soy sauce",
+        "2 1/2 tablespoons water",
+        "1/2 teaspoon brown sugar",
+        "1 tablespoon butter"
+    ],
+    "instructions": "Remove the head and shell of each shrimp, leaving only the shell tail intact. Devein by cutting along the top middle part of the shrimp and remove the black veins.\nCut the spring onions in 1 inch lengths and separate thick bottom white stalks from the top green portion.\nPound the black peppercorns using mortar and pestle till coarse (not powdery).\nMelt butter in heated wok or large skillet. Add garlic, crushed peppercorns and thick spring onion (white) stalks and stir fry until garlic is lightly browned.\nAdd water, light soy sauce, dark soy sauce and brown sugar. Add shrimp and the rest of the spring onions (green). Stir fry till shrimp are cooked (5-7 minutes).",
+    "instructions_list": [
+        "Remove the head and shell of each shrimp, leaving only the shell tail intact. Devein by cutting along the top middle part of the shrimp and remove the black veins.",
+        "Cut the spring onions in 1 inch lengths and separate thick bottom white stalks from the top green portion.",
+        "Pound the black peppercorns using mortar and pestle till coarse (not powdery).",
+        "Melt butter in heated wok or large skillet. Add garlic, crushed peppercorns and thick spring onion (white) stalks and stir fry until garlic is lightly browned.",
+        "Add water, light soy sauce, dark soy sauce and brown sugar. Add shrimp and the rest of the spring onions (green). Stir fry till shrimp are cooked (5-7 minutes)."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "90.2",
+        "fatContent": "6.1",
+        "saturatedFatContent": "3.7",
+        "cholesterolContent": "45.5",
+        "sodiumContent": "317.2",
+        "carbohydrateContent": "5.3",
+        "fiberContent": "1.1",
+        "sugarContent": "1.6",
+        "proteinContent": "4.3"
+    },
+    "site_name": null,
+    "title": "P F Chang's Singapore Black Pepper Shrimp",
+    "total_time": 30,
+    "yields": "2 servings"
+}

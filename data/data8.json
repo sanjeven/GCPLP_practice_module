@@ -1,0 +1,67 @@
+{
+    "author": "currybunny",
+    "canonical_url": "https://www.food.com/recipe/singapore-noodles-136223",
+    "category": "Pork",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/13/62/23/pichltVMT.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "250 g dried thin egg noodles",
+                "2 tablespoons peanut oil",
+                "4 eggs, lightly beaten",
+                "1 tablespoon water",
+                "1 onion, finely chopped",
+                "2 garlic cloves, crushed",
+                "2 tablespoons mild curry paste",
+                "200 g ground pork",
+                "200 g Chinese barbecue pork (char sui)",
+                "200 g cooked shelled small shrimp",
+                "3 spring onions, chopped coarsely",
+                "1/4 cup reduced sodium soy sauce",
+                "2 tablespoons oyster sauce",
+                "2 small red Thai chile, seeded and finely chopped"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "250 g dried thin egg noodles",
+        "2 tablespoons peanut oil",
+        "4 eggs, lightly beaten",
+        "1 tablespoon water",
+        "1 onion, finely chopped",
+        "2 garlic cloves, crushed",
+        "2 tablespoons mild curry paste",
+        "200 g ground pork",
+        "200 g Chinese barbecue pork (char sui)",
+        "200 g cooked shelled small shrimp",
+        "3 spring onions, chopped coarsely",
+        "1/4 cup reduced sodium soy sauce",
+        "2 tablespoons oyster sauce",
+        "2 small red Thai chile, seeded and finely chopped"
+    ],
+    "instructions": "Cook noodles in large saucepan of boiling water, uncovered, until just tender; drain.\nMeanwhile, heat 2 teaspoons of the oil in wok, add half of the combined eggs and water and swirl wok to make a thin omelette. Cook, uncovered, until omelette is just set; remove from wok, roll omelette and cut into thin strips. Heat another 2 teaspoons of oil and repeat process with the remaining egg mixture.\nHeat remaining oil in wok, stir fry onion and garlic until onion softens; add curry paste, and stir fry until fragrant. Add minced pork and stir fry until changed in colour. Add bbq pork, prawns, spring onion, sauces, chile and half the omelette; stir fry until heated through. Add noodles; toss gently to combine and serve topped with remaining omelette.",
+    "instructions_list": [
+        "Cook noodles in large saucepan of boiling water, uncovered, until just tender; drain.",
+        "Meanwhile, heat 2 teaspoons of the oil in wok, add half of the combined eggs and water and swirl wok to make a thin omelette. Cook, uncovered, until omelette is just set; remove from wok, roll omelette and cut into thin strips. Heat another 2 teaspoons of oil and repeat process with the remaining egg mixture.",
+        "Heat remaining oil in wok, stir fry onion and garlic until onion softens; add curry paste, and stir fry until fragrant. Add minced pork and stir fry until changed in colour. Add bbq pork, prawns, spring onion, sauces, chile and half the omelette; stir fry until heated through. Add noodles; toss gently to combine and serve topped with remaining omelette."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "568",
+        "fatContent": "25.5",
+        "saturatedFatContent": "7.5",
+        "cholesterolContent": "337.5",
+        "sodiumContent": "1175.6",
+        "carbohydrateContent": "51.6",
+        "fiberContent": "3",
+        "sugarContent": "3.1",
+        "proteinContent": "31.9"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Noodles",
+    "total_time": 25,
+    "yields": "4 servings"
+}

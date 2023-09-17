@@ -1,0 +1,61 @@
+{
+    "author": "Jewelies",
+    "canonical_url": "https://www.food.com/recipe/singapore-chilli-prawns-shrimp-138447",
+    "category": "New Zealand",
+    "host": "food.com",
+    "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/13/84/47/picTBkuBa.jpg",
+    "ingredient_groups": [
+        {
+            "ingredients": [
+                "2 tablespoons oil",
+                "500 g green prawns (uncooked)",
+                "1 teaspoon ginger, minced",
+                "2 teaspoons garlic, minced",
+                "2 teaspoons black bean paste",
+                "1 tablespoon chili, minced",
+                "1/4 cup ketchup",
+                "1 tablespoon malt vinegar",
+                "2 teaspoons brown sugar",
+                "chives (to garnish)"
+            ],
+            "purpose": null
+        }
+    ],
+    "ingredients": [
+        "2 tablespoons oil",
+        "500 g green prawns (uncooked)",
+        "1 teaspoon ginger, minced",
+        "2 teaspoons garlic, minced",
+        "2 teaspoons black bean paste",
+        "1 tablespoon chili, minced",
+        "1/4 cup ketchup",
+        "1 tablespoon malt vinegar",
+        "2 teaspoons brown sugar",
+        "chives (to garnish)"
+    ],
+    "instructions": "Heat oil and stir fry prawns until they change colour.\nRemove to a plate.\nAdd garlic, ginger, black bean paste and chilli, stir fry for 1-2 minutes.\nReturn prawns to wok with ketchup, vinegar and sugar, stir fry until hot.\nSprinkle with chives and serve with rice.",
+    "instructions_list": [
+        "Heat oil and stir fry prawns until they change colour.",
+        "Remove to a plate.",
+        "Add garlic, ginger, black bean paste and chilli, stir fry for 1-2 minutes.",
+        "Return prawns to wok with ketchup, vinegar and sugar, stir fry until hot.",
+        "Sprinkle with chives and serve with rice."
+    ],
+    "language": "en",
+    "nutrients": {
+        "calories": "181",
+        "fatContent": "8.3",
+        "saturatedFatContent": "1.1",
+        "cholesterolContent": "158.2",
+        "sodiumContent": "896.7",
+        "carbohydrateContent": "8.5",
+        "fiberContent": "0.3",
+        "sugarContent": "5.7",
+        "proteinContent": "17.6"
+    },
+    "ratings": 5.0,
+    "site_name": null,
+    "title": "Singapore Chilli Prawns (Shrimp)",
+    "total_time": 25,
+    "yields": "4 servings"
+}
