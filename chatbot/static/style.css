@@ -22,7 +22,8 @@ body,html{
 	white-space: nowrap;
 }
 .msg_card_body{
-	overflow-y: hidden;
+	/*overflow-y: hidden;*/
+	overflow-y: auto;
 }
 .card-header{
 	border-radius: 15px 15px 0 0 !important;
@@ -251,7 +252,7 @@ border-radius: 0 0 15px 15px !important;
 	background-color: #04AA6D;
 	color: white;
   }
-  
+
 @media(max-width: 576px){
 	.contacts_card{
 	margin-bottom: 15px !important;

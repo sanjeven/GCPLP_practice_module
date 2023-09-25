@@ -63,6 +63,8 @@
 
 					var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + rawText + '<span class="msg_time_send">'+ str_time + '</span></div><!--<div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div>--></div>';
 					
+					//var userHtml = rawText 
+
 					$("#text").val("");
 					$("#messageFormeight").append(userHtml);
 
@@ -73,7 +75,10 @@
 						type: "POST",
 						url: "/get",
 					}).done(function(data) {
+						//var lines = data.split(/\d+\./).filter(Boolean);
 						var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div>';
+						//var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div>';
+						
 						$("#messageFormeight").append($.parseHTML(botHtml));
 					});
 					event.preventDefault();
