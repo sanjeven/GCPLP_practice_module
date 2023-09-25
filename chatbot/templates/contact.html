@@ -11,46 +11,14 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}"/>
 		<div class="topnav">
-			<a href="{{ url_for('home') }}" class="active" >Home</a>
+			<a href="{{ url_for('home') }}">Home</a>
 			<a  href="{{ url_for('about') }}">About</a>
-			<a href="{{ url_for('contact') }}" href="#contact">Contact</a>
+			<a href="{{ url_for('contact') }}" class="active" href="#contact">Contact</a>
 		</div>
 	</head>
 	
 	
 	<body>
-		<div class="container-fluid h-100">
-			<div class="row justify-content-center h-100">		
-				<div class="col-md-8 col-xl-6 chat">
-					<div class="card">
-						<div class="card-header msg_head">
-							<div class="d-flex bd-highlight">
-								<div class="img_cont">
-									<img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img">
-									<span class="online_icon"></span>
-								</div>
-								<div class="user_info">
-									<span>Chef Andrew</span>
-									<p>Ask me anything!</p>
-								</div>
-							</div>
-						</div>
-						<div id="messageFormeight" class="card-body msg_card_body">
-						<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">Hello! type the quantity and ingredient name seperated by comma's for Chef Andrew to search!</div></div>'	
-							
-						</div>
-						<div class="card-footer">
-							<form id="messageArea" class="input-group">
-                                <input type="text" id="text" name="msg" placeholder="Type your ingredients here..." autocomplete="off" class="form-control type_msg" required/>
-								<div class="input-group-append">
-									<button type="submit" id="send" class="input-group-text send_btn"><i class="fas fa-location-arrow"></i></button>
-								</div>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 		
 		<script>
 			$(document).ready(function() {
