@@ -115,12 +115,32 @@ def chat():
     input = msg
     return get_Chat_response(input)
 
+@app.route("/share", methods=["GET", "POST"])
+def share_on_whatsapp():
+    global last_reply
+    # Message to be shared
+    message = last_reply
+    
+    # WhatsApp URL with pre-defined message
+    whatsapp_url = f"https://api.whatsapp.com/send?text={message}"
+    
+    return render_template('share.html', whatsapp_url=whatsapp_url)
+
+@app.route('/generate_file')
+def generate_file():
+    global last_reply
+    file_content = last_reply
+    file_content = file_content.replace("*", " ")
+    file_content = file_content.replace("_", " ")
+    file_content = file_content.replace("%0a", "\n")
+    return file_content
 
 def get_Chat_response(text):
-    
+    global last_reply
     device = "cuda:0"
 
-    
+    # <human>: you are a chef, come up with a cooking directions for {}
+    #Recipe with
     prompt = """
     <human>: you are a chef, come up with a cooking directions for {}
     <assistant>:
@@ -147,10 +167,12 @@ def get_Chat_response(text):
     modified_string = modified_string.replace('<human>:', "")
     modified_string = modified_string.replace(text, "")
     modified_string = modified_string.replace('you are a chef, come up with a cooking directions for', "")
+    modified_string = modified_string.replace('Recipe with', "")
     #modified_string = modified_string.replace(". ", ".\n")
     modified_string = modified_string.replace("User", "")
     print ("REPLACED")
     print (modified_string)
+    last_reply = modified_string
     #output = tokenizer.decode(outputs[0], skip_special_tokens=True)
     
     return modified_string

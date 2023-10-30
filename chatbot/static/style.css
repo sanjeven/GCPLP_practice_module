@@ -12,7 +12,15 @@ body,html{
 	margin-bottom: auto;
 }
 .card{
-	height: 500px;
+	/*height: 500px;*/
+	height: 1000px;
+	border-radius: 15px !important;
+	background-color: rgba(0,0,0,0.65) !important;
+}
+
+.share_card{
+	/*height: 500px;*/
+	height: auto;
 	border-radius: 15px !important;
 	background-color: rgba(0,0,0,0.65) !important;
 }
@@ -80,6 +88,14 @@ border-radius: 0 0 15px 15px !important;
 	color: white !important;
 	cursor: pointer;
 }
+.share_btn{
+	border-radius: 15px 15px 15px 15px !important;
+	background-color:  rgba(0,0,0,0.3) !important;
+	border:0 !important;
+	color: white !important;
+	cursor: pointer;
+}
+
 .contacts{
 	list-style: none;
 	padding: 0;
@@ -250,6 +266,10 @@ border-radius: 0 0 15px 15px !important;
   /* Add a color to the active/current link */
   .topnav a.active {
 	background-color: #04AA6D;
+	color: white;
+  }
+
+  .share {
 	color: white;
   }
 

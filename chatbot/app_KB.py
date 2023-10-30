@@ -1,97 +1,27 @@
 from flask import Flask, render_template, request, jsonify
 
 
-#from transformers import AutoModelForCausalLM, AutoTokenizer
-from transformers import AutoTokenizer,AutoModelWithLMHead,AutoModelForCausalLM
-import torch
-
 from flask import Flask, render_template, request, jsonify
 
+from chatterbot import ChatBot
+from chatterbot.trainers import ListTrainer,ChatterBotCorpusTrainer
 
-#from transformers import AutoModelForCausalLM, AutoTokenizer
-from transformers import AutoTokenizer,AutoModelWithLMHead,AutoModelForCausalLM
-import torch
+import spacy
+from spacy.cli.download import download
+import pandas as pd
+nlp = spacy.load('en_core_web_sm')
 
-from transformers import (
-    AutoConfig,
-    AutoModelForCausalLM,
-    AutoTokenizer,
-    BitsAndBytesConfig
-)
+# -*- coding: utf-8 -*-
+import chatterbot.corpus
+from chatterbot import comparisons
+from chatterbot import response_selection
+from chatterbot import ChatBot
+from chatterbot.comparisons import LevenshteinDistance
+from chatterbot.response_selection import get_first_response
+from chatterbot.trainers import ChatterBotCorpusTrainer
+from chatterbot.trainers import ListTrainer
 
-import json
-import os
-#from pprint import pprint
-#import bitsandbytes as bnb
-import torch
-import torch.nn as nn
-#import transformers
-#from datasets import load_dataset
-#from huggingface_hub import notebook_login
-from peft import (
-    LoraConfig,
-    PeftConfig,
-    PeftModel,
-    get_peft_model,
-    prepare_model_for_kbit_training
-)
-
-#tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-small")
-#model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-small")
-"""
-model_name = 'microsoft/DialoGPT-medium'#'PygmalionAI/pygmalion-6b' #'facebook/blenderbot-400M-distill' #'microsoft/DialoGPT-medium'
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(model_name)
-"""
-
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-
-'''
-model_name = 'microsoft/DialoGPT-medium'#microsoft/DialoGPT-medium'
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForCausalLM.from_pretrained(model_name)
-'''
-
-#PEFT_MODEL = "Sanjeven/chefandrew"
-PEFT_MODEL = "Sanjeven/ChefAndrew_SG"
-
-
-bnb_config = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_use_double_quant=True,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.bfloat16
-)
-
-device_map = {
-    "transformer.word_embeddings": 0,
-    "transformer.word_embeddings_layernorm": 0,
-    "lm_head": "gpu",
-    "transformer.h": 0,
-    "transformer.ln_f": 0,
-}
-
-config = PeftConfig.from_pretrained(PEFT_MODEL)
-model = AutoModelForCausalLM.from_pretrained(
-    config.base_model_name_or_path,
-    return_dict=True,
-    quantization_config=bnb_config,
-    device_map="auto",
-    trust_remote_code=True
-)
-
-tokenizer=AutoTokenizer.from_pretrained(config.base_model_name_or_path)
-tokenizer.pad_token = tokenizer.eos_token
-
-model = PeftModel.from_pretrained(model, PEFT_MODEL)
-
-generation_config = model.generation_config
-generation_config.max_new_tokens = 200
-generation_config.temperature = 0.7
-generation_config.top_p = 0.7
-generation_config.num_return_sequences = 1
-generation_config.pad_token_id = tokenizer.eos_token_id
-generation_config.eos_token_id = tokenizer.eos_token_id
+global last_reply
 
 app = Flask(__name__)
 
@@ -111,69 +41,135 @@ def contact():
 def about():
     return render_template('about.html')
 
+@app.route("/share", methods=["GET", "POST"])
+def share_on_whatsapp():
+    global last_reply
+    # Message to be shared
+    message = last_reply
+    
+    # WhatsApp URL with pre-defined message
+    whatsapp_url = f"https://api.whatsapp.com/send?text={message}"
+    
+    return render_template('share.html', whatsapp_url=whatsapp_url)
+
+@app.route('/generate_file')
+def generate_file():
+    global last_reply
+    file_content = last_reply
+    file_content = file_content.replace("*", " ")
+    file_content = file_content.replace("_", " ")
+    file_content = file_content.replace("%0a", "\n")
+    return file_content
+
 @app.route("/get", methods=["GET", "POST"])
 def chat():
     msg = request.form["msg"]
     input = msg
     return get_Chat_response(input)
 
-
 def get_Chat_response(text):
-    
-    device = "cuda:0"
+    global last_reply
+    #nlp = spacy.load("en_core_web_sm")
+    # Create a new chat bot named Charlie
+    chatbot = ChatBot('Charlie')
 
-    #you are a chef, come up with a cooking directions for 
-    # #combined_ingredients
-    
-    prompt = """
-    <human>:  {}
-    <assistant>:
-    """.format(text)
-    
-    prompt = prompt.strip()
-    
-    #prompt = text
+    trainer = ListTrainer(chatbot)
 
-    encoding = tokenizer(prompt, return_tensors="pt").to(device)
-    with torch.inference_mode():
-        outputs = model.generate(
-            input_ids = encoding.input_ids,
-            attention_mask = encoding.attention_mask,
-            generation_config = generation_config
-        )
+    threshold=0
+    #question = "fish"
+    #question = "what does Conversational AI refer to?"
 
-    print ("ORIGINAL")
-    print(tokenizer.decode(outputs[0], skip_special_tokens=True))
-    output = (tokenizer.decode(outputs[0], skip_special_tokens=True)).strip()
-    print ("OUTPUT STRIPPED")
-    print (output)
-    modified_string = output.replace('<assistant>:', "")
-    modified_string = modified_string.replace('<human>:', "")
-    modified_string = modified_string.replace(text, "")
-    modified_string = modified_string.replace('you are a chef, come up with a cooking directions for', "")
-    #modified_string = modified_string.replace(". ", ".\n")
-    modified_string = modified_string.replace("User", "")
-    print ("REPLACED")
-    print (modified_string)
-    #output = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    response = get_answer(covid_faq_chatbot, text, threshold)
+    #trainer = ChatterBotCorpusTrainer(chatbot)
     
-    return modified_string
-    # Let's chat for 5 lines
+    #trainer.train('C:\\Users\\sanje\\OneDrive\\Documents\\GIT\\GCPLP_practice_module\\GCPLP_practice_module\\chatbot\\covid.yml')
+    
     """
-    for step in range(5):
-        # encode the new user input, add the eos_token and return a tensor in Pytorch
-        new_user_input_ids = tokenizer.encode(str(text) + tokenizer.eos_token, return_tensors='pt')
+    # Load data from CSV
+    df = pd.read_csv('testforkb.csv')
 
-        # append the new user input tokens to the chat history
-        bot_input_ids = torch.cat([chat_history_ids, new_user_input_ids], dim=-1) if step > 0 else new_user_input_ids
+    # Convert the DataFrame to a list of dictionaries
+    custom_data = df.to_dict(orient='records')
 
-        # generated a response while limiting the total chat history to 1000 tokens, 
-        chat_history_ids = model.generate(bot_input_ids, max_length=1000, pad_token_id=tokenizer.eos_token_id)
+    trainer = ListTrainer(chatbot)
 
-        # pretty print last ouput tokens from bot
-        return tokenizer.decode(chat_history_ids[:, bot_input_ids.shape[-1]:][0], skip_special_tokens=True)
-    """
+    # Train the chatbot using the custom data
+    trainer.train(custom_data)
     
+    response = str(chatbot.get_response(text))
+    print (response)
+    """
+    last_reply = response
+    last_reply = last_reply.replace("<b>", "*")
+    last_reply = last_reply.replace("</b>", "*")
+    last_reply = last_reply.replace("<u>", "_")
+    last_reply = last_reply.replace("</u>", "_") 
+    last_reply = last_reply.replace("<br>", "%0a")
+    multi_cal= 'hi'
+    return response
+
+def faq_chatbot_initialize(chatbot_name, threshold=0.9, excel_path= 'C:\\Users\\sanje\\data\\testforkb.xlsx', worksheet_name='Recipe'):
+    covid_faq_chatbot = ChatBot(
+        chatbot_name,
+        logic_adapters=[
+            {
+                "import_path": "chatterbot.logic.BestMatch",
+                "statement_comparison_function": LevenshteinDistance,
+                "response_selection_method": get_first_response,
+                "maximum_similarity_threshold": threshold
+            }
+        ],
+        preprocessors=[
+            'chatterbot.preprocessors.clean_whitespace'
+        ],
+        read_only=True,
+    )
+    trainer = ListTrainer(covid_faq_chatbot)
+    #trainer.train("chatterbot.corpus.english")
+    # read questions and answers
+    data = pd.read_excel(excel_path, sheet_name=worksheet_name, engine='openpyxl')
+    question = data.get('Ingredients')
+    answer = data.get('Recipe')
+
+    #for i in range(0, 3):
+    #    print('[Q]', question[i], '\n[A]', answer[i], '\n\n')
+
+    # Iteratively adding the question and answer
+    train_list = []
+    for i in range(len(question)):
+        train_list.append(question[i])
+        train_list.append(answer[i])
+    # train the faq
+    trainer.train(train_list)
+    #trainer.export_for_training('covid.yml')
+    print("was here")
+    return covid_faq_chatbot
+
+def get_answer(faq_chatbot, question, threshold):  # let's get a response to our input
+    # try suggested corpora to find best fit. If first corpus < theshold, try another.
+    # avoid random responses confidence 0
+    response = faq_chatbot.get_response(question)
+    if  response.confidence < threshold:  # not a good answer, look elsewhere
+        #response = nlp_chatbot.get_response(question)
+        print(response)
+        print(response.confidence)
+        response = 'We do not have such a combination in our corpus. Remove some ingredients and try again.'
+    else:
+        print(response)
+        print(response.confidence)
+        response = response.serialize()['text']
+        response = response.replace("splt","<br>")
+        print (response)
+    return response
+#import logginglogging.basicConfig(level=logging.INFO)    # Enable info level logging
+
     
 if __name__ == '__main__':
+    data_path = 'data/'
+    excel_name =  'C:\\Users\\sanje\\data\\testforkb.xlsx'
+    worksheet_name = 'Recipe'
+
+    print ("train")
+    covid_faq_chatbot = faq_chatbot_initialize("Recipe Bot", excel_path=excel_name, worksheet_name=worksheet_name)
+
     app.run()

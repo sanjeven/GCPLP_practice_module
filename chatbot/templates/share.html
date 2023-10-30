@@ -11,7 +11,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}"/>
 		<div class="topnav">
-			<a href="{{ url_for('home') }}" class="active" >Home</a>
+			<a href="{{ url_for('home') }}">Home</a>
 			<a  href="{{ url_for('about') }}">About</a>
 			<a href="{{ url_for('contact') }}" href="#contact">Contact</a>
 		</div>
@@ -19,10 +19,10 @@
 	
 	
 	<body>
-		<div class="container-fluid h-100">
+        <div class="container-fluid h-100">
 			<div class="row justify-content-center h-100">		
 				<div class="col-md-8 col-xl-6 chat">
-					<div class="card">
+					<div class="share_card">
 						<div class="card-header msg_head">
 							<div class="d-flex bd-highlight">
 								<div class="img_cont">
@@ -31,21 +31,15 @@
 								</div>
 								<div class="user_info">
 									<span>Chef Andrew</span>
-									<p>Ask me anything!</p>
 								</div>
 							</div>
 						</div>
 						<div id="messageFormeight" class="card-body msg_card_body">
-						<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">Hello! type the ingredient name seperated by comma's for Chef Andrew to search!</div></div>'	
-							
+                        <div class="d-flex justify-content-center mb-4">              
+                            <a href="{{ whatsapp_url }}" class="share_btn"><img src="{{ url_for("static", filename="WhatsApp.png") }}" class="rounded-circle user_img_msg"></a>
+                            <button onclick="downloadFile()" class="share_btn"><img src="{{ url_for("static", filename="download.png") }}" class="rounded-circle user_img_msg"></button>
 						</div>
-						<div class="card-footer">
-							<form id="messageArea" class="input-group">
-                                <input type="text" id="text" name="msg" placeholder="Type your ingredients here..." autocomplete="off" class="form-control type_msg" required/>
-								<div class="input-group-append">
-									<button type="submit" id="send" class="input-group-text send_btn"><i class="fas fa-location-arrow"></i></button>
-								</div>
-							</form>				
+						<div class="card-footer">			
 						</div>
 					</div>
 				</div>
@@ -53,6 +47,19 @@
 		</div>
 		
 		<script>
+
+            function downloadFile() {
+                fetch('/generate_file')
+                    .then(response => response.text())
+                    .then(content => {
+                        var blob = new Blob([content], { type: 'text/plain' });
+                        var link = document.createElement('a');
+                        link.href = window.URL.createObjectURL(blob);
+                        link.download = 'Recipe.txt';
+                        link.click();
+                    });
+            }
+            
 			$(document).ready(function() {
 				$("#messageArea").on("submit", function(event) {
 					const date = new Date();
@@ -63,8 +70,6 @@
 
 					var userHtml = '<div class="d-flex justify-content-end mb-4"><div class="msg_cotainer_send">' + rawText + '<span class="msg_time_send">'+ str_time + '</span></div><!--<div class="img_cont_msg"><img src="https://i.ibb.co/d5b84Xw/Untitled-design.png" class="rounded-circle user_img_msg"></div>--></div>';
 					
-					//var userHtml = rawText 
-
 					$("#text").val("");
 					$("#messageFormeight").append(userHtml);
 
@@ -75,12 +80,7 @@
 						type: "POST",
 						url: "/get",
 					}).done(function(data) {
-						var lines = data.split(/\d+\./).filter(Boolean);
-						//var botHtml = lines;
-						var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div> <a href="{{ url_for("share_on_whatsapp") }}" target="_blank" class="btn"><div class="img_cont_msg"><img src="{{ url_for("static", filename="forward.png") }}" class="rounded-circle user_img_msg"></div></a>';
-						//var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div> <a href="{{ url_for("share_on_whatsapp") }}" class="btn btn-success">Share on WhatsApp</a>';
-						//var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div>';
-						
+						var botHtml = '<div class="d-flex justify-content-start mb-4"><div class="img_cont_msg"><img src="{{ url_for('static', filename='chef.jpg') }}" class="rounded-circle user_img_msg"></div><div class="msg_cotainer">' + data + '<span class="msg_time">' + str_time + '</span></div></div>';
 						$("#messageFormeight").append($.parseHTML(botHtml));
 					});
 					event.preventDefault();
