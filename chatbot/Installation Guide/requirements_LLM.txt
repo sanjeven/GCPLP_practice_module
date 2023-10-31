@@ -1,0 +1,10 @@
+pip install -Uqqq pip
+pip install -qqq bitsandbytes==0.39.0
+pip install -qqq torch==2.0.1
+pip install -qqq -U git+https://github.com/huggingface/transformers.git@e03a9cc
+pip install -qqq -U git+https://github.com/huggingface/peft.git@42a184f
+pip install -qqq -U git+https://github.com/huggingface/accelerate.git@c9fbb71
+pip install -qqq datasets==2.12.0
+pip install -qqq loralib==0.1.1
+pip install -qqq einops==0.6.1
+pip install flask
