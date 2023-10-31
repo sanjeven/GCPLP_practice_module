@@ -51,6 +51,16 @@ border-radius: 0 0 15px 15px !important;
 	border:0 !important;
 	color:white !important;
 }
+
+.aboutnote{
+
+	color:white !important;
+}
+
+.aboutheader{
+	font-size: 40px;
+	color:white !important;
+}
 .search:focus{
 	 box-shadow:none !important;
    outline:0px !important;
